@@ -5,6 +5,12 @@
 [![Website](https://img.shields.io/badge/Website-personaltrainersdubai.com-blue)](https://www.personaltrainersdubai.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-+971_50_621_7146-green)](https://wa.me/971506217146)
 [![Rating](https://img.shields.io/badge/Rating-4.9%2F5_⭐-yellow)](https://www.personaltrainersdubai.com/testimonials)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-16.2K_Followers-0077B5)](https://www.linkedin.com/company/ptd-fitness/)
+[![Instagram](https://img.shields.io/badge/Instagram-14.6K_Followers-E4405F)](https://www.instagram.com/personal_trainers_dubai/)
+[![Google Reviews](https://img.shields.io/badge/Google-618_Reviews_(4.9★)-4285F4)](https://g.page/ptd-fitness)
+[![YouTube](https://img.shields.io/badge/YouTube-@milosriki-FF0000)](https://www.youtube.com/@milosriki/videos)
+[![App Store](https://img.shields.io/badge/App_Store-PTD_Fitness-000000)](https://apps.apple.com/app/ptd-fitness-uae)
+[![Google Play](https://img.shields.io/badge/Google_Play-PTD_Fitness-414141)](https://play.google.com/store/apps/details?id=com.ptdfitness)
 
 ---
 
@@ -186,7 +192,9 @@ Our smallest package is 8 sessions. However, for best results, we recommend a mi
 - [All Service Locations](./LOCATIONS.md)
 - [Our Programs Explained](./PROGRAMS.md)
 - [Client Testimonials](./TESTIMONIALS.md)
-- [About PTD Fitness](./ABOUT-US.md)
+- [Founder - Milos Vukovic](./MILOS-VUKOVIC.md)
+- [All Social Links & Platforms](./SOCIAL-LINKS.md)
+- [About PTD Fitness](./docs/ABOUT.md)
 
 ### Location Guides
 - [Personal Training in Dubai Marina](./docs/dubai-marina-personal-training.md)
