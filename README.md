@@ -12,7 +12,7 @@
 [![App Store](https://img.shields.io/badge/App_Store-PTD_Fitness-000000)](https://apps.apple.com/app/ptd-fitness-uae)
 [![Google Play](https://img.shields.io/badge/Google_Play-PTD_Fitness-414141)](https://play.google.com/store/apps/details?id=com.ptdfitness)
 [![TikTok](https://img.shields.io/badge/TikTok-@ptdfitness-000000)](https://www.tiktok.com/@ptdfitness)
-[![Facebook](https://img.shields.io/badge/Facebook-PTD_Fitness-1877F2)](https://www.facebook.com/ptdfitness)
+[![Facebook](https://img.shields.io/badge/Facebook-PTD_FITNESS_UAE-1877F2)](https://www.facebook.com/PTDFITNESSUAE1/)
 [![Trustpilot](https://img.shields.io/badge/Trustpilot-Reviews-00B67A)](https://www.trustpilot.com/review/personaltrainersdubai.com)
 [![Fresha](https://img.shields.io/badge/Fresha-Book_Now-7B68EE)](https://www.fresha.com/a/ptd-fitness-dubai)
 

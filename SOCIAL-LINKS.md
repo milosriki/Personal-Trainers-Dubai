@@ -66,10 +66,15 @@ Fitness tips, client testimonials, and training insights from PTD Fitness founde
 
 Short-form fitness content, quick tips, and transformation highlights.
 
-### Facebook
-**[PTD Fitness on Facebook](https://www.facebook.com/ptdfitness)**
+### Facebook - PTD FITNESS UAE (Main Page)
+**[PTD FITNESS UAE on Facebook](https://www.facebook.com/PTDFITNESSUAE1/)**
 
-Community updates, client success stories, and fitness motivation.
+Our main Facebook page with community updates, client success stories, and fitness motivation.
+
+### Facebook - Personal Trainers Dubai
+**[Personal Trainers Dubai on Facebook](https://www.facebook.com/personaltrainersdubai/)**
+
+Our secondary Facebook page focused on personal training services in Dubai.
 
 ---
 
@@ -144,7 +149,8 @@ Career opportunities at PTD Fitness in Dubai and Abu Dhabi.
 | Instagram | [@milosvukovicriki](https://www.instagram.com/milosvukovicriki/) | Founder |
 | YouTube | [@milosriki](https://www.youtube.com/@milosriki/videos) | Video content |
 | TikTok | [@ptdfitness](https://www.tiktok.com/@ptdfitness) | Short videos |
-| Facebook | [PTD Fitness](https://www.facebook.com/ptdfitness) | Community |
+| Facebook | [PTD FITNESS UAE](https://www.facebook.com/PTDFITNESSUAE1/) | Main page |
+| Facebook | [Personal Trainers Dubai](https://www.facebook.com/personaltrainersdubai/) | Secondary page |
 | Google | [PTD FITNESS](https://g.page/ptd-fitness) | 618 reviews (4.9★) |
 | Trustpilot | [Reviews](https://www.trustpilot.com/review/personaltrainersdubai.com) | Independent reviews |
 | Fresha | [Book Now](https://www.fresha.com/a/ptd-fitness-dubai) | Online booking |
