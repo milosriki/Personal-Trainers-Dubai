@@ -1,6 +1,6 @@
 # Personal Trainers Dubai & Abu Dhabi | PTD Fitness
 
-> **Dubai's #1 At-Home Personal Training Service** — 11,732+ successful transformations, 600+ 5-star reviews, Master's degree certified coaches. We bring the gym to you.
+> **Dubai's #1 Personal Training at Your Location** — 11,732+ successful transformations, 600+ 5-star reviews, Master's degree certified coaches. We bring the gym to you.
 
 [![Website](https://img.shields.io/badge/Website-personaltrainersdubai.com-blue)](https://www.personaltrainersdubai.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-+971_50_621_7146-green)](https://wa.me/971506217146)
@@ -232,7 +232,7 @@ Our smallest package is 8 sessions. However, for best results, we recommend a mi
 
 ## 🚀 Get Started Today
 
-**PTD Fitness** is Dubai & Abu Dhabi's #1 at-home personal training service.
+**PTD Fitness** is Dubai & Abu Dhabi's #1 personal training at your location.
 
 - ✅ 11,732+ successful transformations
 - ✅ 600+ 5-star reviews (4.9/5 rating)

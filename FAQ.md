@@ -467,7 +467,7 @@ Yes. We provide:
 
 ## Ready to Transform Your Body?
 
-**PTD Fitness** is Dubai & Abu Dhabi's #1 at-home personal training service.
+**PTD Fitness** is Dubai & Abu Dhabi's #1 personal training at your location service.
 
 - ✅ 11,732+ successful transformations
 - ✅ 600+ 5-star reviews (4.9/5 rating)

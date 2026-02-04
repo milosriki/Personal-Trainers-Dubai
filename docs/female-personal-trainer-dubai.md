@@ -1,6 +1,6 @@
 # Female Personal Trainer in Dubai: Private Training for Women
 
-> **Looking for a female personal trainer in Dubai?** PTD Fitness offers certified female coaches who provide private, at-home training for women across Dubai, Abu Dhabi, and Sharjah. Train in complete privacy with a trainer who understands your unique needs.
+> **Looking for a female personal trainer in Dubai?** PTD Fitness offers certified female coaches who provide private, training at your location for women across Dubai, Abu Dhabi, and Sharjah. Train in complete privacy with a trainer who understands your unique needs.
 
 [![Book Free Session](https://img.shields.io/badge/Book_Free_Session-PTD_Fitness-green)](https://www.personaltrainersdubai.com/enquire)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-+971_50_621_7146-25D366)](https://wa.me/971506217146)
@@ -70,7 +70,7 @@ Staying active during pregnancy supports both mother and baby. PTD Fitness train
 
 ---
 
-## Private At-Home Training
+## Private Training at Your Location
 
 All PTD Fitness sessions take place in your home, office, or private location. This provides complete privacy and eliminates the discomfort some women feel exercising in public gyms.
 

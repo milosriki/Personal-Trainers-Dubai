@@ -1,6 +1,6 @@
 # Personal Training Locations | Dubai & Abu Dhabi | PTD Fitness
 
-> **At-home personal training across 40+ areas in Dubai and Abu Dhabi.** Our trainers come to you with all equipment. [Find your area →](https://www.personaltrainersdubai.com/enquire)
+> **Personal training at your location across 40+ areas in Dubai and Abu Dhabi.** Our trainers come to you with all equipment. [Find your area →](https://www.personaltrainersdubai.com/enquire)
 
 ---
 
@@ -100,7 +100,7 @@
 
 ---
 
-## How At-Home Training Works
+## How Training at Your Location Works
 
 ### What We Bring
 
@@ -168,7 +168,7 @@ For visitors or residents in hotels:
 
 ### Dubai Marina Personal Training
 
-Dubai Marina is one of our most active areas. The high-rise lifestyle makes at-home training ideal for residents who want to avoid crowded building gyms.
+Dubai Marina is one of our most active areas. The high-rise lifestyle makes training at your location ideal for residents who want to avoid crowded building gyms.
 
 **Popular training spots:**
 - Apartment living rooms
@@ -232,7 +232,7 @@ For areas outside our standard coverage, we may be able to accommodate with an a
 
 ---
 
-## Why Choose At-Home Training?
+## Why Choose Training at Your Location?
 
 | Benefit | Details |
 |---------|---------|
@@ -261,7 +261,7 @@ For areas outside our standard coverage, we may be able to accommodate with an a
 
 ## About PTD Fitness
 
-**PTD Fitness** is Dubai and Abu Dhabi's leading at-home personal training service.
+**PTD Fitness** is Dubai and Abu Dhabi's leading personal training at your location service.
 
 | Proof Point | Details |
 |-------------|---------|

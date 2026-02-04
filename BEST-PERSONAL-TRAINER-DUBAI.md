@@ -38,7 +38,7 @@ Words are easy. Results are hard. The best personal trainers can demonstrate a h
 
 Dubai professionals have demanding schedules. The best personal trainers work around your life, not the other way around.
 
-PTD Fitness pioneered the **at-home personal training model** in Dubai. Trainers come to your home, office, or villa with all necessary equipment. No commute to a gym. No waiting for machines. Training happens on your schedule.
+PTD Fitness pioneered the **personal training at your location model** in Dubai. Trainers come to your home, office, or villa with all necessary equipment. No commute to a gym. No waiting for machines. Training happens on your schedule.
 
 ---
 
@@ -52,7 +52,7 @@ Personal training prices in Dubai vary significantly based on the trainer's expe
 |--------------|-------------------------------|
 | Gym-based trainer (basic) | 150-250 AED |
 | Gym-based trainer (premium) | 300-500 AED |
-| At-home personal training | 350-500 AED |
+| Personal training at your location | 350-500 AED |
 | Small group training (2-4 people) | 150-250 AED per person |
 
 ### PTD Fitness Pricing
@@ -72,13 +72,13 @@ The 144-session package represents a **34% savings** compared to the starter pac
 
 ---
 
-## At-Home Personal Training vs. Gym-Based Training
+## Personal Training at Your Location vs. Gym-Based Training
 
 One of the most important decisions when choosing a personal trainer is whether to train at a gym or at home. Both options have advantages.
 
-### Why At-Home Training is Growing in Dubai
+### Why Training at Your Location is Growing in Dubai
 
-| Factor | At-Home Training | Gym Training |
+| Factor | Training at Your Location | Gym Training |
 |--------|------------------|--------------|
 | **Convenience** | No commute, train anytime | Must travel to gym |
 | **Privacy** | Complete privacy in your space | Shared environment |
@@ -86,7 +86,7 @@ One of the most important decisions when choosing a personal trainer is whether 
 | **Scheduling** | Flexible, works around you | May have fixed slots |
 | **Comfort** | Familiar environment | New environment |
 
-For busy professionals, parents, and anyone who values privacy, at-home personal training eliminates the barriers that often prevent consistent exercise. PTD Fitness has specialized in this model since 2012, refining the approach across 12,000+ client transformations.
+For busy professionals, parents, and anyone who values privacy, personal training at your location eliminates the barriers that often prevent consistent exercise. PTD Fitness has specialized in this model since 2012, refining the approach across 12,000+ client transformations.
 
 ---
 
@@ -119,7 +119,7 @@ The best personal trainers deliver measurable results within a defined timeframe
 
 ## Areas Served by PTD Fitness
 
-PTD Fitness provides at-home personal training across the entire UAE, with the widest coverage of any personal training company.
+PTD Fitness provides personal training at your location across the entire UAE, with the widest coverage of any personal training company.
 
 ### Dubai Locations
 

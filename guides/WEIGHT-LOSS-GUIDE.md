@@ -88,7 +88,7 @@ Extreme calorie restriction leads to:
 - Early morning sessions (5-7 AM)
 - Evening sessions after sunset
 - Swimming and water-based exercise
-- At-home training (PTD Fitness specialty)
+- Training at your location (PTD Fitness specialty)
 
 ### Challenge 2: Brunch Culture
 
@@ -228,7 +228,7 @@ This is why PTD Fitness emphasizes resistance training in all programs.
 | Saturday | Cardio or Sports |
 | Sunday | Rest |
 
-### At-Home Workout Options
+### Workout at Your Location Options
 
 No gym? No problem. Effective exercises with minimal equipment:
 
@@ -240,7 +240,7 @@ No gym? No problem. Effective exercises with minimal equipment:
 - Mountain climbers
 - Dumbbell exercises
 
-**PTD Fitness trainers bring all equipment to your home, making at-home training as effective as gym training.**
+**PTD Fitness trainers bring all equipment to your home, making training at your location as effective as gym training.**
 
 ---
 
@@ -342,7 +342,7 @@ Our signature program is designed around this timeline:
 
 | Feature | Benefit |
 |---------|---------|
-| At-home training | No commute, no excuses |
+| Training at your location | No commute, no excuses |
 | All equipment provided | No gym membership needed |
 | Master's degree coaches | Highest qualifications |
 | Proven results | 11,732+ transformations |
@@ -373,7 +373,7 @@ Our signature program is designed around this timeline:
 
 ## About PTD Fitness
 
-**PTD Fitness** is Dubai and Abu Dhabi's premier at-home personal training service, specializing in body transformation.
+**PTD Fitness** is Dubai and Abu Dhabi's premier personal training at your location service, specializing in body transformation.
 
 | Proof Point | Details |
 |-------------|---------|

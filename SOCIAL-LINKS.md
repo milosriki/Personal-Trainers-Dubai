@@ -42,7 +42,7 @@ We help busy professional men and women get the health & body of their dreams. D
 ### Instagram - PTD Fitness UAE (8.1K+ Followers)
 **[@ptdfitnessdxb](https://www.instagram.com/ptdfitnessdxb/)**
 
-PTD Fitness | At-Home Personal Training – UAE. Fat loss. Strength. Energy. Confidence, Pain Free. Serving Dubai & Abu Dhabi.
+PTD Fitness | Personal Training at Your Location – UAE. Fat loss. Strength. Energy. Confidence, Pain Free. Serving Dubai & Abu Dhabi.
 
 ### Instagram - Milos Vukovic (Founder)
 **[@milosvukovicriki](https://www.instagram.com/milosvukovicriki/)**

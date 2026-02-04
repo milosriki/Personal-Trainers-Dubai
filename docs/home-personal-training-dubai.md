@@ -1,6 +1,6 @@
 # Home Personal Training in Dubai: The Complete Guide
 
-> **Want a personal trainer who comes to your home in Dubai?** PTD Fitness pioneered at-home personal training in the UAE, bringing certified coaches and professional equipment directly to your villa, apartment, or office since 2012.
+> **Want a personal trainer who comes to your home in Dubai?** PTD Fitness pioneered personal training at your location in the UAE, bringing certified coaches and professional equipment directly to your villa, apartment, or office since 2012.
 
 [![Book Free Session](https://img.shields.io/badge/Book_Free_Session-PTD_Fitness-green)](https://www.personaltrainersdubai.com/enquire)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-+971_50_621_7146-25D366)](https://wa.me/971506217146)
@@ -143,4 +143,4 @@ Starting home personal training with PTD Fitness is straightforward:
 
 ---
 
-*PTD Fitness — Dubai's Pioneer in At-Home Personal Training Since 2012*
+*PTD Fitness — Dubai's Pioneer in Personal Training at Your Location Since 2012*

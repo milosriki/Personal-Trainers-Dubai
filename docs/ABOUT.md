@@ -1,4 +1,4 @@
-# About PTD Fitness | Dubai's #1 At-Home Personal Training
+# About PTD Fitness | Dubai's #1 Personal Training at Your Location
 
 > **Premium personal training that comes to you.** Since 2015, we've helped 11,732+ clients transform their bodies across Dubai and Abu Dhabi. [Start your transformation →](https://www.personaltrainersdubai.com/enquire)
 
@@ -10,7 +10,7 @@
 
 We recognized that the traditional gym model doesn't work for everyone. Long commutes, crowded facilities, and inflexible schedules prevent many people from achieving their fitness goals. Our solution: bring the trainer, equipment, and expertise directly to you.
 
-Since 2015, we've grown from a single trainer to Dubai's leading at-home personal training service, with a team of Master's degree certified coaches serving clients across 40+ areas.
+Since 2015, we've grown from a single trainer to Dubai's leading personal training at your location service, with a team of Master's degree certified coaches serving clients across 40+ areas.
 
 ---
 
@@ -161,7 +161,7 @@ Yas Island, Saadiyat Island, Al Reem Island, Al Maryah Island, Corniche, Khalifa
 ## Client Success Stories
 
 ### Ahmed, Business Bay
-> "Lost 18kg in 12 weeks. The at-home training made it possible with my busy schedule as an executive."
+> "Lost 18kg in 12 weeks. The training at your location made it possible with my busy schedule as an executive."
 
 ### Sarah, Palm Jumeirah
 > "Finally found a trainer who understands what women want. Down 2 dress sizes and feeling confident."

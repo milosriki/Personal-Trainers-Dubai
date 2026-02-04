@@ -196,7 +196,7 @@
 | **Founder** | Milos Vukovic - World Karate Champion, Master's Degree |
 | **Team** | 100+ certified personal trainers |
 | **Method** | SuperHuman Over 40 Program - personalized for your age |
-| **Convenience** | At-home training - we come to you with all equipment |
+| **Convenience** | Training at your location - we come to you with all equipment |
 | **Support** | Daily accountability, nutrition guidance, motivation |
 | **Track Record** | 11,732+ clients transformed, 600+ 5-star reviews |
 

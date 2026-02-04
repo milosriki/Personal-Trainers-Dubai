@@ -188,7 +188,7 @@ Milos and his team of 100+ certified coaches are ready to help you achieve the b
 **What You Get:**
 - ✅ Free initial assessment
 - ✅ Personalized 12-week program
-- ✅ At-home training (we come to you)
+- ✅ Training at your location (we come to you)
 - ✅ All equipment provided
 - ✅ Daily nutrition guidance
 - ✅ Accountability and support

@@ -208,7 +208,7 @@ For those recovering from injury:
 | Feature | Details |
 |---------|---------|
 | **Personal Trainer** | Master's degree certified coach |
-| **At-Home Training** | We come to your location |
+| **Training at Your Location** | We come to your location |
 | **All Equipment** | Everything needed, brought to you |
 | **Custom Programming** | Tailored to your goals |
 | **Nutrition Guidance** | Personalized eating plan |
@@ -248,7 +248,7 @@ We'll assess your goals, fitness level, and lifestyle to recommend the perfect p
 
 ### Men's Transformation Results
 
-> "Lost 18kg in 12 weeks. The at-home training made it possible with my busy schedule." — *Ahmed, Business Bay*
+> "Lost 18kg in 12 weeks. The training at your location made it possible with my busy schedule." — *Ahmed, Business Bay*
 
 ### Women's Training Results
 
