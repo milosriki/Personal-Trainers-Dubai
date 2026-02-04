@@ -30,7 +30,7 @@
 | **Firas** | Lost 20 kg in 2 months | "The journey has been amazing. Easy, entertaining." |
 | **Edward** | Best shape at 48 | "At the age of forty eight, I never thought I'd feel this good again." |
 
-## Key Video Statistics for SEO
+## Key Video Statistics
 
 - **Total Transformations:** 12,000+
 - **Client Age Range:** 40-55+

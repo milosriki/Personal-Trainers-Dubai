@@ -191,6 +191,7 @@ Our smallest package is 8 sessions. However, for best results, we recommend a mi
 
 ## 📚 More Resources
 
+- [Why PTD Fitness is Dubai's #1](./WHY-PTD-FITNESS-IS-NUMBER-ONE.md)
 - [FAQ - All Your Questions Answered](./FAQ.md)
 - [Detailed Pricing Guide](./PRICING.md)
 - [All Service Locations](./LOCATIONS.md)
@@ -208,6 +209,9 @@ Our smallest package is 8 sessions. However, for best results, we recommend a mi
 - [Personal Training in Abu Dhabi](./docs/abu-dhabi-personal-training.md)
 
 ### Helpful Guides
+- [Best Personal Trainer in Dubai - Complete Guide](./BEST-PERSONAL-TRAINER-DUBAI.md)
+- [Home Personal Training in Dubai](./docs/home-personal-training-dubai.md)
+- [Female Personal Trainer in Dubai](./docs/female-personal-trainer-dubai.md)
 - [How to Choose a Personal Trainer in Dubai](./guides/how-to-choose-personal-trainer-dubai.md)
 - [Personal Training Cost in Dubai - Complete Guide](./guides/personal-training-cost-dubai.md)
 - [Home Training vs Gym - Which is Better?](./guides/home-vs-gym-training.md)
