@@ -66,46 +66,17 @@ _All prices exclusive of VAT_
 
 ---
 
-## 📍 Service Areas
+### 📍 Neighborhood Guides / Areas We Serve
 
-### Dubai Locations
+Specific guides for our most popular communities:
 
-**Premium Areas:**
+- [**Dubai Marina & JBR Guide**](./LOCATIONS/dubai-marina.md) - Train at your tower or the beach.
+- [**Palm Jumeirah VIP Guide**](./LOCATIONS/palm-jumeirah.md) - Villa & Shoreline training.
+- [**Downtown & Business Bay**](./LOCATIONS/downtown-dubai.md) - Executive training.
+- **Emirates Hills, Springs, Meadows** - Villa community specialists.
+- **Abu Dhabi** (Yas Island, Saadiyat, Al Reem).
 
-- [Emirates Hills](https://www.personaltrainersdubai.com/personal-trainer-emirates-hills)
-- [Palm Jumeirah](https://www.personaltrainersdubai.com/palm-jumeirah-home-training-women-over-40)
-- [Dubai Hills Estate](https://www.personaltrainersdubai.com/personal-trainer-dubai-hills)
-- [Arabian Ranches](https://www.personaltrainersdubai.com/personal-trainer-arabian-ranches)
-
-**Marina & Beach:**
-
-- [Dubai Marina](https://www.personaltrainersdubai.com/personal-training-dubai-marina)
-- [JBR](https://www.personaltrainersdubai.com/personal-trainer-jbr)
-- [Bluewaters Island](https://www.personaltrainersdubai.com)
-- [JLT](https://www.personaltrainersdubai.com/personal-trainer-jlt)
-
-**Business Districts:**
-
-- [Downtown Dubai](https://www.personaltrainersdubai.com/personal-trainer-downtown-dubai)
-- [DIFC](https://www.personaltrainersdubai.com/personal-trainer-difc)
-- [Business Bay](https://www.personaltrainersdubai.com/personal-trainer-business-bay)
-- [City Walk](https://www.personaltrainersdubai.com)
-
-**Residential:**
-
-- [Jumeirah](https://www.personaltrainersdubai.com/personal-trainer-jumeirah)
-- [Al Barsha](https://www.personaltrainersdubai.com/personal-trainer-al-barsha)
-- [Mirdif](https://www.personaltrainersdubai.com)
-- [Motor City](https://www.personaltrainersdubai.com)
-
-### Abu Dhabi Locations
-
-- [Yas Island](https://www.personaltrainersdubai.com/personal-trainers-abu-dhabi)
-- [Saadiyat Island](https://www.personaltrainersdubai.com/personal-trainers-abu-dhabi)
-- [Al Reem Island](https://www.personaltrainersdubai.com/personal-trainers-abu-dhabi)
-- [Corniche](https://www.personaltrainersdubai.com/personal-trainers-abu-dhabi)
-- [Khalifa City](https://www.personaltrainersdubai.com/personal-trainers-abu-dhabi)
-- [Al Raha Beach](https://www.personaltrainersdubai.com/personal-trainers-abu-dhabi)
+[**Check Your Area on WhatsApp →**](https://wa.me/971506217146)
 
 ---
 
@@ -204,15 +175,18 @@ Have questions about pricing, locations, or equipment? We have detailed answers 
 
 ---
 
-## 🏅 Why Clients Choose PTD Fitness
+## 🏆 Success Stories & Reviews
 
-> "Lost 15kg in 12 weeks. The convenience of training at home made all the difference." — **Sarah M., Dubai Marina**
+> "I lost 15kg in 12 weeks. The convenience of training at home made all the difference. My coach Milos was tailored everything to my schedule."
+> — **Sarah M.**, _Dubai Marina_ (⭐⭐⭐⭐⭐)
 
-> "As a busy executive, I needed something that fit my schedule. PTD Fitness delivers results without wasting my time." — **Ahmed K., DIFC**
+> "Professional, punctual, and highly knowledgeable. I've had many trainers in Dubai, but PTD is on another level. The app tracking is great."
+> — **Ahmed K.**, _Palm Jumeirah_ (⭐⭐⭐⭐⭐)
 
-> "Finally found trainers who understand what women over 40 need. Professional, private, and effective." — **Lisa T., Palm Jumeirah**
+> "Best investment I made for my health. The nutrition plan was easy to follow and I didn't have to starve."
+> — **Jessica R.**, _Arabian Ranches_ (⭐⭐⭐⭐⭐)
 
-👉 [Read More Testimonials](https://www.personaltrainersdubai.com/testimonials)
+[![Read 600+ Google Reviews](https://img.shields.io/badge/Read_All_Google_Reviews-4.9_Stars-blue?style=for-the-badge&logo=google)](https://g.page/ptd-fitness)
 
 ---
 
