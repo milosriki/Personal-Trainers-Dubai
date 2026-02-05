@@ -153,6 +153,7 @@ Have questions about pricing, locations, or equipment? We have detailed answers 
 
 **Quick Links:**
 
+- [✨ Expert Answers (FAQ)](./ANSWERS.md)
 - [Pricing Guide](./PRICING.md)
 - [Service Areas](./LOCATIONS.md)
 - [Our Programs](./PROGRAMS.md)
