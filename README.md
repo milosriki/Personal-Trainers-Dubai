@@ -68,8 +68,6 @@ _All prices exclusive of VAT_
 
 ### 📍 Neighborhood Guides / Areas We Serve
 
-### 📍 Neighborhood Guides / Areas We Serve
-
 Specific guides for our most popular communities:
 
 | **Dubai Luxury**                                                  | **Abu Dhabi**                                         | **Services**                                                               |
@@ -81,8 +79,6 @@ Specific guides for our most popular communities:
 | [**Arabian Ranches**](./LOCATIONS/arabian-ranches.md)             |                                                       |                                                                            |
 | [**Downtown & Business Bay**](./LOCATIONS/downtown-dubai.md)      |                                                       |                                                                            |
 | [**Jumeirah Golf Estates**](./LOCATIONS/jumeirah-golf-estates.md) |                                                       |                                                                            |
-
-[**Check Your Area on WhatsApp →**](https://wa.me/971506217146)
 
 [**Check Your Area on WhatsApp →**](https://wa.me/971506217146)
 
