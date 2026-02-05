@@ -133,6 +133,13 @@ Have questions about pricing, locations, or equipment? We have detailed answers 
 - [Service Areas](./LOCATIONS.md)
 - [Our Programs](./PROGRAMS.md)
 
+### 🧮 Viral Tools & Guides
+
+- [**💰 PT Cost Calculator**](./TOOLS/cost-calculator.md) - Are you overpaying?
+- [**🧬 Fitness Personality Quiz**](./TOOLS/transformation-quiz.md) - Find your training style.
+- [**🌙 Ramadan Fitness Guide**](./GUIDES/ramadan-fitness-dubai.md) - Fasting & Gains.
+- [**🚫 The Gym Membership Truth**](./GUIDES/gym-membership-vs-home-training.md) - Why home training wins.
+
 ---
 
 ## 📞 Contact Us
