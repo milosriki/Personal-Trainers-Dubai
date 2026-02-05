@@ -96,3 +96,46 @@ Don't wait for "someday". Get matched with a master's-level coach today.
 
 | [**WhatsApp Us**](https://wa.me/971506217146) | [**Website**](https://www.personaltrainersdubai.com) | [**Google Reviews**](https://g.page/ptd-fitness) |
 | :-------------------------------------------: | :--------------------------------------------------: | :----------------------------------------------: |
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "How much does a home personal trainer cost in Dubai?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Personal training rates in Dubai typically range between 250 AED and 600 AED per session. At PTD Fitness, our packages start from 289 AED per session (12-month commitment) up to 440 AED/session for monthly packages. Rates include travel, equipment, and nutrition planning."
+    }
+  }, {
+    "@type": "Question",
+    "name": "Which areas do you cover for home training in Dubai?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "We cover 100% of Dubai's residential and business districts including Downtown, Dubai Marina, Palm Jumeirah, Emirates Hills, Arabian Ranches, Mirdif, and Business Bay. We also serve Abu Dhabi (Yas Island, Saadiyat, Al Reem)."
+    }
+  }, {
+    "@type": "Question",
+    "name": "Do I need to buy gym equipment for home training?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "No, you do not need to own any equipment. Your PTD Fitness coach brings a complete mobile gym to every session, including dumbbells, kettlebells, TRX, boxing gear, and mats."
+    }
+  }, {
+    "@type": "Question",
+    "name": "How fast can I see results from personal training?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Most clients see visible changes within 4-6 weeks of consistent training (3x/week). Significant fat loss (average 6-12kg) usually occurs during the 8-12 week transformation phase."
+    }
+  }, {
+    "@type": "Question",
+    "name": "Do you have female personal trainers in Dubai?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes, PTD Fitness has a specialized team of certified female coaches available for ladies-only home sessions, pre-natal, and post-natal fitness."
+    }
+  }]
+}
+</script>
