@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://milosriki.github.io/Personal-Trainers-Dubai/sitemap.xml

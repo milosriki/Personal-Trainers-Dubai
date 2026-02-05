@@ -7,7 +7,7 @@
 [![Rating](https://img.shields.io/badge/Rating-4.9%2F5_⭐-yellow)](https://www.personaltrainersdubai.com/testimonials)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-16.2K_Followers-0077B5)](https://www.linkedin.com/company/ptd-fitness/)
 [![Instagram](https://img.shields.io/badge/Instagram-14.6K_Followers-E4405F)](https://www.instagram.com/personal_trainers_dubai/)
-[![Google Reviews](https://img.shields.io/badge/Google-618_Reviews_(4.9★)-4285F4)](https://g.page/ptd-fitness)
+[![Google Reviews](<https://img.shields.io/badge/Google-618_Reviews_(4.9★)-4285F4>)](https://g.page/ptd-fitness)
 [![YouTube](https://img.shields.io/badge/YouTube-@milosriki-FF0000)](https://www.youtube.com/@milosriki/videos)
 [![App Store](https://img.shields.io/badge/App_Store-PTD_Fitness-000000)](https://apps.apple.com/app/ptd-fitness-uae)
 [![Google Play](https://img.shields.io/badge/Google_Play-PTD_Fitness-414141)](https://play.google.com/store/apps/details?id=com.ptdfitness)
@@ -24,13 +24,13 @@
 
 ### What Makes Us Different
 
-| Feature | PTD Fitness | Traditional Gyms |
-|---------|-------------|------------------|
-| Location | Your home, office, or villa | Fixed gym location |
-| Equipment | We bring everything | You use shared equipment |
-| Coaching | 1-on-1 with Master's degree coaches | Group classes or solo |
-| Schedule | Flexible, works around you | Fixed class times |
-| Results | 12-week guaranteed transformation | No accountability |
+| Feature   | PTD Fitness                         | Traditional Gyms         |
+| --------- | ----------------------------------- | ------------------------ |
+| Location  | Your home, office, or villa         | Fixed gym location       |
+| Equipment | We bring everything                 | You use shared equipment |
+| Coaching  | 1-on-1 with Master's degree coaches | Group classes or solo    |
+| Schedule  | Flexible, works around you          | Fixed class times        |
+| Results   | 12-week guaranteed transformation   | No accountability        |
 
 ---
 
@@ -48,17 +48,17 @@
 
 PTD Fitness offers transparent, competitive pricing for premium personal training:
 
-| Package | Per Session | Total | Validity |
-|---------|-------------|-------|----------|
-| 8 Sessions (Subscription) | 440 AED | 3,520 AED | 30 days |
-| 12 Sessions (Subscription) | 368 AED | 4,416 AED | 30 days |
-| 12 Sessions (Pay-as-you-go) | 409 AED | 4,908 AED | 45 days |
-| 24 Sessions | 375 AED | 9,000 AED | 90 days |
-| 36 Sessions | 341 AED | 12,276 AED | 120 days |
-| 72 Sessions | 319 AED | 22,968 AED | 180 days |
-| 144 Sessions | 289 AED | 41,616 AED | 365 days |
+| Package                     | Per Session | Total      | Validity |
+| --------------------------- | ----------- | ---------- | -------- |
+| 8 Sessions (Subscription)   | 440 AED     | 3,520 AED  | 30 days  |
+| 12 Sessions (Subscription)  | 368 AED     | 4,416 AED  | 30 days  |
+| 12 Sessions (Pay-as-you-go) | 409 AED     | 4,908 AED  | 45 days  |
+| 24 Sessions                 | 375 AED     | 9,000 AED  | 90 days  |
+| 36 Sessions                 | 341 AED     | 12,276 AED | 120 days |
+| 72 Sessions                 | 319 AED     | 22,968 AED | 180 days |
+| 144 Sessions                | 289 AED     | 41,616 AED | 365 days |
 
-*All prices exclusive of VAT*
+_All prices exclusive of VAT_
 
 **Best Value:** 144 sessions at 289 AED/session (34% savings vs. starter package)
 
@@ -71,24 +71,28 @@ PTD Fitness offers transparent, competitive pricing for premium personal trainin
 ### Dubai Locations
 
 **Premium Areas:**
+
 - [Emirates Hills](https://www.personaltrainersdubai.com/personal-trainer-emirates-hills)
 - [Palm Jumeirah](https://www.personaltrainersdubai.com/palm-jumeirah-home-training-women-over-40)
 - [Dubai Hills Estate](https://www.personaltrainersdubai.com/personal-trainer-dubai-hills)
 - [Arabian Ranches](https://www.personaltrainersdubai.com/personal-trainer-arabian-ranches)
 
 **Marina & Beach:**
+
 - [Dubai Marina](https://www.personaltrainersdubai.com/personal-training-dubai-marina)
 - [JBR](https://www.personaltrainersdubai.com/personal-trainer-jbr)
 - [Bluewaters Island](https://www.personaltrainersdubai.com)
 - [JLT](https://www.personaltrainersdubai.com/personal-trainer-jlt)
 
 **Business Districts:**
+
 - [Downtown Dubai](https://www.personaltrainersdubai.com/personal-trainer-downtown-dubai)
 - [DIFC](https://www.personaltrainersdubai.com/personal-trainer-difc)
 - [Business Bay](https://www.personaltrainersdubai.com/personal-trainer-business-bay)
 - [City Walk](https://www.personaltrainersdubai.com)
 
 **Residential:**
+
 - [Jumeirah](https://www.personaltrainersdubai.com/personal-trainer-jumeirah)
 - [Al Barsha](https://www.personaltrainersdubai.com/personal-trainer-al-barsha)
 - [Mirdif](https://www.personaltrainersdubai.com)
@@ -112,6 +116,7 @@ PTD Fitness offers transparent, competitive pricing for premium personal trainin
 Our signature program designed for busy professionals who want real, lasting results.
 
 **What's Included:**
+
 - Personalized training plan
 - Nutrition guidance
 - Weekly progress tracking
@@ -140,39 +145,17 @@ Age-appropriate training focused on strength, mobility, and sustainable fitness.
 
 ---
 
-## ❓ Frequently Asked Questions
+### Frequently Asked Questions
 
-### How much does a personal trainer cost in Dubai?
+Have questions about pricing, locations, or equipment? We have detailed answers to everything you need to know.
 
-Personal training in Dubai typically ranges from 250-600 AED per session. PTD Fitness offers packages starting at **289 AED per session** for long-term commitments, with flexible options from 440 AED/session for smaller packages. Our pricing includes all equipment and travel to your location.
+👉 [**Read the Full FAQ**](./FAQ.md)
 
-### Do I need any equipment at home?
+**Quick Links:**
 
-**No.** PTD Fitness trainers bring all necessary equipment to every session. This includes weights, resistance bands, mats, and any specialized equipment needed for your program.
-
-### Which areas do you cover in Dubai?
-
-We cover all major areas in Dubai including Emirates Hills, Palm Jumeirah, Dubai Marina, JBR, DIFC, Business Bay, Downtown Dubai, Jumeirah, JLT, Dubai Hills, Arabian Ranches, Al Barsha, and more. We also serve Abu Dhabi including Yas Island, Saadiyat, and Al Reem Island.
-
-### Do you have female personal trainers?
-
-**Yes.** We have certified female trainers available for clients who prefer training with a female coach. This is particularly popular for our women's programs.
-
-### How quickly will I see results?
-
-Most clients see noticeable changes within **4-6 weeks** of consistent training. Our 12-week transformation program is designed for complete body recomposition with visible, lasting results.
-
-### Can I train at my office?
-
-**Yes.** Many of our executive clients train at their office. We bring compact equipment and can work in conference rooms, private offices, or building gyms.
-
-### What qualifications do your trainers have?
-
-All PTD Fitness trainers hold **Master's degrees** in sports science or related fields, along with internationally recognized certifications. They undergo continuous professional development.
-
-### Is there a minimum commitment?
-
-Our smallest package is 8 sessions. However, for best results, we recommend a minimum 12-week commitment (24-36 sessions) to achieve lasting transformation.
+- [Pricing Guide](./PRICING.md)
+- [Service Areas](./LOCATIONS.md)
+- [Our Programs](./PROGRAMS.md)
 
 ---
 
@@ -180,11 +163,11 @@ Our smallest package is 8 sessions. However, for best results, we recommend a mi
 
 **Ready to transform your body?**
 
-| Method | Contact |
-|--------|---------|
-| 📱 WhatsApp | [+971 50 621 7146](https://wa.me/971506217146) |
-| 📧 Email | milos@personaltrainersdubai.com |
-| 🌐 Website | [personaltrainersdubai.com](https://www.personaltrainersdubai.com) |
+| Method         | Contact                                                            |
+| -------------- | ------------------------------------------------------------------ |
+| 📱 WhatsApp    | [+971 50 621 7146](https://wa.me/971506217146)                     |
+| 📧 Email       | milos@personaltrainersdubai.com                                    |
+| 🌐 Website     | [personaltrainersdubai.com](https://www.personaltrainersdubai.com) |
 | 📍 Book Online | [Free Consultation](https://www.personaltrainersdubai.com/enquire) |
 
 ---
@@ -202,6 +185,7 @@ Our smallest package is 8 sessions. However, for best results, we recommend a mi
 - [About PTD Fitness](./docs/ABOUT.md)
 
 ### Location Guides
+
 - [Personal Training in Dubai Marina](./docs/dubai-marina-personal-training.md)
 - [Personal Training in Palm Jumeirah](./docs/palm-jumeirah-personal-training.md)
 - [Personal Training in Business Bay](./docs/business-bay-personal-training.md)
@@ -209,6 +193,7 @@ Our smallest package is 8 sessions. However, for best results, we recommend a mi
 - [Personal Training in Abu Dhabi](./docs/abu-dhabi-personal-training.md)
 
 ### Helpful Guides
+
 - [Best Personal Trainer in Dubai - Complete Guide](./BEST-PERSONAL-TRAINER-DUBAI.md)
 - [Home Personal Training in Dubai](./docs/home-personal-training-dubai.md)
 - [Female Personal Trainer in Dubai](./docs/female-personal-trainer-dubai.md)
@@ -248,4 +233,4 @@ Our smallest package is 8 sessions. However, for best results, we recommend a mi
 
 ---
 
-*© 2026 PTD Fitness. All rights reserved.*
+_© 2026 PTD Fitness. All rights reserved._
