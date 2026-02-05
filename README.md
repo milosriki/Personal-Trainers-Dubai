@@ -68,13 +68,21 @@ _All prices exclusive of VAT_
 
 ### 📍 Neighborhood Guides / Areas We Serve
 
+### 📍 Neighborhood Guides / Areas We Serve
+
 Specific guides for our most popular communities:
 
-- [**Dubai Marina & JBR Guide**](./LOCATIONS/dubai-marina.md) - Train at your tower or the beach.
-- [**Palm Jumeirah VIP Guide**](./LOCATIONS/palm-jumeirah.md) - Villa & Shoreline training.
-- [**Downtown & Business Bay**](./LOCATIONS/downtown-dubai.md) - Executive training.
-- **Emirates Hills, Springs, Meadows** - Villa community specialists.
-- **Abu Dhabi** (Yas Island, Saadiyat, Al Reem).
+| **Dubai Luxury**                                                  | **Abu Dhabi**                                         | **Services**                                                               |
+| :---------------------------------------------------------------- | :---------------------------------------------------- | :------------------------------------------------------------------------- |
+| [**Dubai Marina & JBR**](./LOCATIONS/dubai-marina.md)             | [**Saadiyat Island**](./LOCATIONS/saadiyat-island.md) | [**Female Personal Trainer**](./SERVICES/female-personal-trainer-dubai.md) |
+| [**Palm Jumeirah VIP**](./LOCATIONS/palm-jumeirah.md)             | [**Yas Island**](./LOCATIONS/yas-island.md)           | [**Boxing Training**](./SERVICES/boxing-training-dubai.md)                 |
+| [**Emirates Hills**](./LOCATIONS/emirates-hills.md)               |                                                       | [**Post-Natal Fitness**](./SERVICES/post-natal-fitness.md)                 |
+| [**Dubai Hills Estate**](./LOCATIONS/dubai-hills-estate.md)       |                                                       | [**12-Week Transformation**](./workouts/12-week-phase-1.md)                |
+| [**Arabian Ranches**](./LOCATIONS/arabian-ranches.md)             |                                                       |                                                                            |
+| [**Downtown & Business Bay**](./LOCATIONS/downtown-dubai.md)      |                                                       |                                                                            |
+| [**Jumeirah Golf Estates**](./LOCATIONS/jumeirah-golf-estates.md) |                                                       |                                                                            |
+
+[**Check Your Area on WhatsApp →**](https://wa.me/971506217146)
 
 [**Check Your Area on WhatsApp →**](https://wa.me/971506217146)
 
