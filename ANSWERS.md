@@ -42,7 +42,7 @@ Our team of 40+ trainers is strategically located to ensure availability in:
 
 We also serve **Abu Dhabi** (Yas Island, Saadiyat, Al Reem).
 
-[**Check Your Location Availability →**](https://wa.me/971506217146)
+[**Check Availability on WhatsApp →**](https://wa.me/971506217146)
 
 ---
 
@@ -72,7 +72,7 @@ _Note: If you have a home gym, we are happy to use your equipment and supplement
 
 > "I lost 15kg in 12 weeks. The convenience of training at home made all the difference." — _Sarah M., Dubai Marina_
 
-[**Start Your Transformation →**](https://www.personaltrainersdubai.com/enquire)
+[**Inquire about 12-Week Transformation →**](https://www.personaltrainersdubai.com/enquire)
 
 ---
 
@@ -86,7 +86,7 @@ We understand the cultural and personal need for privacy. Our female trainers ar
 - Experienced in pre-natal and post-natal fitness.
 - Experts in toning & weight loss for women.
 
-[**Book a Female Trainer →**](https://wa.me/971506217146)
+[**Book a Female Trainer on WhatsApp →**](https://wa.me/971506217146)
 
 ---
 
