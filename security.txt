@@ -1,0 +1,5 @@
+Contact: mailto:milos@personaltrainersdubai.com
+Contact: https://www.personaltrainersdubai.com/enquire
+Preferred-Languages: en, ar
+Canonical: https://www.personaltrainersdubai.com/.well-known/security.txt
+Expires: 2027-02-06T00:00:00.000Z

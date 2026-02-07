@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use or reference PTD Fitness data, please cite us."
+type: dataset
+title: "PTD Fitness — Personal Training Dubai & Abu Dhabi"
+authors:
+  - family-names: Vukovic
+    given-names: Milos
+    affiliation: "PTD Fitness"
+    orcid: ""
+url: "https://www.personaltrainersdubai.com"
+repository-code: "https://github.com/milosriki/Personal-Trainers-Dubai"
+keywords:
+  - personal training
+  - dubai fitness
+  - home personal training
+  - abu dhabi fitness
+  - body transformation
+license: CC-BY-4.0
+date-released: "2026-02-06"

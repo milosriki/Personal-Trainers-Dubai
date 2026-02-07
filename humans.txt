@@ -1,0 +1,20 @@
+/* TEAM */
+Founder: Milos Vukovic
+Role: CEO & Head Coach
+Location: Dubai, UAE
+Contact: milos [at] personaltrainersdubai.com
+LinkedIn: linkedin.com/in/milosvukovicdubai
+
+/* COMPANY */
+Name: PTD Fitness
+Site: personaltrainersdubai.com
+Founded: 2014
+Location: Dubai & Abu Dhabi, UAE
+Industry: Health & Fitness
+Clients: 11,732+
+Rating: 4.9/5 (600+ reviews)
+
+/* SITE */
+Platform: GitHub Pages
+Language: English, Arabic
+Standards: HTML5, Schema.org

@@ -1,7 +1,24 @@
-title: Personal Trainers Dubai | PTD Fitness
+title: Personal Trainers Dubai & Abu Dhabi | PTD Fitness
 description: >-
-  Dubai's #1 Personal Training service. Certified coaches at your location.
-  Get fit at home with 12-week transformation programs.
+  Dubai's #1 Personal Training at Your Location. 11,732+ clients transformed,
+  600+ five-star reviews, Master's degree certified coaches. We bring the gym to you.
+url: "https://www.personaltrainersdubai.com"
+baseurl: ""
 theme: jekyll-theme-minimal
+lang: en
+author:
+  name: Milos Vukovic
+  email: milos@personaltrainersdubai.com
+  url: https://www.personaltrainersdubai.com
+social:
+  name: PTD Fitness
+  links:
+    - https://www.linkedin.com/company/ptd-fitness/
+    - https://www.instagram.com/personal_trainers_dubai/
+    - https://www.facebook.com/PTDFITNESSUAE1/
+    - https://www.youtube.com/@milosriki
+    - https://www.tiktok.com/@ptdfitness
+    - https://www.trustpilot.com/review/personaltrainersdubai.com
 plugins:
   - jekyll-seo-tag
+  - jekyll-sitemap

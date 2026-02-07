@@ -1,0 +1,12 @@
+{
+  "name": "PTD Fitness — Personal Trainers Dubai",
+  "short_name": "PTD Fitness",
+  "description": "Dubai's #1 Personal Training at Your Location. 11,732+ clients transformed. Master's degree coaches.",
+  "start_url": "https://www.personaltrainersdubai.com",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1a1a2e",
+  "lang": "en",
+  "categories": ["fitness", "health", "sports"],
+  "icons": []
+}
