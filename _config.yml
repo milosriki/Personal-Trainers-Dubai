@@ -1,7 +1,47 @@
 title: Personal Trainers Dubai | PTD Fitness
 description: >-
-  Dubai's #1 Personal Training service. Certified coaches at your location.
-  Get fit at home with 12-week transformation programs.
+  Dubai's #1 Personal Training service. Certified Master's degree coaches at your location.
+  Get fit at home with 12-week transformation programs. 11,732+ transformations, 4.9/5 rating.
+url: "https://milosriki.github.io"
+baseurl: "/Personal-Trainers-Dubai"
+canonical_url: "https://www.personaltrainersdubai.com"
 theme: jekyll-theme-minimal
+
 plugins:
   - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+  - jemoji
+
+# SEO Settings
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+      image: "https://www.personaltrainersdubai.com/images/ptd-fitness-cover.jpg"
+      canonical: "https://www.personaltrainersdubai.com"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:title.html
+include: [_includes]
+
+# Exclude from processing
+exclude:
+  - "*.md"
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
+  - .git/
+  - .gitignore
+
+# Jekyll SEO Tag config
+twitter:
+  username: "ptdfitness"
+  card: "summary_large_image"
+og:
+  type: "website"
+  locale: "en_AE"
