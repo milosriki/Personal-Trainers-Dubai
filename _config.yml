@@ -31,7 +31,6 @@ include: [_includes]
 
 # Exclude from processing
 exclude:
-  - "*.md"
   - Gemfile
   - Gemfile.lock
   - vendor/
