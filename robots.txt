@@ -1,0 +1,41 @@
+# PTD Fitness Robots.txt - SEO Optimized
+# Last Updated: April 2026
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://milosriki.github.io/Personal-Trainers-Dubai/sitemap.xml
+
+# Crawl-delay for polite crawling
+Crawl-delay: 1
+
+# Block AI training crawlers (optional - uncomment if desired)
+# User-agent: GPTBot
+# Disallow: /
+
+# Block common AI crawlers
+User-agent: CCBot
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+# Allow all search engines
+User-agent: *
+Allow: /
+
+# Host directive
+Host: https://www.personaltrainersdubai.com
