@@ -1,3 +1,14 @@
+---
+layout: default
+title: "Personal Training Pricing Dubai & Abu Dhabi | PTD Fitness"
+description: "Transparent AED pricing for at-home personal training in Dubai. 7 package tiers from 289 to 440 AED per session."
+last_modified_at: 2026-05-14
+robots: "index,follow"
+sitemap:
+  changefreq: monthly
+  priority: 0.8
+---
+
 # Personal Training Pricing Dubai & Abu Dhabi | PTD Fitness
 
 > **Transparent pricing for premium personal training at your location.** No hidden fees. All equipment included. [Get a custom quote →](https://www.personaltrainersdubai.com/enquire)

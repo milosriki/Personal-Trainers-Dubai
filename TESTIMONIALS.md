@@ -1,3 +1,14 @@
+---
+layout: default
+title: "PTD Fitness Testimonials — Real Client Transformations Dubai"
+description: "Real PTD Fitness client transformations: Edwin -22kg, Dr. Rida -18kg postpartum, Alessandro -30kg in 6 months."
+last_modified_at: 2026-05-14
+robots: "index,follow"
+sitemap:
+  changefreq: monthly
+  priority: 0.8
+---
+
 # PTD Fitness Client Testimonials & Success Stories
 
 > **Looking for the best personal trainer in Dubai?** These are real results from real clients who transformed their bodies with [PTD Fitness](https://www.personaltrainersdubai.com). Every testimonial includes video proof.

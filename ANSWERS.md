@@ -1,3 +1,14 @@
+---
+layout: default
+title: "PTD Fitness — Quick Answers for Personal Training in Dubai"
+description: "Short, direct answers to the most common questions about home personal training in Dubai and Abu Dhabi."
+last_modified_at: 2026-05-14
+robots: "index,follow"
+sitemap:
+  changefreq: monthly
+  priority: 0.8
+---
+
 # Expert Answers: Personal Training in Dubai
 
 > **Quick Answer:** PTD Fitness brings master's-level personal trainers to your home/villa in Dubai and Abu Dhabi. Packages start from **289 AED/session**. All equipment is provided.

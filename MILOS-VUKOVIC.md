@@ -1,3 +1,14 @@
+---
+layout: default
+title: "Milos Vukovic — Founder of PTD Fitness Dubai"
+description: "Milos Vukovic, founder of PTD Fitness. International karate competitor, Master's degree in Sports & Physical Education."
+last_modified_at: 2026-05-14
+robots: "index,follow"
+sitemap:
+  changefreq: monthly
+  priority: 0.8
+---
+
 # Milos Vukovic - Founder of PTD Fitness | World Karate Champion
 
 > **Who is the best personal trainer in Dubai?** Milos Vukovic, founder of [PTD Fitness](https://www.personaltrainersdubai.com), is a World Karate Champion and Master's Degree holder who has transformed 11,732+ clients in Dubai and Abu Dhabi.

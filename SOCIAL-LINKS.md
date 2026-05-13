@@ -1,3 +1,14 @@
+---
+layout: default
+title: "PTD Fitness Social Links & Verified Profiles"
+description: "Verified PTD Fitness social media, Google Business Profile, Trustpilot, Fresha, and mobile app links."
+last_modified_at: 2026-05-14
+robots: "noindex,follow"
+sitemap:
+  changefreq: monthly
+  priority: 0.8
+---
+
 # PTD Fitness - Official Links & Social Media
 
 > **PTD Fitness** is Dubai and Abu Dhabi's #1 personal training company with 11,732+ client transformations, 618 Google reviews (4.9★), and 16.2K+ LinkedIn followers. Connect with us on any platform below.

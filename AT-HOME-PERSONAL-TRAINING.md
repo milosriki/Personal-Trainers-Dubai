@@ -1,3 +1,14 @@
+---
+layout: default
+title: "At-Home Personal Training Dubai | PTD Fitness"
+description: "Complete guide to at-home personal training in Dubai. How sessions work, equipment provided, neighborhoods served, pricing."
+last_modified_at: 2026-05-14
+robots: "index,follow"
+sitemap:
+  changefreq: monthly
+  priority: 0.8
+---
+
 # At-Home Personal Training Dubai & Abu Dhabi
 
 ## The Future of Fitness is at Home

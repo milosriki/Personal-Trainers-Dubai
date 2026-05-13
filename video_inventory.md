@@ -1,3 +1,14 @@
+---
+layout: default
+title: "Video Inventory"
+description: "Internal video inventory."
+last_modified_at: 2026-05-14
+robots: "noindex,follow"
+sitemap:
+  changefreq: monthly
+  priority: 0.8
+---
+
 # PTD Fitness Video Asset Inventory
 
 ## YouTube Videos

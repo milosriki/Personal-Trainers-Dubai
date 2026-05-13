@@ -1,3 +1,14 @@
+---
+layout: default
+title: "Personal Training Programs Dubai | PTD Fitness 12-Week Transformation"
+description: "PTD Fitness programs: 12-week body transformation, executive fitness, weight loss, women's training, post-natal recovery."
+last_modified_at: 2026-05-14
+robots: "index,follow"
+sitemap:
+  changefreq: monthly
+  priority: 0.8
+---
+
 # Personal Training Programs Dubai | PTD Fitness
 
 > **Proven transformation programs for every goal.** 12-week body transformations, executive fitness, women's training, and more. [Find your program →](https://www.personaltrainersdubai.com/enquire)

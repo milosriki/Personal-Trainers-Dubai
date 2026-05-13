@@ -1,3 +1,14 @@
+---
+layout: default
+title: "Personal Trainer Dubai Guide 2026 | Complete Buyer's Reference"
+description: "Complete 2026 guide to hiring a personal trainer in Dubai: costs, qualifications, what to ask, common red flags."
+last_modified_at: 2026-05-14
+robots: "index,follow"
+sitemap:
+  changefreq: monthly
+  priority: 0.8
+---
+
 # Personal Trainer Dubai | PTD Fitness UAE
 
 **Best Personal Trainer in Dubai** - Premium at-home personal training for busy professionals.
