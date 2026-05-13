@@ -1,0 +1,55 @@
+# Muscle Building Program in Dubai
+
+> Build lean muscle and transform your physique with PTD Fitness's expert muscle building programs
+
+## Why Choose PTD Fitness for Muscle Building in Dubai?
+
+At PTD Fitness, we specialize in science-based muscle building programs designed for Dubai's busy professionals. Our Master's degree certified trainers create personalized hypertrophy programs that deliver real results.
+
+### Our Muscle Building Approach
+
+#### Progressive Overload
+We systematically increase training intensity to ensure continuous muscle growth.
+
+#### Proper Form & Technique
+Our trainers emphasize correct form to maximize muscle engagement and prevent injury.
+
+#### Nutrition Synchronization
+Your nutrition plan is tailored to support muscle growth and recovery.
+
+### What You'll Get
+
+✅ **Personalized Program** - Designed for your body type and goals
+✅ **Expert Coaching** - One-on-one guidance from certified trainers
+✅ **Nutrition Plan** - Macros optimized for muscle growth
+✅ **Progress Tracking** - Weekly measurements and adjustments
+✅ **All Equipment Provided** - We bring everything to your location
+
+## Muscle Building Programs
+
+| Program | Duration | Sessions | Focus |
+|---------|----------|----------|-------|
+| Foundation | 12 weeks | 36 | Strength & Size |
+| Advanced | 16 weeks | 72 | Hypertrophy Peak |
+| Elite | 24 weeks | 144 | Complete Transformation |
+
+### Pricing
+
+| Package | Sessions | Price | Per Session |
+|---------|----------|-------|-------------|
+| Starter | 12 | 4,416 AED | 368 AED |
+| Standard | 24 | 9,000 AED | 375 AED |
+| Elite | 72 | 22,968 AED | 319 AED |
+
+*All prices exclusive of VAT*
+
+## Get Started with Muscle Building
+
+📱 **WhatsApp:** [+971 50 621 7146](https://wa.me/971506217146)
+🌐 **Website:** [personaltrainersdubai.com](https://www.personaltrainersdubai.com)
+
+[**Book Free Consultation**](https://www.personaltrainersdubai.com/enquire)
+
+---
+
+*PTD Fitness - Dubai's #1 Muscle Building Specialists*

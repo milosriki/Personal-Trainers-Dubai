@@ -126,6 +126,12 @@ exclude:
   - .gstack/
   - .code-graph/
   - .github/
+  # Internal strategy / sprint reports — kept in git history, not served
+  - STRATEGY_EXPLAINED.md
+  - WEEK9-SEOsprint-REPORT.md
+  - WEEK13-SEOsprint-REPORT.md
+  - llms-old.txt
+  - llms.txt.bak
 
 plugins:
   - jekyll-seo-tag

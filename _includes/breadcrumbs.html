@@ -1,0 +1,64 @@
+<!-- Breadcrumb Navigation Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://www.personaltrainersdubai.com"
+    }
+    {% if page.breadcrumb %}
+    ,{
+      "@type": "ListItem",
+      "position": 2,
+      "name": "{{ page.breadcrumb }}",
+      "item": "{{ page.url | absolute_url }}"
+    }
+    {% endif %}
+  ]
+}
+</script>
+
+<!-- Breadcrumb HTML -->
+<nav aria-label="Breadcrumb" class="breadcrumb-nav">
+  <ol itemscope itemtype="https://schema.org/BreadcrumbList">
+    <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+      <a itemprop="item" href="https://www.personaltrainersdubai.com">
+        <span itemprop="name">Home</span>
+      </a>
+      <meta itemprop="position" content="1">
+    </li>
+    {% if page.breadcrumb %}
+    <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+      <span itemprop="name">{{ page.breadcrumb }}</span>
+      <meta itemprop="position" content="2">
+    </li>
+    {% endif %}
+  </ol>
+</nav>
+
+<style>
+.breadcrumb-nav ol {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 1rem 0;
+  font-size: 0.85rem;
+}
+.breadcrumb-nav li {
+  display: inline;
+}
+.breadcrumb-nav li:not(:last-child)::after {
+  content: " › ";
+  color: #666;
+}
+.breadcrumb-nav a {
+  color: #0066cc;
+  text-decoration: none;
+}
+.breadcrumb-nav a:hover {
+  text-decoration: underline;
+}
+</style>

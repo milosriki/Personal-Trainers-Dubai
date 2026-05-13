@@ -1,3 +1,10 @@
+---
+title: Frequently Asked Questions | PTD Fitness Dubai
+description: Complete FAQ about personal training in Dubai. Learn about pricing, coverage areas, trainer qualifications, booking, and programs. PTD Fitness answers all your questions.
+layout: page
+breadcrumb: FAQ
+---
+
 # Frequently Asked Questions | PTD Fitness Dubai
 
 > **Complete answers to every question about personal training in Dubai & Abu Dhabi.** Can't find your answer? [Contact us on WhatsApp](https://wa.me/971506217146).
