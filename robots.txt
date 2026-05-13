@@ -1,16 +1,35 @@
+# PTD Fitness — research/AEO satellite
+# Money site: https://www.personaltrainersdubai.com
+# Live URL:   https://resources.personaltrainersdubai.com
+
 User-agent: *
 Allow: /
+Disallow: /SOCIAL-LINKS/
+Disallow: /video_inventory/
 
+# AI search engines — explicitly allowed
 User-agent: GPTBot
 Allow: /
 
 User-agent: ChatGPT-User
 Allow: /
 
+User-agent: OAI-SearchBot
+Allow: /
+
 User-agent: ClaudeBot
 Allow: /
 
+User-agent: Claude-Web
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
 User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
 Allow: /
 
 User-agent: Google-Extended
@@ -34,5 +53,16 @@ Allow: /
 User-agent: Meta-ExternalAgent
 Allow: /
 
-Sitemap: https://www.personaltrainersdubai.com/sitemap.xml
-Sitemap: https://milosriki.github.io/Personal-Trainers-Dubai/sitemap.xml
+User-agent: Amazonbot
+Allow: /
+
+User-agent: DuckAssistBot
+Allow: /
+
+User-agent: YouBot
+Allow: /
+
+User-agent: Diffbot
+Allow: /
+
+Sitemap: https://resources.personaltrainersdubai.com/sitemap.xml

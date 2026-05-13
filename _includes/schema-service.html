@@ -1,0 +1,16 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "@id": "{{ page.url | absolute_url }}#service",
+  "name": "{{ page.service_name | default: page.title }}",
+  "description": "{{ page.description | strip_html | truncatewords: 35 }}",
+  "url": "{{ page.url | absolute_url }}",
+  "provider": { "@id": "{{ site.money_site }}/#organization" },
+  "areaServed": [
+    {"@type": "City", "name": "Dubai"},
+    {"@type": "City", "name": "Abu Dhabi"}
+  ],
+  "category": "{{ page.category | default: 'Personal Training' }}"
+}
+</script>

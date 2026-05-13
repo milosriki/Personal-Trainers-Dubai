@@ -1,24 +1,133 @@
-title: Personal Trainers Dubai & Abu Dhabi | PTD Fitness
+title: "Personal Trainers Dubai & Abu Dhabi | PTD Fitness"
 description: >-
-  Dubai's #1 Personal Training at Your Location. 11,732+ clients transformed,
-  600+ five-star reviews, Master's degree certified coaches. We bring the gym to you.
-url: "https://www.personaltrainersdubai.com"
+  Mobile personal training research hub for Dubai and Abu Dhabi. PTD Fitness brings
+  master's-level coaches to your home, office, or building gym across 14 priority
+  neighborhoods. 11,732+ clients transformed, 600+ Google reviews (4.9 stars).
+url: "https://resources.personaltrainersdubai.com"
 baseurl: ""
 theme: jekyll-theme-minimal
-lang: en
+lang: en-AE
+timezone: Asia/Dubai
+
 author:
   name: Milos Vukovic
   email: milos@personaltrainersdubai.com
   url: https://www.personaltrainersdubai.com
+
+# jekyll-seo-tag reads this for Organization sameAs links.
 social:
   name: PTD Fitness
   links:
     - https://www.linkedin.com/company/ptd-fitness/
     - https://www.instagram.com/personal_trainers_dubai/
+    - https://www.instagram.com/ptdfitnessdxb/
+    - https://www.instagram.com/milosvukovicriki/
     - https://www.facebook.com/PTDFITNESSUAE1/
+    - https://www.facebook.com/personaltrainersdubai/
     - https://www.youtube.com/@milosriki
     - https://www.tiktok.com/@ptdfitness
     - https://www.trustpilot.com/review/personaltrainersdubai.com
+    - https://g.page/ptd-fitness
+    - https://www.fresha.com/a/ptd-fitness-dubai
+    - https://apps.apple.com/app/ptd-fitness-uae
+    - https://play.google.com/store/apps/details?id=com.ptdfitness
+    - https://www.glassdoor.com/Overview/Working-at-PTD-Fitness
+    - https://ae.indeed.com/cmp/Ptd-Fitness
+    - https://www.bayt.com/en/company/ptd-fitness
+
+# Webflow money-site canonical target (used in CTAs + Organization schema)
+money_site: "https://www.personaltrainersdubai.com"
+
+# Single source of truth proof points
+proof:
+  clients_transformed: "11,732+"
+  google_reviews: "600+"
+  google_rating: "4.9"
+  founding_year: "2012"
+  coach_count: "31+"
+  service_areas: 14
+
+# Brand NAP
+brand:
+  legal_name: "PTD Fitness"
+  trading_name: "Personal Trainers Dubai"
+  phone: "+971 56 292 9457"
+  whatsapp_e164: "+971 50 621 7146"
+  whatsapp_wa_me: "971506217146"
+  email: "milos@personaltrainersdubai.com"
+  address_locality: "Dubai"
+  address_region: "Dubai"
+  address_country: "AE"
+  hours: "Mo-Su 05:00-22:00"
+  geo_lat: "25.2048"
+  geo_lng: "55.2708"
+
+permalink: /:title/
+
+collections:
+  locations:
+    output: true
+    permalink: /locations/:name/
+  services:
+    output: true
+    permalink: /services/:name/
+  guides:
+    output: true
+    permalink: /guides/:name/
+  workouts:
+    output: true
+    permalink: /workouts/:name/
+  tools:
+    output: true
+    permalink: /tools/:name/
+
+defaults:
+  - scope: { path: "", type: "pages" }
+    values:
+      layout: default
+      robots: "index,follow"
+  - scope: { path: "", type: "locations" }
+    values:
+      layout: page
+      page_type: location
+      robots: "index,follow"
+  - scope: { path: "", type: "services" }
+    values:
+      layout: page
+      page_type: service
+      robots: "index,follow"
+  - scope: { path: "", type: "guides" }
+    values:
+      layout: page
+      page_type: guide
+      robots: "index,follow"
+  - scope: { path: "video_inventory.md" }
+    values:
+      robots: "noindex,follow"
+  - scope: { path: "SOCIAL-LINKS.md" }
+    values:
+      robots: "noindex,follow"
+
+exclude:
+  - README.md
+  - CITATION.cff
+  - codemeta.json
+  - feed.json
+  - manifest.json
+  - humans.txt
+  - security.txt
+  - LICENSE
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
+  - node_modules/
+  - _unused-sitemap.xml.bak
+  - _private/
+  - .gstack/
+  - .code-graph/
+  - .github/
+
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-redirect-from

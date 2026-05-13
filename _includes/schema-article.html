@@ -1,0 +1,16 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "@id": "{{ page.url | absolute_url }}#article",
+  "headline": "{{ page.title | escape }}",
+  "description": "{{ page.description | default: page.excerpt | strip_html | truncatewords: 30 }}",
+  "url": "{{ page.url | absolute_url }}",
+  "datePublished": "{{ page.date | default: page.last_modified_at | default: '2026-01-01' | date_to_xmlschema }}",
+  "dateModified": "{{ page.last_modified_at | default: site.time | date_to_xmlschema }}",
+  "author": { "@id": "{{ site.url }}/milos-vukovic/#person" },
+  "publisher": { "@id": "{{ site.money_site }}/#organization" },
+  "mainEntityOfPage": "{{ page.url | absolute_url }}",
+  "inLanguage": "en-AE"
+}
+</script>

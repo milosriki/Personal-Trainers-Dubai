@@ -1,0 +1,22 @@
+{% if page.faqs %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "@id": "{{ page.url | absolute_url }}#faqpage",
+  "mainEntity": [
+    {% assign capped = page.faqs | slice: 0, 15 %}
+    {% for faq in capped %}
+    {
+      "@type": "Question",
+      "name": {{ faq.q | jsonify }},
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": {{ faq.a | jsonify }}
+      }
+    }{% unless forloop.last %},{% endunless %}
+    {% endfor %}
+  ]
+}
+</script>
+{% endif %}

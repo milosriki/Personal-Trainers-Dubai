@@ -1,0 +1,47 @@
+name: Build and deploy Jekyll site to gh-pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+# Allow the workflow to push to gh-pages
+permissions:
+  contents: write
+
+concurrency:
+  group: pages-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout main
+        uses: actions/checkout@v4
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.2'
+          bundler-cache: true
+
+      - name: Build Jekyll site
+        env:
+          JEKYLL_ENV: production
+        run: |
+          bundle exec jekyll build --trace
+          # Ensure CNAME is copied into the build output so the custom domain is preserved.
+          if [ -f CNAME ]; then cp CNAME _site/CNAME; fi
+          # .nojekyll on gh-pages tells Pages not to re-run Jekyll on the already-built output.
+          touch _site/.nojekyll
+
+      - name: Deploy _site to gh-pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./_site
+          publish_branch: gh-pages
+          force_orphan: true
+          cname: resources.personaltrainersdubai.com
+          commit_message: "deploy: ${{ github.event.head_commit.message }}"

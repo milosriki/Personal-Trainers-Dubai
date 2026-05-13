@@ -1,0 +1,25 @@
+<!-- Self-canonical SEO meta tags for resources.personaltrainersdubai.com -->
+<!-- jekyll-seo-tag emits the bulk; this include adds explicit overrides + hreflang + geo + robots -->
+
+{% if page.canonical_url %}
+<link rel="canonical" href="{{ page.canonical_url }}">
+{% else %}
+<link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
+{% endif %}
+
+<meta property="og:url" content="{{ page.url | replace:'index.html','' | absolute_url }}">
+<meta property="og:site_name" content="{{ site.title | default: site.brand.legal_name }}">
+<meta property="og:locale" content="en_AE">
+<meta name="twitter:card" content="summary_large_image">
+
+<link rel="alternate" hreflang="en-AE" href="{{ page.url | replace:'index.html','' | absolute_url }}">
+<link rel="alternate" hreflang="x-default" href="{{ page.url | replace:'index.html','' | absolute_url }}">
+
+<meta name="geo.region" content="AE-DU">
+<meta name="geo.placename" content="Dubai">
+<meta name="geo.position" content="{{ site.brand.geo_lat }};{{ site.brand.geo_lng }}">
+<meta name="ICBM" content="{{ site.brand.geo_lat }}, {{ site.brand.geo_lng }}">
+
+<meta name="robots" content="{{ page.robots | default: 'index,follow' }}">
+
+<link rel="preconnect" href="{{ site.money_site }}">

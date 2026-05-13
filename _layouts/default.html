@@ -1,0 +1,37 @@
+{% include head.html %}
+<body class="layout-default">
+  <header class="site-header">
+    <a href="/" rel="home"><strong>PTD Fitness Research Hub</strong></a>
+    <nav>
+      <a href="/locations/">Locations</a>
+      <a href="/services/">Services</a>
+      <a href="/guides/">Guides</a>
+      <a href="/pricing/">Pricing</a>
+      <a href="/faq/">FAQ</a>
+    </nav>
+    <a class="header-cta" href="{{ site.money_site }}/enquire?utm_source=resources&utm_medium=organic&utm_campaign=header" rel="noopener">Free assessment</a>
+  </header>
+
+  <main>
+    {{ content }}
+  </main>
+
+  <footer class="site-footer">
+    <p>
+      <strong>PTD Fitness</strong> — {{ site.proof.clients_transformed }} clients transformed across Dubai and Abu Dhabi.
+      {{ site.proof.google_reviews }} Google reviews ({{ site.proof.google_rating }}★).
+    </p>
+    <p>
+      Money site: <a href="{{ site.money_site }}" rel="noopener">{{ site.money_site | remove: 'https://' }}</a>
+      &nbsp;|&nbsp; WhatsApp: <a href="https://wa.me/{{ site.brand.whatsapp_wa_me }}">{{ site.brand.whatsapp_e164 }}</a>
+      &nbsp;|&nbsp; Phone: <a href="tel:{{ site.brand.phone | remove: ' ' }}">{{ site.brand.phone }}</a>
+      &nbsp;|&nbsp; Email: <a href="mailto:{{ site.brand.email }}">{{ site.brand.email }}</a>
+    </p>
+    <p>
+      Public research and FAQ hub. Booking and current programs on the
+      <a href="{{ site.money_site }}?utm_source=resources&utm_medium=organic&utm_campaign=footer">main site</a>.
+    </p>
+    <p><em>© {{ site.time | date: '%Y' }} PTD Fitness. All rights reserved.</em></p>
+  </footer>
+</body>
+</html>

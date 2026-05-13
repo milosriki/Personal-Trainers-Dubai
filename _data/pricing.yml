@@ -1,0 +1,72 @@
+vat_rate: 0.05
+vat_display: "exclusive"
+currency: "AED"
+
+packages:
+  - id: starter-8
+    sessions: 8
+    type: "Subscription"
+    per_session_aed: 440
+    total_aed: 3520
+    validity_days: 30
+    label: "Starter"
+    is_subscription: true
+
+  - id: monthly-12
+    sessions: 12
+    type: "Subscription"
+    per_session_aed: 368
+    total_aed: 4416
+    validity_days: 30
+    label: "Monthly Subscription"
+    is_subscription: true
+
+  - id: payg-12
+    sessions: 12
+    type: "Pay-as-you-go"
+    per_session_aed: 409
+    total_aed: 4908
+    validity_days: 45
+    label: "Flexible PAYG"
+    is_subscription: false
+
+  - id: payg-24
+    sessions: 24
+    type: "Pay-as-you-go"
+    per_session_aed: 375
+    total_aed: 9000
+    validity_days: 90
+    label: "Most Popular: 12-Week Transformation"
+    is_subscription: false
+
+  - id: payg-36
+    sessions: 36
+    type: "Pay-as-you-go"
+    per_session_aed: 341
+    total_aed: 12276
+    validity_days: 120
+    label: "Quarterly Commitment"
+    is_subscription: false
+
+  - id: payg-72
+    sessions: 72
+    type: "Pay-as-you-go"
+    per_session_aed: 319
+    total_aed: 22968
+    validity_days: 180
+    label: "Six-Month Lifestyle"
+    is_subscription: false
+
+  - id: payg-144
+    sessions: 144
+    type: "Pay-as-you-go"
+    per_session_aed: 289
+    total_aed: 41616
+    validity_days: 365
+    label: "Best Value: Annual Commitment"
+    is_subscription: false
+
+headline:
+  per_session_low: 289
+  per_session_high: 440
+  range_text: "289–440 AED per session"

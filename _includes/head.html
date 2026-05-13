@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: 'en-AE' }}">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  {% seo %}
+  {% include seo-meta.html %}
+
+  {% include schema-organization.html %}
+  {% if page.page_type %}{% include schema-breadcrumb.html %}{% endif %}
+  {% if page.page_type == 'location' %}{% include schema-professional-service.html %}{% endif %}
+  {% if page.page_type == 'service' %}{% include schema-service.html %}{% endif %}
+  {% if page.page_type == 'guide' %}{% include schema-article.html %}{% endif %}
+  {% if page.faqs %}{% include schema-faqpage.html %}{% endif %}
+
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>

@@ -1,0 +1,24 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ProfessionalService",
+  "@id": "{{ page.url | absolute_url }}#service",
+  "name": "Personal Training in {{ page.location_name | default: page.title }} | PTD Fitness",
+  "description": "{{ page.description | default: page.excerpt | strip_html | truncatewords: 30 }}",
+  "url": "{{ page.url | absolute_url }}",
+  "provider": { "@id": "{{ site.money_site }}/#organization" },
+  "areaServed": {
+    "@type": "Place",
+    "name": "{{ page.location_name | default: page.title }}",
+    "containedInPlace": {
+      "@type": "City",
+      "name": "{{ page.parent_city | default: 'Dubai' }}",
+      "containedInPlace": {
+        "@type": "Country",
+        "name": "United Arab Emirates"
+      }
+    }
+  },
+  "serviceType": "Mobile Personal Training"
+}
+</script>

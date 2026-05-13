@@ -1,0 +1,99 @@
+locations:
+  - slug: dubai-marina
+    name: "Dubai Marina"
+    city: "Dubai"
+    tier: "marina_beach"
+    money_site_url: "https://www.personaltrainersdubai.com/personal-training-dubai-marina"
+    female_trainers: true
+    landmarks: ["Marina Walk", "JBR Beach", "Cayan Tower", "Princess Tower", "Marina Gate"]
+    season_outdoor: "October-April"
+
+  - slug: palm-jumeirah
+    name: "Palm Jumeirah"
+    city: "Dubai"
+    tier: "premium_residential"
+    money_site_url: "https://www.personaltrainersdubai.com/palm-jumeirah-home-training-women-over-40"
+    female_trainers: true
+    landmarks: ["Al Ittihad Park", "Shoreline Apartments", "Signature Villas", "Tiara Residences"]
+    season_outdoor: "October-April"
+
+  - slug: emirates-hills
+    name: "Emirates Hills"
+    city: "Dubai"
+    tier: "premium_residential"
+    money_site_url: "https://www.personaltrainersdubai.com/personal-trainer-emirates-hills"
+    female_trainers: true
+    landmarks: ["The Montgomerie Golf Course", "Sector E", "Sector W"]
+    season_outdoor: "October-March"
+
+  - slug: dubai-hills-estate
+    name: "Dubai Hills Estate"
+    city: "Dubai"
+    tier: "premium_residential"
+    money_site_url: "https://www.personaltrainersdubai.com/personal-trainer-dubai-hills"
+    female_trainers: true
+    landmarks: ["Dubai Hills Park", "Dubai Hills Mall", "Sidra Villas", "Maple"]
+    season_outdoor: "October-April"
+
+  - slug: arabian-ranches
+    name: "Arabian Ranches"
+    city: "Dubai"
+    tier: "premium_residential"
+    money_site_url: "https://www.personaltrainersdubai.com/personal-trainer-arabian-ranches"
+    female_trainers: true
+    landmarks: ["Arabian Ranches Golf Club", "Saheel", "Mirador", "Hattan"]
+    season_outdoor: "October-April"
+
+  - slug: downtown-dubai
+    name: "Downtown Dubai"
+    city: "Dubai"
+    tier: "business_residential"
+    money_site_url: "https://www.personaltrainersdubai.com/personal-trainer-downtown-dubai"
+    female_trainers: true
+    landmarks: ["Burj Khalifa Residences", "The Address Downtown", "Burj Vista", "Boulevard"]
+    season_outdoor: "November-March"
+
+  - slug: jumeirah-golf-estates
+    name: "Jumeirah Golf Estates"
+    city: "Dubai"
+    tier: "premium_residential"
+    money_site_url: "https://www.personaltrainersdubai.com/personal-trainer-jumeirah-golf-estates"
+    female_trainers: true
+    landmarks: ["Earth Course", "Fire Course", "Whispering Pines", "Flame Tree Ridge"]
+    season_outdoor: "October-April"
+
+  - slug: saadiyat-island
+    name: "Saadiyat Island"
+    city: "Abu Dhabi"
+    tier: "premium_residential"
+    money_site_url: "https://www.personaltrainersdubai.com/personal-trainers-abu-dhabi"
+    female_trainers: true
+    landmarks: ["Mamsha Al Saadiyat", "Saadiyat Beach", "St. Regis Residences", "Louvre Abu Dhabi"]
+    season_outdoor: "November-March"
+
+  - slug: yas-island
+    name: "Yas Island"
+    city: "Abu Dhabi"
+    tier: "business_residential"
+    money_site_url: "https://www.personaltrainersdubai.com/personal-trainers-abu-dhabi"
+    female_trainers: true
+    landmarks: ["Yas Marina Circuit", "Yas Beach", "Yas Acres", "Yas Mall"]
+    season_outdoor: "November-March"
+
+  - slug: al-reem-island
+    name: "Al Reem Island"
+    city: "Abu Dhabi"
+    tier: "business_residential"
+    money_site_url: "https://www.personaltrainersdubai.com/personal-trainers-abu-dhabi"
+    female_trainers: true
+    landmarks: ["Marina Square", "The Gate Towers", "Sun & Sky Towers"]
+    season_outdoor: "November-March"
+
+  - slug: abu-dhabi-corniche
+    name: "Abu Dhabi Corniche"
+    city: "Abu Dhabi"
+    tier: "premium_residential"
+    money_site_url: "https://www.personaltrainersdubai.com/personal-trainers-abu-dhabi"
+    female_trainers: true
+    landmarks: ["Corniche Beach", "Emirates Palace", "Etihad Towers"]
+    season_outdoor: "November-March"
