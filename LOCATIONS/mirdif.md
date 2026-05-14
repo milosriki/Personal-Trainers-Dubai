@@ -1,3 +1,15 @@
+---
+layout: page
+title: "Personal Training in Mirdif"
+description: "Premium personal training services in Mirdif, Dubai"
+permalink: /locations/mirdif/
+page_type: location
+last_modified_at: 2026-05-14
+robots: "index,follow"
+sitemap:
+  changefreq: monthly
+  priority: 0.7
+---
 # Personal Training in Mirdif
 
 > Premium personal training services in Mirdif, Dubai

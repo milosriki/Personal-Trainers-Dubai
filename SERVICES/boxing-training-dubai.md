@@ -1,3 +1,15 @@
+---
+layout: page
+title: "Boxing Training Dubai: Home & Outdoor Sessions"
+description: "Stress Relief & Conditioning: High-energy pad work sessions brought to your door."
+permalink: /services/boxing-training-dubai/
+page_type: service
+last_modified_at: 2026-05-14
+robots: "index,follow"
+sitemap:
+  changefreq: monthly
+  priority: 0.7
+---
 # Boxing Training Dubai: Home & Outdoor Sessions
 
 > **Stress Relief & Conditioning:** High-energy pad work sessions brought to your door.

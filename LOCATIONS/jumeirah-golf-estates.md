@@ -1,3 +1,15 @@
+---
+layout: page
+title: "Personal Trainer Jumeirah Golf Estates (JGE)"
+description: "Golf Performance: Improve your game and your health in Dubai's premier golf community."
+permalink: /locations/jumeirah-golf-estates/
+page_type: location
+last_modified_at: 2026-05-14
+robots: "index,follow"
+sitemap:
+  changefreq: monthly
+  priority: 0.7
+---
 # Personal Trainer Jumeirah Golf Estates (JGE)
 
 > **Golf Performance:** Improve your game and your health in Dubai's premier golf community.

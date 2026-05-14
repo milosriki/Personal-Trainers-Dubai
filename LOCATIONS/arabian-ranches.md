@@ -1,6 +1,18 @@
+---
+layout: page
+title: "Personal Trainer Arabian Ranches (1, 2 & 3)"
+description: "Family Fitness: The 1 requested personal training service in Arabian Ranches."
+permalink: /locations/arabian-ranches/
+page_type: location
+last_modified_at: 2026-05-14
+robots: "index,follow"
+sitemap:
+  changefreq: monthly
+  priority: 0.7
+---
 # Personal Trainer Arabian Ranches (1, 2 & 3)
 
-> **Family Fitness:** The #1 requested personal training service in Arabian Ranches.
+> **Family Fitness:** A popular personal training service in Arabian Ranches.
 >
 > 👉 [**Book Your Ranches Trainer**](https://wa.me/971506217146)
 

@@ -1,3 +1,15 @@
+---
+layout: page
+title: "Personal Training in Emirates Hills: The \"Beverly Hills\" Service"
+description: "Exclusive: Elite personal training for the UAE's most prestigious address."
+permalink: /locations/emirates-hills/
+page_type: location
+last_modified_at: 2026-05-14
+robots: "index,follow"
+sitemap:
+  changefreq: monthly
+  priority: 0.7
+---
 # Personal Training in Emirates Hills: The "Beverly Hills" Service
 
 > **Exclusive:** Elite personal training for the UAE's most prestigious address.

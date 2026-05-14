@@ -1,6 +1,6 @@
 ---
 title: Home Personal Trainer Dubai | PTD Fitness
-description: Book a home personal trainer in Dubai. PTD Fitness brings certified trainers and equipment to your home. 11,732+ transformations, Master's degree coaches. Free consultation.
+description: Book a home personal trainer in Dubai. PTD Fitness brings certified trainers and equipment to your home. nearly 12,000 transformations, qualified coaches. Free consultation.
 layout: page
 breadcrumb: Home Personal Trainer
 ---
@@ -144,4 +144,4 @@ We offer specialized pre-natal and post-natal training programs. Our female trai
 
 ---
 
-*PTD Fitness — Dubai's #1 Home Personal Training Service. We bring the gym to you.*
+*PTD Fitness — Dubai Home Personal Training Service. We bring the gym to you.*

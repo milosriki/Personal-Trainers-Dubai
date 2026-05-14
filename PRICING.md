@@ -2,13 +2,15 @@
 layout: default
 title: "Personal Training Pricing Dubai & Abu Dhabi | PTD Fitness"
 description: "Transparent AED pricing for at-home personal training in Dubai. 7 package tiers from 289 to 440 AED per session."
+permalink: /pricing/
+page_type: pricing
+markdown_alternate: /pricing.txt
 last_modified_at: 2026-05-14
 robots: "index,follow"
 sitemap:
   changefreq: monthly
   priority: 0.8
 ---
-
 # Personal Training Pricing Dubai & Abu Dhabi | PTD Fitness
 
 > **Transparent pricing for premium personal training at your location.** No hidden fees. All equipment included. [Get a custom quote →](https://www.personaltrainersdubai.com/enquire)
@@ -17,7 +19,7 @@ sitemap:
 
 ## Quick Pricing Overview
 
-Looking for personal training prices in Dubai? **PTD Fitness** offers packages from **289-440 AED per session**, which is competitive for premium training at your location with Master's degree certified coaches.
+Looking for personal training prices in Dubai? **PTD Fitness** offers packages from **289-440 AED per session**, which is competitive for premium training at your location with qualified coaches.
 
 **What's included in every session:**
 - Certified personal trainer at your location
@@ -111,7 +113,7 @@ Every PTD Fitness package includes:
 
 | Included | Details |
 |----------|---------|
-| **Personal Trainer** | Master's degree certified coach comes to your location |
+| **Personal Trainer** | qualified coach comes to your location |
 | **All Equipment** | Dumbbells, kettlebells, bands, mats, TRX - everything needed |
 | **Custom Programming** | Personalized workout plan for your goals |
 | **Nutrition Guidance** | Macro calculations, meal planning, Dubai restaurant tips |
@@ -134,7 +136,7 @@ Every PTD Fitness package includes:
 | Budget Gym Trainers | 150-250 AED | Basic certification, gym only |
 | Mid-Range Trainers | 250-400 AED | Good experience, may travel |
 | Premium Trainers | 400-600 AED | High experience, full service |
-| **PTD Fitness** | **289-440 AED** | **Master's degree coaches, all equipment, training at your location** |
+| **PTD Fitness** | **289-440 AED** | **qualified coaches, all equipment, training at your location** |
 | Luxury Hotel Trainers | 500-800 AED | Premium location, limited availability |
 
 PTD Fitness offers premium service at competitive mid-range pricing because we operate efficiently without expensive gym overhead.
@@ -152,7 +154,7 @@ PTD Fitness offers premium service at competitive mid-range pricing because we o
 - Personalized programming
 - Expert nutrition guidance
 
-Studies show people with personal trainers are 30% more likely to achieve and maintain their fitness goals.
+A structured personal trainer is valuable when you need accountability, safer form, better programming, and a plan you can follow consistently.
 
 ### Why is personal training expensive in Dubai?
 
@@ -236,10 +238,10 @@ For companies looking to invest in employee health:
 
 | Proof Point | Details |
 |-------------|---------|
-| **11,732+ Clients** | Trusted by thousands in Dubai & Abu Dhabi |
-| **600+ Reviews** | 4.9/5 average rating |
-| **Master's Degree Coaches** | Highest qualified trainers |
-| **Since 2015** | 10+ years serving Dubai |
+| **nearly 12,000 Clients** | Trusted by thousands in Dubai & Abu Dhabi |
+| **620+ Reviews** | 4.9/5 average rating |
+| **Qualified Coaches** | Highest qualified trainers |
+| **Since 2018** | Serving Dubai and Abu Dhabi |
 
 [Read Client Testimonials →](https://www.personaltrainersdubai.com/testimonials)
 

@@ -2,13 +2,13 @@
 layout: default
 title: "Personal Training Programs Dubai | PTD Fitness 12-Week Transformation"
 description: "PTD Fitness programs: 12-week body transformation, executive fitness, weight loss, women's training, post-natal recovery."
+permalink: /programs/
 last_modified_at: 2026-05-14
 robots: "index,follow"
 sitemap:
   changefreq: monthly
   priority: 0.8
 ---
-
 # Personal Training Programs Dubai | PTD Fitness
 
 > **Proven transformation programs for every goal.** 12-week body transformations, executive fitness, women's training, and more. [Find your program →](https://www.personaltrainersdubai.com/enquire)
@@ -218,7 +218,7 @@ For those recovering from injury:
 
 | Feature | Details |
 |---------|---------|
-| **Personal Trainer** | Master's degree certified coach |
+| **Personal Trainer** | qualified coach |
 | **Training at Your Location** | We come to your location |
 | **All Equipment** | Everything needed, brought to you |
 | **Custom Programming** | Tailored to your goals |
@@ -291,10 +291,10 @@ We'll assess your goals, fitness level, and lifestyle to recommend the perfect p
 
 | Proof Point | Details |
 |-------------|---------|
-| **11,732+ Clients** | Transformed across Dubai & Abu Dhabi |
-| **600+ Reviews** | 4.9/5 average rating |
-| **Master's Degree Coaches** | Highest qualified trainers |
-| **Since 2015** | 10+ years of proven results |
+| **nearly 12,000 Clients** | Transformed across Dubai & Abu Dhabi |
+| **620+ Reviews** | 4.9/5 average rating |
+| **Qualified Coaches** | Highest qualified trainers |
+| **Since 2018** | Proven mobile coaching system |
 
 [About Us →](https://www.personaltrainersdubai.com/about-us) | [Our Team →](https://www.personaltrainersdubai.com/our-team)
 

@@ -1,3 +1,15 @@
+---
+layout: page
+title: "Women's Fitness Over 40 in Dubai"
+description: "Hormone-smart personal training designed for women 40+ in Dubai"
+permalink: /services/women-40-fitness-dubai/
+page_type: service
+last_modified_at: 2026-05-14
+robots: "index,follow"
+sitemap:
+  changefreq: monthly
+  priority: 0.7
+---
 # Women's Fitness Over 40 in Dubai
 
 > Hormone-smart personal training designed for women 40+ in Dubai

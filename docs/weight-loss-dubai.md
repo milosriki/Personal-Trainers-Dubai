@@ -11,8 +11,8 @@ PTD Fitness offers the most effective weight loss programs in Dubai, designed sp
 
 ### Our Results Speak for Themselves
 
-- **11,732+ Clients Transformed**
-- **4.9-Star Rating with 600+ Google Reviews**
+- **nearly 12,000 Clients Transformed**
+- **4.9-Star Rating with 620+ Google Reviews**
 - **AED 14,000 Average Deal Value** - Clients invest in lasting results
 - **Mobile Service** - We train you wherever you are in Dubai/Abu Dhabi
 

@@ -1,3 +1,15 @@
+---
+layout: page
+title: "Personal Training in The Meadows"
+description: "Elite personal training services in The Meadows, Dubai"
+permalink: /locations/meadows/
+page_type: location
+last_modified_at: 2026-05-14
+robots: "index,follow"
+sitemap:
+  changefreq: monthly
+  priority: 0.7
+---
 # Personal Training in The Meadows
 
 > Elite personal training services in The Meadows, Dubai
@@ -19,7 +31,7 @@ The Meadows is one of Dubai's most prestigious residential communities, home to 
 ✅ **Premium Service** - Five-star fitness experience
 ✅ **Privacy** - Train in your villa or apartment
 ✅ **Flexible Scheduling** - Around your busy lifestyle
-✅ **Proven Results** - 11,732+ successful transformations
+✅ **Proven Results** - nearly 12,000 successful transformations
 
 ## Get Started in The Meadows
 

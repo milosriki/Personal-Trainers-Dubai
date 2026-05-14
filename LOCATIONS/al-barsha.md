@@ -1,3 +1,15 @@
+---
+layout: page
+title: "Personal Training in Al Barsha"
+description: "Professional personal training services in Al Barsha, Dubai"
+permalink: /locations/al-barsha/
+page_type: location
+last_modified_at: 2026-05-14
+robots: "index,follow"
+sitemap:
+  changefreq: monthly
+  priority: 0.7
+---
 # Personal Training in Al Barsha
 
 > Professional personal training services in Al Barsha, Dubai
@@ -18,8 +30,8 @@ Al Barsha is a thriving residential and commercial area in Dubai, home to famili
 
 ✅ **Home Convenience** - We train you in your own space
 ✅ **Family-Friendly** - Programs for all ages
-✅ **Expert Guidance** - Master's degree certified coaches
-✅ **Proven Results** - 11,732+ transformations
+✅ **Expert Guidance** - qualified coaches
+✅ **Proven Results** - nearly 12,000 transformations
 
 ## Get Started in Al Barsha
 
@@ -45,4 +57,4 @@ Join hundreds of Al Barsha residents who have achieved their fitness goals with 
 
 ---
 
-*PTD Fitness - Dubai's #1 Personal Training at Your Location*
+*PTD Fitness - Premium Personal Training at Your Location in Dubai*

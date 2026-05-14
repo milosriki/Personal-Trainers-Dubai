@@ -1,3 +1,15 @@
+---
+layout: page
+title: "Personal Training in DIFC"
+description: "Premium personal training services in Dubai's international financial center"
+permalink: /locations/difc/
+page_type: location
+last_modified_at: 2026-05-14
+robots: "index,follow"
+sitemap:
+  changefreq: monthly
+  priority: 0.7
+---
 # Personal Training in DIFC
 
 > Premium personal training services in Dubai's international financial center
@@ -25,7 +37,7 @@ DIFC is home to the region's leading financial institutions and high-net-worth p
 
 📍 **Service Area:** DIFC, Dubai International Financial Centre
 📱 **WhatsApp:** [+971 50 621 7146](https://wa.me/971506217146)
-🌐 **Website:** [personaltrainersdubai.com](https://www.personaltrainersdubai.com)
+🌐 **Enquiry:** [personaltrainersdubai.com/enquire](https://www.personaltrainersdubai.com/enquire?utm_source=resources&utm_medium=organic&utm_campaign=difc)
 
 ### Executive Packages
 
@@ -41,8 +53,8 @@ DIFC is home to the region's leading financial institutions and high-net-worth p
 
 Your career success demands peak physical performance. Let PTD Fitness help you achieve your fitness goals with our premium executive training programs.
 
-[**Book Executive Consultation**](https://www.personaltrainersdubai.com/enquire)
+[**Book Executive Consultation**](https://www.personaltrainersdubai.com/enquire?utm_source=resources&utm_medium=organic&utm_campaign=difc)
 
 ---
 
-*PTD Fitness - Trusted by executives at ENBD, KPMG, and leading DIFC companies*
+*PTD Fitness - Private mobile coaching for DIFC executives, founders, and busy professionals*

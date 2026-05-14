@@ -1,3 +1,15 @@
+---
+layout: page
+title: "Personal Training in DIFC & Trade Centre"
+description: "DIFC's Home & Office Fitness Partner — Expert coaches, complete equipment. Work out at home or in your office gym."
+permalink: /docs/difc-personal-training/
+page_type: guide
+last_modified_at: 2026-05-14
+robots: "index,follow"
+sitemap:
+  changefreq: monthly
+  priority: 0.5
+---
 # Personal Training in DIFC & Trade Centre | PTD Fitness
 
 > **DIFC's Home & Office Fitness Partner** — Expert coaches, complete equipment. Work out at home or in your office gym.
@@ -12,7 +24,7 @@ DIFC professionals demand efficiency. Train at home before work, during lunch at
 
 ### What You Get
 
-- Certified Master's degree coaches
+- Certified coaches
 - Full equipment service included
 - Ultra-flexible scheduling (5 AM – 10 PM)
 - Stress management focus available

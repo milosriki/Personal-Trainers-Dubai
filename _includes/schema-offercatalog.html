@@ -1,0 +1,24 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "OfferCatalog",
+  "@id": "{{ page.url | absolute_url }}#offers",
+  "name": "PTD Fitness Personal Training Packages",
+  "url": "{{ page.url | absolute_url }}",
+  "provider": { "@id": "{{ site.money_site }}/#organization" },
+  "itemListElement": [
+    {% for package in site.data.pricing.packages %}
+    {
+      "@type": "Offer",
+      "name": "{{ package.label }} — {{ package.sessions }} sessions",
+      "price": "{{ package.total_aed }}",
+      "priceCurrency": "{{ site.data.pricing.currency }}",
+      "url": "{{ site.booking_url }}",
+      "category": "{{ package.type }}",
+      "availability": "https://schema.org/InStock",
+      "description": "{{ package.sessions }} personal training sessions at {{ package.per_session_aed }} AED per session before VAT, valid for {{ package.validity_days }} days."
+    }{% unless forloop.last %},{% endunless %}
+    {% endfor %}
+  ]
+}
+</script>

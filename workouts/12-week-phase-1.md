@@ -1,3 +1,15 @@
+---
+layout: page
+title: "Phase 1: Metabolic Conditioning & Foundation (Weeks 1-4)"
+description: "Goal: Establish movement quality, improve cardiovascular health, and ignite metabolic rate."
+permalink: /workouts/12-week-phase-1/
+page_type: guide
+last_modified_at: 2026-05-14
+robots: "index,follow"
+sitemap:
+  changefreq: monthly
+  priority: 0.5
+---
 # Phase 1: Metabolic Conditioning & Foundation (Weeks 1-4) - PTD Fitness
 
 **Goal:** Establish movement quality, improve cardiovascular health, and ignite metabolic rate.

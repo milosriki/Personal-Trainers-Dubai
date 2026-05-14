@@ -1,3 +1,15 @@
+---
+layout: page
+title: "Post-Natal Personal Trainer Dubai"
+description: "Safe Recovery: Specialized coaching to help you regain efficient movement and strength after pregnancy."
+permalink: /services/post-natal-fitness/
+page_type: service
+last_modified_at: 2026-05-14
+robots: "index,follow"
+sitemap:
+  changefreq: monthly
+  priority: 0.7
+---
 # Post-Natal Personal Trainer Dubai
 
 > **Safe Recovery:** Specialized coaching to help you regain efficient movement and strength after pregnancy.

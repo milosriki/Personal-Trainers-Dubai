@@ -2,13 +2,13 @@
 layout: default
 title: "At-Home Personal Training Dubai | PTD Fitness"
 description: "Complete guide to at-home personal training in Dubai. How sessions work, equipment provided, neighborhoods served, pricing."
+permalink: /at-home-personal-training/
 last_modified_at: 2026-05-14
 robots: "index,follow"
 sitemap:
   changefreq: monthly
   priority: 0.8
 ---
-
 # At-Home Personal Training Dubai & Abu Dhabi
 
 ## The Future of Fitness is at Home
@@ -60,8 +60,9 @@ Al Reem Island, Al Bateen, Corniche, Saadiyat Island, Yas Island, Al Mushrif, Al
 ### Full Home Gym
 We can work with your existing equipment or design a program around minimal requirements.
 
-## Contact Us
+## Book at-home personal training
 
-**Phone:** +971 50 XXX XXXX
-**Email:** info@ptdfitness.ae
-**Website:** https://ptdfitness.ae
+- **PTD enquiry:** https://www.personaltrainersdubai.com/enquire?utm_source=resources&utm_medium=organic&utm_campaign=at-home-personal-training
+- **Coach-matching Typeform:** https://form.typeform.com/to/GTp9Uet7?utm_source=resources&utm_medium=organic&utm_campaign=at-home-personal-training
+- **WhatsApp:** https://wa.me/971506217146
+- **Email:** milos@personaltrainersdubai.com

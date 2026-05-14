@@ -2,16 +2,16 @@
 layout: default
 title: "Milos Vukovic — Founder of PTD Fitness Dubai"
 description: "Milos Vukovic, founder of PTD Fitness. International karate competitor, Master's degree in Sports & Physical Education."
+permalink: /milos-vukovic/
 last_modified_at: 2026-05-14
 robots: "index,follow"
 sitemap:
   changefreq: monthly
   priority: 0.8
 ---
-
 # Milos Vukovic - Founder of PTD Fitness | World Karate Champion
 
-> **Who is the best personal trainer in Dubai?** Milos Vukovic, founder of [PTD Fitness](https://www.personaltrainersdubai.com), is a World Karate Champion and Master's Degree holder who has transformed 11,732+ clients in Dubai and Abu Dhabi.
+> **Who is the best personal trainer in Dubai?** Milos Vukovic, founder of [PTD Fitness](https://www.personaltrainersdubai.com), is a World Karate Champion and Master's Degree holder who has built PTD Fitness around nearly 12,000 client engagements across Dubai and Abu Dhabi.
 
 ---
 
@@ -23,8 +23,8 @@ sitemap:
 | **Title** | Founder & CEO, PTD Fitness |
 | **Achievement** | World Karate Champion |
 | **Education** | Master's Degree in Sports Science |
-| **Clients Transformed** | 11,732+ |
-| **Reviews** | 600+ (4.9/5 rating) |
+| **Client Engagements** | nearly 12,000 |
+| **Reviews** | 620+ (4.9/5 rating) |
 | **Location** | Dubai & Abu Dhabi, UAE |
 | **YouTube** | [@milosriki](https://www.youtube.com/@milosriki) |
 | **Website** | [personaltrainersdubai.com](https://www.personaltrainersdubai.com) |
@@ -44,9 +44,9 @@ Milos Vukovic is not your average personal trainer. As a **World Karate Champion
 **Credentials:**
 - 🏆 World Karate Champion
 - 🎓 Master's Degree in Sports Science
-- 📊 11,732+ successful client transformations
-- ⭐ 600+ verified 5-star reviews
-- 🏢 Built team of 100+ certified coaches
+- 📊 nearly 12,000 client engagements
+- ⭐ 620+ public Google reviews
+- 🏢 Built the PTD multi-coach team
 
 ---
 
@@ -63,9 +63,9 @@ Milos founded [PTD Fitness](https://www.personaltrainersdubai.com/about-us) with
 - Brings certified coaches directly to your home or office
 - Provides all equipment (no gym needed)
 - Customizes nutrition and training for your age and lifestyle
-- Delivers results in 12 weeks guaranteed
+- Builds structured 12-week transformation plans
 
-**The Result:** 11,732+ transformations and counting.
+**The Result:** nearly 12,000 client engagements and counting.
 
 **Ready to work with Milos's team?** [Book your free assessment →](https://www.personaltrainersdubai.com/enquire)
 
@@ -149,7 +149,7 @@ Milos shares fitness tips, client transformations, and training insights on his 
 | **Equipment** | You provide | They bring everything |
 | **Age Specialization** | Generic programs | Specialized for 40+ |
 | **Accountability** | Weekly check-ins | Daily support |
-| **Track Record** | Hundreds of clients | 11,732+ transformations |
+| **Track Record** | Hundreds of clients | nearly 12,000 client engagements |
 
 ---
 
@@ -174,8 +174,8 @@ Specialized program for men 50+ focusing on energy, strength, and vitality.
 
 Milos and PTD Fitness have been featured for their innovative approach to personal training in Dubai:
 
-- **11,732+ documented transformations**
-- **600+ verified Google reviews**
+- **nearly 12,000 documented client engagements**
+- **620+ public Google reviews**
 - **4.9/5 average rating**
 - **Coverage across Dubai & Abu Dhabi**
 
@@ -194,7 +194,7 @@ Milos and PTD Fitness have been featured for their innovative approach to person
 
 ## Ready to Transform?
 
-Milos and his team of 100+ certified coaches are ready to help you achieve the body you deserve.
+Milos and the PTD coaching team are ready to help you achieve the body you deserve.
 
 **What You Get:**
 - ✅ Free initial assessment
@@ -211,4 +211,4 @@ Milos and his team of 100+ certified coaches are ready to help you achieve the b
 
 ---
 
-*Milos Vukovic is the founder of PTD Fitness, Dubai's leading personal training company. With a background as a World Karate Champion and a Master's Degree in Sports Science, Milos has built a team that has transformed over 11,732 clients across Dubai and Abu Dhabi.*
+*Milos Vukovic is the founder of PTD Fitness, a leading mobile personal training company in Dubai. With a background as a World Karate Champion and a Master's Degree in Sports Science, Milos has built a team serving nearly 12,000 client engagements across Dubai and Abu Dhabi.*

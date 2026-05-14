@@ -1,3 +1,15 @@
+---
+layout: page
+title: "How to Maintain Muscle & Fat Loss During Ramadan in Dubai (2025 Guide)"
+description: "Don't Lose Your Gains: The complete guide to training while fasting in the UAE."
+permalink: /guides/ramadan-fitness-dubai/
+page_type: guide
+last_modified_at: 2026-05-14
+robots: "index,follow"
+sitemap:
+  changefreq: monthly
+  priority: 0.7
+---
 # How to Maintain Muscle & Fat Loss During Ramadan in Dubai (2025 Guide)
 
 > **Don't Lose Your Gains:** The complete guide to training while fasting in the UAE.

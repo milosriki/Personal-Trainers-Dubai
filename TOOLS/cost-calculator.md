@@ -62,9 +62,11 @@ function calculateCost() {
 
 Most people look at the "monthly fee" (e.g. 400 AED) but forget the "usage fee". If you only go 4 times a month, you are paying **100 AED per entry** to rent equipment you don't know how to use.
 
-**Add the cost of your time.** Driving 30 mins to Gymnation or Fitness First means 4 hours a month lost in traffic.
+**Add the cost of your time.** Driving 30 minutes to a large Dubai gym chain means 4 hours a month lost in traffic.
 
 **The Solution:**
 PTD Fitness trainers come to your building. You save the drive. You never miss a session because we are at your door.
 
-[**Stop Wasting Time. Start Training.**](https://wa.me/971506217146)
+[**Stop Wasting Time. Start Training.**](https://www.personaltrainersdubai.com/enquire?utm_source=resources&utm_medium=organic&utm_campaign=cost-calculator)
+
+[Coach-matching Typeform](https://form.typeform.com/to/GTp9Uet7?utm_source=resources&utm_medium=organic&utm_campaign=cost-calculator) · [WhatsApp](https://wa.me/971506217146)

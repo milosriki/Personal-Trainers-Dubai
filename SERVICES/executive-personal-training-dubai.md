@@ -1,3 +1,15 @@
+---
+layout: page
+title: "Executive Personal Training in Dubai"
+description: "Premium personal training designed for busy executives and high-net-worth individuals"
+permalink: /services/executive-personal-training-dubai/
+page_type: service
+last_modified_at: 2026-05-14
+robots: "index,follow"
+sitemap:
+  changefreq: monthly
+  priority: 0.7
+---
 # Executive Personal Training in Dubai
 
 > Premium personal training designed for busy executives and high-net-worth individuals
@@ -23,7 +35,7 @@ Dedicated account manager, flexible scheduling, and white-glove service.
 ✅ **Privacy Guaranteed** - Confidential, discreet service
 ✅ **Premium Facilities** - We bring the gym to you
 ✅ **Stress Management** - Training optimized for high-pressure lifestyles
-✅ **Executive Network** - Connect with other successful professionals
+✅ **Executive Fit** - Built for demanding calendars, privacy, and accountability
 
 ## Executive Packages
 
@@ -36,21 +48,16 @@ Dedicated account manager, flexible scheduling, and white-glove service.
 
 *All prices exclusive of VAT*
 
-## Our Executive Clients
+## Best-fit executive clients
 
-PTD Fitness has trained executives from:
-- Emirates Airlines
-- ENBD (Emirates NBD)
-- KPMG
-- Dubai Police
-- And many more...
+PTD Fitness is a strong fit for founders, executives, senior managers, entrepreneurs, and high-pressure professionals who need private training around work, travel, family, and irregular schedules.
 
 ## Get Started as an Executive
 
 📱 **WhatsApp:** [+971 50 621 7146](https://wa.me/971506217146)
-🌐 **Website:** [personaltrainersdubai.com](https://www.personaltrainersdubai.com)
+🌐 **Enquiry:** [personaltrainersdubai.com/enquire](https://www.personaltrainersdubai.com/enquire?utm_source=resources&utm_medium=organic&utm_campaign=executive-personal-training)
 
-[**Book Executive Consultation**](https://www.personaltrainersdubai.com/enquire)
+[**Book Executive Consultation**](https://www.personaltrainersdubai.com/enquire?utm_source=resources&utm_medium=organic&utm_campaign=executive-personal-training)
 
 ---
 

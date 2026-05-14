@@ -1,3 +1,15 @@
+---
+layout: page
+title: "Personal Trainer Yas Island (Yas Bay, Ansam, Water's Edge)"
+description: "Active Living: High-performance training for Abu Dhabi's most dynamic island."
+permalink: /locations/yas-island/
+page_type: location
+last_modified_at: 2026-05-14
+robots: "index,follow"
+sitemap:
+  changefreq: monthly
+  priority: 0.7
+---
 # Personal Trainer Yas Island (Yas Bay, Ansam, Water's Edge)
 
 > **Active Living:** High-performance training for Abu Dhabi's most dynamic island.

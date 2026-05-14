@@ -1,3 +1,15 @@
+---
+layout: page
+title: "Personal Trainer Al Reem Island (Gate Towers, Sham, Marina Square)"
+description: "Urban Island Living: Convenient, high-quality training for Al Reem residents."
+permalink: /locations/al-reem-island/
+page_type: location
+last_modified_at: 2026-05-14
+robots: "index,follow"
+sitemap:
+  changefreq: monthly
+  priority: 0.7
+---
 # Personal Trainer Al Reem Island (Gate Towers, Sham, Marina Square)
 
 > **Urban Island Living:** Convenient, high-quality training for Al Reem residents.

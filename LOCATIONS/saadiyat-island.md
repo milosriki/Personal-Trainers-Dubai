@@ -1,3 +1,15 @@
+---
+layout: page
+title: "Personal Trainer Saadiyat Island Abu Dhabi"
+description: "Cultural District Fitness: Wellness and Yoga-fused training for Saadiyat residents."
+permalink: /locations/saadiyat-island/
+page_type: location
+last_modified_at: 2026-05-14
+robots: "index,follow"
+sitemap:
+  changefreq: monthly
+  priority: 0.7
+---
 # Personal Trainer Saadiyat Island Abu Dhabi
 
 > **Cultural District Fitness:** Wellness and Yoga-fused training for Saadiyat residents.
@@ -26,7 +38,7 @@ We conduct sunrise sessions on the pristine sands of Mamsha.
 ## Why Saadiyat Residents Choose PTD
 
 - **Convenience:** We save you the drive into the city.
-- **Quality:** Master's degree coaches matching the premium lifestyle of the island.
+- **Quality:** qualified coaches matching the premium lifestyle of the island.
 - **Privacy:** Discreet home visits for high-profile residents.
 
 ---

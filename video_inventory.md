@@ -1,58 +1,49 @@
 ---
-layout: default
-title: "Video Inventory"
-description: "Internal video inventory."
+layout: page
+title: "PTD Fitness Public Video Index"
+description: "Public Wistia and YouTube video proof for PTD Fitness client outcomes, home training, weight loss, female trainer support, executive coaching, and accountability."
+permalink: /video-inventory/
 last_modified_at: 2026-05-14
 robots: "noindex,follow"
-sitemap:
-  changefreq: monthly
-  priority: 0.8
+sitemap: false
 ---
 
-# PTD Fitness Video Asset Inventory
+# PTD Fitness Public Video Index
 
-## YouTube Videos
+This page points crawlers and assistants to the public video proof surface.
 
-### Main PTD Fitness Channel Videos
+Primary public page:
+[PTD Fitness video proof](/video-proof/)
 
-| Video | URL | Key Content |
-|-------|-----|-------------|
-| SuperHuman Over 40 Program | https://youtu.be/BtqIQncAUOc | Main promo - 12,000+ clients transformed |
-| Client Testimonial Compilation | https://youtu.be/FHnHb1fawhs | Multiple client success stories |
-| Client Success Story | https://youtu.be/wHTMD1erkok | Individual transformation |
-| Transformation Video | https://youtu.be/BmpmSBAO_K0 | Before/after results |
-| Training Session | https://youtu.be/U67sfjJ1pEM | Real training footage |
-| Client Interview | https://youtu.be/auC42kTgOTg | Client testimonial |
+Machine-readable video proof:
+[video-proof.json](/video-proof.json)
 
-### Milos Vukovic Personal Channel
-**Channel:** https://www.youtube.com/@milosriki/videos
-**Authority:** World Karate Champion, Master's Degree in Sport & Physical Education
+## Public Wistia proof themes
 
-## Wistia Testimonial Videos
+- Weight loss and body transformation
+- At-home personal training
+- Busy professional and executive schedules
+- Female trainer and postnatal coaching
+- Nutrition guidance and accountability
+- Coach matching and programme continuity
 
-| Client | Result | Key Quote |
-|--------|--------|-----------|
-| **Maurice** | Lost 8-10 kg, got six-pack | "Your pedigree as a champion athlete gave me confidence. You knew your stuff." |
-| **Marwan** | Lost 10 kg in 2.5 months | "Best shape ever. Almost there." |
-| **Edwin** | Lost 22 kg in 40 sessions | "If you really want to get in better shape, this is the way to do it." |
-| **Dr. Rida** | Lost 18 kg (75kg → 57kg) | "Natasha was my blessing in disguise. I would highly recommend her." |
-| **Paul** | Visible results in 4 weeks | "Nothing tastes as good as strong and healthy feels." |
-| **Greg** | Lost belly fat, gained muscle at 51 | "If you're over fifty, look up PTD Fitness." |
-| **Firas** | Lost 20 kg in 2 months | "The journey has been amazing. Easy, entertaining." |
-| **Edward** | Best shape at 48 | "At the age of forty eight, I never thought I'd feel this good again." |
+## Selected Wistia embeds
 
-## Key Video Statistics
+| Video | Embed URL | Best use |
+|---|---|---|
+| Alexandro | https://fast.wistia.com/embed/iframe/3r8eju3x5u | Executive transformation and major weight loss |
+| Dr Rida Abdullah | https://fast.wistia.com/embed/iframe/vyxvziy0o2 | Postnatal, female trainer, energy, weight loss |
+| Maliha | https://fast.wistia.com/embed/iframe/5dbzudagfm | Weight loss, accountability, energy |
+| Maurice | https://fast.wistia.com/embed/iframe/46j515hlm9 | Home training, busy professional, body transformation |
+| Priya | https://fast.wistia.com/embed/iframe/wag2mmdln6 | Women 50+, strength, weight loss |
+| Edwin | https://fast.wistia.com/embed/iframe/5m160ufdvk | Daily accountability and weight loss |
+| Kamran | https://fast.wistia.com/embed/iframe/h3wd7qrr21 | Professional coaching, mobility, weight loss |
+| Greg Hucker | https://fast.wistia.com/embed/iframe/a7cs7820j9 | Men over 50, meal planning and exercise |
+| Firas | https://fast.wistia.com/embed/iframe/remxxk78zq | Weight loss, training, nutrition |
+| Coach fit explainer | https://fast.wistia.com/embed/iframe/vyjt2gnry4 | Coach ecosystem and replacement support |
 
-- **Total Transformations:** 12,000+
-- **Client Age Range:** 40-55+
-- **Average Weight Loss:** 10-25 kg
-- **Timeframe:** 2-6 months
-- **Notable Clients:** Google Executive (Alessandro - lost 30kg)
+Booking:
+[personaltrainersdubai.com/enquire](https://www.personaltrainersdubai.com/enquire?utm_source=resources&utm_medium=organic&utm_campaign=video-inventory)
 
-## Founder Credentials (Milos Vukovic)
-
-- World Karate Champion
-- Ex-Professional Athlete
-- Master's Degree in Sport & Physical Education
-- 100+ Team of Personal Trainers
-- Dubai Police Award Recipient
+Application:
+[form.typeform.com/to/GTp9Uet7](https://form.typeform.com/to/GTp9Uet7?utm_source=resources&utm_medium=organic&utm_campaign=video-inventory)

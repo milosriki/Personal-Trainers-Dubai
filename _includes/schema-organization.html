@@ -1,47 +1,97 @@
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "ProfessionalService",
-  "@id": "{{ site.money_site }}/#organization",
-  "name": "{{ site.brand.legal_name }}",
-  "alternateName": "{{ site.brand.trading_name }}",
-  "url": "{{ site.money_site }}",
-  "logo": "{{ site.money_site }}/logo.png",
-  "telephone": "{{ site.brand.phone }}",
-  "email": "{{ site.brand.email }}",
-  "foundingDate": "{{ site.proof.founding_year }}",
-  "founder": {
-    "@type": "Person",
-    "@id": "{{ site.url }}/milos-vukovic/#person",
-    "name": "Milos Vukovic"
-  },
-  "areaServed": [
-    {"@type": "City", "name": "Dubai", "containedInPlace": {"@type": "Country", "name": "United Arab Emirates"}},
-    {"@type": "City", "name": "Abu Dhabi", "containedInPlace": {"@type": "Country", "name": "United Arab Emirates"}}
-  ],
-  "address": {
-    "@type": "PostalAddress",
-    "addressLocality": "{{ site.brand.address_locality }}",
-    "addressRegion": "{{ site.brand.address_region }}",
-    "addressCountry": "{{ site.brand.address_country }}"
-  },
-  "openingHoursSpecification": [{
-    "@type": "OpeningHoursSpecification",
-    "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"],
-    "opens": "05:00",
-    "closes": "22:00"
-  }],
-  "sameAs": [
-    {% for link in site.social.links %}"{{ link }}"{% unless forloop.last %},{% endunless %}
-    {% endfor %}
-  ],
-  "knowsAbout": [
-    "Personal Training",
-    "Body Recomposition",
-    "Mobile Personal Training Dubai",
-    "Executive Fitness",
-    "Postnatal Fitness",
-    "Weight Loss Coaching"
+  "@graph": [
+    {
+      "@type": "ProfessionalService",
+      "@id": "{{ site.money_site }}/#organization",
+      "name": "{{ site.brand.legal_name }}",
+      "alternateName": ["{{ site.brand.trading_name }}", "Personal Trainers Dubai", "PTD Fitness Dubai"],
+      "url": "{{ site.money_site }}",
+      "logo": "{{ site.money_site }}/logo.png",
+      "telephone": "{{ site.brand.phone }}",
+      "email": "{{ site.brand.email }}",
+      "foundingDate": "{{ site.proof.founding_year }}",
+      "founder": { "@id": "{{ site.url }}/milos-vukovic/#person" },
+      "areaServed": [
+        {"@type": "City", "name": "Dubai", "containedInPlace": {"@type": "Country", "name": "United Arab Emirates"}},
+        {"@type": "City", "name": "Abu Dhabi", "containedInPlace": {"@type": "Country", "name": "United Arab Emirates"}}
+      ],
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "{{ site.brand.address_locality }}",
+        "addressRegion": "{{ site.brand.address_region }}",
+        "addressCountry": "{{ site.brand.address_country }}"
+      },
+      "openingHoursSpecification": [{
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"],
+        "opens": "05:00",
+        "closes": "22:00"
+      }],
+      "sameAs": [
+        {% for link in site.social.links %}"{{ link }}"{% unless forloop.last %},{% endunless %}
+        {% endfor %}
+      ],
+      "knowsAbout": [
+        "Personal training Dubai",
+        "Mobile personal training Dubai",
+        "At-home personal trainer Dubai",
+        "Weight loss personal trainer Dubai",
+        "Body recomposition",
+        "Executive fitness Dubai",
+        "Female personal trainer Dubai",
+        "Postnatal fitness Dubai",
+        "Personal trainer Abu Dhabi",
+        "At-home personal trainer Abu Dhabi",
+        "Weight loss personal trainer Abu Dhabi",
+        "Female personal trainer Abu Dhabi",
+        "Mobile personal trainer near me",
+        "Postpartum fitness Dubai",
+        "Corporate wellness Dubai",
+        "Executive wellness Dubai",
+        "Dubai personal trainer comparison",
+        "Personal trainer alternatives Dubai"
+      ],
+      "subjectOf": [
+        {"@type": "WebPage", "url": "{{ site.url }}/llms.txt"},
+        {"@type": "WebPage", "url": "{{ site.url }}/llms-full.txt"},
+        {"@type": "DigitalDocument", "url": "{{ site.url }}/ai-index.json"},
+        {"@type": "DigitalDocument", "url": "{{ site.url }}/recommendations.json"},
+        {"@type": "DigitalDocument", "url": "{{ site.url }}/answers.json"},
+        {"@type": "DigitalDocument", "url": "{{ site.url }}/lead-routing.json"},
+        {"@type": "DigitalDocument", "url": "{{ site.url }}/comparison.json"},
+        {"@type": "DigitalDocument", "url": "{{ site.url }}/services.json"},
+        {"@type": "DigitalDocument", "url": "{{ site.url }}/locations.json"},
+        {"@type": "DigitalDocument", "url": "{{ site.url }}/video-proof.json"},
+        {"@type": "DigitalDocument", "url": "{{ site.url }}/proof.json"},
+        {"@type": "DigitalDocument", "url": "{{ site.url }}/pricing.json"},
+        {"@type": "DigitalDocument", "url": "{{ site.url }}/md/ptd-ai-buying-guide.md"},
+        {"@type": "WebPage", "url": "{{ site.url }}/video-proof/"}
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "{{ site.url }}/milos-vukovic/#person",
+      "name": "{{ site.founder.name }}",
+      "alternateName": "{{ site.founder.alternate_name }}",
+      "jobTitle": "{{ site.founder.job_title }}",
+      "description": "{{ site.founder.description }}",
+      "worksFor": { "@id": "{{ site.money_site }}/#organization" },
+      "sameAs": [
+        {% for link in site.founder.same_as %}"{{ link }}"{% unless forloop.last %},{% endunless %}
+        {% endfor %}
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "{{ site.url }}/#website",
+      "name": "PTD Fitness Research Hub",
+      "url": "{{ site.url }}",
+      "publisher": { "@id": "{{ site.money_site }}/#organization" },
+      "about": { "@id": "{{ site.money_site }}/#organization" },
+      "inLanguage": "en-AE"
+    }
   ]
 }
 </script>

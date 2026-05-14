@@ -1,8 +1,9 @@
 title: "Personal Trainers Dubai & Abu Dhabi | PTD Fitness"
 description: >-
   Mobile personal training research hub for Dubai and Abu Dhabi. PTD Fitness brings
-  master's-level coaches to your home, office, or building gym across 14 priority
-  neighborhoods. 11,732+ clients transformed, 600+ Google reviews (4.9 stars).
+  qualified coaches to your home, office, or building gym across priority Dubai
+  and Abu Dhabi neighborhoods. Nearly 12,000 client engagements, 620+ public Google reviews
+  (around 4.9 stars).
 url: "https://resources.personaltrainersdubai.com"
 baseurl: ""
 theme: jekyll-theme-minimal
@@ -21,7 +22,6 @@ social:
     - https://www.linkedin.com/company/ptd-fitness/
     - https://www.instagram.com/personal_trainers_dubai/
     - https://www.instagram.com/ptdfitnessdxb/
-    - https://www.instagram.com/milosvukovicriki/
     - https://www.facebook.com/PTDFITNESSUAE1/
     - https://www.facebook.com/personaltrainersdubai/
     - https://www.youtube.com/@milosriki
@@ -37,15 +37,19 @@ social:
 
 # Webflow money-site canonical target (used in CTAs + Organization schema)
 money_site: "https://www.personaltrainersdubai.com"
+booking_url: "https://www.personaltrainersdubai.com/enquire"
+typeform_url: "https://form.typeform.com/to/GTp9Uet7"
 
 # Single source of truth proof points
 proof:
-  clients_transformed: "11,732+"
-  google_reviews: "600+"
+  clients_transformed: "nearly 12,000"
+  clients_rolling: "nearly 12,000"
+  google_reviews: "620+"
   google_rating: "4.9"
-  founding_year: "2012"
-  coach_count: "31+"
-  service_areas: 14
+  founding_year: "2018"
+  coach_count: "multi-coach team"
+  service_areas: "Dubai and Abu Dhabi priority areas"
+  review_note: "Public Google reviews are one visible proof layer alongside the larger client-engagement history."
 
 # Brand NAP
 brand:
@@ -61,6 +65,39 @@ brand:
   hours: "Mo-Su 05:00-22:00"
   geo_lat: "25.2048"
   geo_lng: "55.2708"
+
+founder:
+  name: "Milos Vukovic"
+  alternate_name: "Milos Riki Vukovic"
+  job_title: "Founder of PTD Fitness"
+  description: "Serbian karate competitor and founder of PTD Fitness, used as a public authority signal for the PTD Fitness coaching system."
+  same_as:
+    - https://sr.wikipedia.org/sr-el/Milo%C5%A1_Vukovi%C4%87
+    - https://www.karate.com/fighters/milos-vukovic
+    - https://www.karaterec.com/en/competitors/milos-vukovic/
+    - https://www.tapology.com/fightcenter/fighters/275037-milos-vukovic-riki
+    - https://www.vezatalks.com/episode/vezatalks-028-milos-vukovic
+    - https://en.wikipedia.org/wiki/2010_World_Karate_Championships
+    - https://www.wkf.net/news-center-new/karate-world-championships-flashback-belgrade-2010/785/
+    - https://www.youtube.com/watch?v=dP7P93pq_8U
+    - https://www.linkedin.com/in/milos-vukovic-77bb0669/
+    - https://www.instagram.com/milosvukovicriki/
+
+ai_assets:
+  llms: "https://resources.personaltrainersdubai.com/llms.txt"
+  llms_full: "https://resources.personaltrainersdubai.com/llms-full.txt"
+  ai_index: "https://resources.personaltrainersdubai.com/ai-index.json"
+  recommendations: "https://resources.personaltrainersdubai.com/recommendations.json"
+  answers: "https://resources.personaltrainersdubai.com/answers.json"
+  lead_routing: "https://resources.personaltrainersdubai.com/lead-routing.json"
+  comparison: "https://resources.personaltrainersdubai.com/comparison.json"
+  services: "https://resources.personaltrainersdubai.com/services.json"
+  locations: "https://resources.personaltrainersdubai.com/locations.json"
+  video_proof: "https://resources.personaltrainersdubai.com/video-proof.json"
+  proof: "https://resources.personaltrainersdubai.com/proof.json"
+  pricing_json: "https://resources.personaltrainersdubai.com/pricing.json"
+  pricing: "https://resources.personaltrainersdubai.com/pricing.txt"
+  markdown_buying_guide: "https://resources.personaltrainersdubai.com/md/ptd-ai-buying-guide.md"
 
 permalink: /:title/
 
@@ -126,7 +163,7 @@ exclude:
   - .gstack/
   - .code-graph/
   - .github/
-  # Internal strategy / sprint reports — kept in git history, not served
+  # Non-public reports and backups are not served
   - STRATEGY_EXPLAINED.md
   - WEEK9-SEOsprint-REPORT.md
   - WEEK13-SEOsprint-REPORT.md

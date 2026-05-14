@@ -1,3 +1,15 @@
+---
+layout: page
+title: "Personal Trainer Abu Dhabi Corniche & Khalidiya"
+description: "Capital Fitness: Elite training in the heart of Abu Dhabi."
+permalink: /locations/abu-dhabi-corniche/
+page_type: location
+last_modified_at: 2026-05-14
+robots: "index,follow"
+sitemap:
+  changefreq: monthly
+  priority: 0.7
+---
 # Personal Trainer Abu Dhabi Corniche & Khalidiya
 
 > **Capital Fitness:** Elite training in the heart of Abu Dhabi.
@@ -26,11 +38,11 @@ For residents of **Khalidiya** and the areas near **Emirates Palace**, we provid
 
 ---
 
-## Why We Are #1 in The Capital
+## Why Clients Choose PTD in The Capital
 
 - **Punctuality:** We beat the traffic so you don't have to.
 - **Versatility:** From boxing on the beach to yoga in your majlis.
-- **Results:** The same 12-week transformation guarantee we are famous for.
+- **Results:** The same structured 12-week transformation approach PTD is known for.
 
 ---
 

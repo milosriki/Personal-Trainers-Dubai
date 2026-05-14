@@ -1,3 +1,15 @@
+---
+layout: page
+title: "Personal Training in Khalifa City"
+description: "Expert personal training services in Khalifa City, Abu Dhabi"
+permalink: /locations/khalifa-city/
+page_type: location
+last_modified_at: 2026-05-14
+robots: "index,follow"
+sitemap:
+  changefreq: monthly
+  priority: 0.7
+---
 # Personal Training in Khalifa City
 
 > Expert personal training services in Khalifa City, Abu Dhabi
@@ -18,8 +30,8 @@ Khalifa City is a prestigious residential area in Abu Dhabi, popular with famili
 
 ✅ **Premium Service** - Five-star fitness experience
 ✅ **Convenience** - We come to your villa or apartment
-✅ **Expert Trainers** - Master's degree certified
-✅ **Proven Results** - 11,732+ transformations
+✅ **Expert Trainers** - qualified
+✅ **Proven Results** - nearly 12,000 transformations
 
 ## Get Started in Khalifa City
 

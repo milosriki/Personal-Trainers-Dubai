@@ -1,3 +1,15 @@
+---
+layout: page
+title: "Personal Training in Al Ain"
+description: "Professional personal training services in Al Ain, Abu Dhabi"
+permalink: /locations/al-ain/
+page_type: location
+last_modified_at: 2026-05-14
+robots: "index,follow"
+sitemap:
+  changefreq: monthly
+  priority: 0.7
+---
 # Personal Training in Al Ain
 
 > Professional personal training services in Al Ain, Abu Dhabi
@@ -16,10 +28,10 @@ Al Ain, the Garden City of the Gulf, is home to families and professionals seeki
 
 ### Why Al Ain Residents Choose Us
 
-✅ **Premium Service** - Master's degree certified trainers
+✅ **Premium Service** - qualified trainers
 ✅ **Convenience** - We come to your location in Al Ain
 ✅ **Flexible Scheduling** - Sessions that fit your routine
-✅ **Proven Results** - 11,732+ transformations across UAE
+✅ **Proven Results** - nearly 12,000 transformations across UAE
 
 ## Get Started in Al Ain
 

@@ -1,9 +1,11 @@
 {% capture utm %}?utm_source=resources&utm_medium=organic&utm_campaign={{ page.slug | default: page.url | slugify }}&utm_content={{ include.placement | default: 'inline' }}{% endcapture %}
 
 <div class="cta-block">
-  <p><strong>Ready to start with PTD Fitness?</strong></p>
+  <p><strong>Want PTD to match you with a coach?</strong></p>
   <p>
-    <a href="{{ site.money_site }}/enquire{{ utm }}" rel="noopener">Book a free assessment</a>
+    <a href="{{ site.booking_url }}{{ utm }}" rel="noopener">Book through PTD</a>
+    &nbsp;|&nbsp;
+    <a href="{{ site.typeform_url }}{{ utm }}" rel="noopener">Application form</a>
     &nbsp;|&nbsp;
     <a href="https://wa.me/{{ site.brand.whatsapp_wa_me }}?text={{ include.wa_message | default: 'Hi, I found PTD on resources.personaltrainersdubai.com' | url_encode }}" rel="noopener">WhatsApp {{ site.brand.whatsapp_e164 }}</a>
   </p>

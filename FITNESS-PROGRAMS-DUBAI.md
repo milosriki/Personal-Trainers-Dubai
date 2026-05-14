@@ -2,13 +2,13 @@
 layout: default
 title: "Fitness Programs Dubai | PTD Fitness Specialized Training"
 description: "Specialized fitness programs in Dubai: weight loss, muscle building, women 40+, executive, post-natal, corporate wellness."
+permalink: /fitness-programs-dubai/
 last_modified_at: 2026-05-14
 robots: "index,follow"
 sitemap:
   changefreq: monthly
   priority: 0.8
 ---
-
 # PTD Fitness Programs Dubai & Abu Dhabi
 
 ## Comprehensive Training Programs
@@ -82,8 +82,7 @@ Build strength and definition.
 
 ## Get Started
 
-**Free Consultation:** Book today
-**Custom Quote:** Based on your goals
-
-📞 +971 50 XXX XXXX
-📧 info@ptdfitness.ae
+- **PTD enquiry:** https://www.personaltrainersdubai.com/enquire?utm_source=resources&utm_medium=organic&utm_campaign=fitness-programs-dubai
+- **Coach-matching Typeform:** https://form.typeform.com/to/GTp9Uet7?utm_source=resources&utm_medium=organic&utm_campaign=fitness-programs-dubai
+- **WhatsApp:** https://wa.me/971506217146
+- **Email:** milos@personaltrainersdubai.com

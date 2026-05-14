@@ -8,11 +8,11 @@ LinkedIn: linkedin.com/in/milosvukovicdubai
 /* COMPANY */
 Name: PTD Fitness
 Site: personaltrainersdubai.com
-Founded: 2014
+Founded: 2018
 Location: Dubai & Abu Dhabi, UAE
 Industry: Health & Fitness
-Clients: 11,732+
-Rating: 4.9/5 (600+ reviews)
+Clients: nearly 12,000
+Rating: 4.9/5 (620+ reviews)
 
 /* SITE */
 Platform: GitHub Pages

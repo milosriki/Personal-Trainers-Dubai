@@ -1,6 +1,18 @@
+---
+layout: page
+title: "Personal Training in Dubai Marina"
+description: "Dubai Marina's 1 Home Personal Training Service — Expert coaches at your door in Marina, JBR, and Bluewaters. Equipment included."
+permalink: /docs/dubai-marina-personal-training/
+page_type: guide
+last_modified_at: 2026-05-14
+robots: "index,follow"
+sitemap:
+  changefreq: monthly
+  priority: 0.5
+---
 # Personal Training in Dubai Marina | PTD Fitness
 
-> **Dubai Marina's #1 Home Personal Training Service** — Expert coaches at your door in Marina, JBR, and Bluewaters. Equipment included.
+> **Dubai Marina Home Personal Training Service** — Expert coaches at your door in Marina, JBR, and Bluewaters. Equipment included.
 
 ---
 
@@ -12,7 +24,7 @@ Dubai Marina's high-rise lifestyle makes home training the perfect fit. Skip the
 
 ### What You Get
 
-- Certified coach with Master's in Sports Science
+- Certified coach with relevant fitness education
 - All equipment brought to your door
 - Flexible scheduling (5 AM – 10 PM)
 - 12-week structured transformation

@@ -1,3 +1,15 @@
+---
+layout: page
+title: "Personal Trainer Downtown Dubai & Business Bay"
+description: "Executive Fitness: High-efficiency training for those living in the center of it all."
+permalink: /locations/downtown-dubai/
+page_type: location
+last_modified_at: 2026-05-14
+robots: "index,follow"
+sitemap:
+  changefreq: monthly
+  priority: 0.7
+---
 # Personal Trainer Downtown Dubai & Business Bay
 
 > **Executive Fitness:** High-efficiency training for those living in the center of it all.

@@ -80,4 +80,4 @@ function showResult() {
 
 Share your result! Are you an **Executive Sprinter** or a **Weekend Warrior**?
 
-[**WhatsApp Your Result**](https://wa.me/?text=I%20just%20took%20the%20Dubai%20Fitness%20Quiz!%20Find%20out%20your%20type%20here:%20https://milosriki.github.io/Personal-Trainers-Dubai/tools/transformation-quiz/)
+[**WhatsApp Your Result**](https://wa.me/?text=I%20just%20took%20the%20Dubai%20Fitness%20Quiz!%20Find%20out%20your%20type%20here:%20https://resources.personaltrainersdubai.com/tools/transformation-quiz/)

@@ -1,6 +1,18 @@
+---
+layout: page
+title: "Personal Training in Abu Dhabi"
+description: "Abu Dhabi's Home Training Specialists — qualified coaches, full equipment. Serving Saadiyat, Yas, Corniche, and beyond."
+permalink: /docs/abu-dhabi-personal-training/
+page_type: guide
+last_modified_at: 2026-05-14
+robots: "index,follow"
+sitemap:
+  changefreq: monthly
+  priority: 0.5
+---
 # Personal Training in Abu Dhabi | PTD Fitness
 
-> **Abu Dhabi's Home Training Specialists** — Master's degree coaches, full equipment. Serving Saadiyat, Yas, Corniche, and beyond.
+> **Abu Dhabi's Home Training Specialists** — qualified coaches, full equipment. Serving Saadiyat, Yas, Corniche, and beyond.
 
 ---
 
@@ -12,7 +24,7 @@ Abu Dhabi's spread-out neighborhoods make gym commutes time-consuming. Train at 
 
 ### What You Get
 
-- Expert coach with Master's degree qualification
+- Expert coach with goal-specific coaching plan
 - All training equipment brought to your location
 - Flexible scheduling around your lifestyle
 - Personalized meal planning support

@@ -1,6 +1,18 @@
+---
+layout: page
+title: "Personal Training in Business Bay & Downtown"
+description: "Business Bay's 1 Mobile Fitness Service — Trainers come to your home or office gym near Burj Khalifa. Equipment included."
+permalink: /docs/business-bay-personal-training/
+page_type: guide
+last_modified_at: 2026-05-14
+robots: "index,follow"
+sitemap:
+  changefreq: monthly
+  priority: 0.5
+---
 # Personal Training in Business Bay & Downtown | PTD Fitness
 
-> **Business Bay's #1 Mobile Fitness Service** — Trainers come to your home or office gym near Burj Khalifa. Equipment included.
+> **Business Bay Mobile Fitness Service** — Trainers come to your home or office gym near Burj Khalifa. Equipment included.
 
 ---
 
@@ -12,7 +24,7 @@ Business Bay professionals are busy. Morning sessions before work, lunchtime gym
 
 ### What You Get
 
-- Master's degree certified coaches
+- qualified coaches
 - All training equipment provided
 - Sessions fit your work schedule
 - Corporate wellness integration available

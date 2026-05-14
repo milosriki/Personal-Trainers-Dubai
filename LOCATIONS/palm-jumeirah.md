@@ -1,3 +1,15 @@
+---
+layout: page
+title: "Luxury Personal Training on Palm Jumeirah"
+description: "Exclusive Service: Premium personal training for residents of Palm Jumeirah, including Signature Villas, Garden Homes, and Shoreline Apartments."
+permalink: /locations/palm-jumeirah/
+page_type: location
+last_modified_at: 2026-05-14
+robots: "index,follow"
+sitemap:
+  changefreq: monthly
+  priority: 0.7
+---
 # Luxury Personal Training on Palm Jumeirah
 
 > **Exclusive Service:** Premium personal training for residents of **Palm Jumeirah**, including Signature Villas, Garden Homes, and Shoreline Apartments.
@@ -19,7 +31,7 @@ Transform your private pool deck or garden into a high-performance training zone
 - Boxing Equipment
 - Yoga & Recovery Tools
 
-_Respect for your home and privacy is our #1 protocol._
+_Respect for your home and privacy is our first protocol._
 
 ### 2. Shoreline & Golden Mile
 

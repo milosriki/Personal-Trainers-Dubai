@@ -2,13 +2,13 @@
 layout: default
 title: "Service Areas — Dubai & Abu Dhabi Personal Training Coverage"
 description: "PTD Fitness service areas across Dubai (Marina, Palm, Downtown, Emirates Hills, etc.) and Abu Dhabi (Saadiyat, Yas, Al Reem, Corniche)."
+permalink: /locations/
 last_modified_at: 2026-05-14
 robots: "index,follow"
 sitemap:
   changefreq: monthly
   priority: 0.8
 ---
-
 # Personal Training Locations | Dubai & Abu Dhabi | PTD Fitness
 
 > **Personal training at your location across 40+ areas in Dubai and Abu Dhabi.** Our trainers come to you with all equipment. [Find your area →](https://www.personaltrainersdubai.com/enquire)
@@ -272,14 +272,14 @@ For areas outside our standard coverage, we may be able to accommodate with an a
 
 ## About PTD Fitness
 
-**PTD Fitness** is Dubai and Abu Dhabi's leading personal training at your location service.
+**PTD Fitness** is a leading personal training-at-your-location service in Dubai and Abu Dhabi.
 
 | Proof Point | Details |
 |-------------|---------|
-| **11,732+ Clients** | Across Dubai & Abu Dhabi |
-| **600+ Reviews** | 4.9/5 average rating |
+| **nearly 12,000 Clients** | Across Dubai & Abu Dhabi |
+| **620+ Reviews** | 4.9/5 average rating |
 | **40+ Areas** | Comprehensive coverage |
-| **Since 2015** | 10+ years of service |
+| **Since 2018** | Service across Dubai and Abu Dhabi |
 
 [About Us →](https://www.personaltrainersdubai.com/about-us) | [Our Team →](https://www.personaltrainersdubai.com/our-team) | [Testimonials →](https://www.personaltrainersdubai.com/testimonials)
 

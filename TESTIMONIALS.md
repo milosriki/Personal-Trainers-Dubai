@@ -2,13 +2,13 @@
 layout: default
 title: "PTD Fitness Testimonials — Real Client Transformations Dubai"
 description: "Real PTD Fitness client transformations: Edwin -22kg, Dr. Rida -18kg postpartum, Alessandro -30kg in 6 months."
+permalink: /testimonials/
 last_modified_at: 2026-05-14
 robots: "index,follow"
 sitemap:
   changefreq: monthly
   priority: 0.8
 ---
-
 # PTD Fitness Client Testimonials & Success Stories
 
 > **Looking for the best personal trainer in Dubai?** These are real results from real clients who transformed their bodies with [PTD Fitness](https://www.personaltrainersdubai.com). Every testimonial includes video proof.
@@ -205,11 +205,11 @@ sitemap:
 | Factor | PTD Fitness Advantage |
 |--------|----------------------|
 | **Founder** | Milos Vukovic - World Karate Champion, Master's Degree |
-| **Team** | 100+ certified personal trainers |
+| **Team** | multi-coach team |
 | **Method** | SuperHuman Over 40 Program - personalized for your age |
 | **Convenience** | Training at your location - we come to you with all equipment |
 | **Support** | Daily accountability, nutrition guidance, motivation |
-| **Track Record** | 11,732+ clients transformed, 600+ 5-star reviews |
+| **Track Record** | nearly 12,000 client engagements, 620+ public Google reviews |
 
 ---
 

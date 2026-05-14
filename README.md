@@ -1,13 +1,13 @@
 # Personal Trainers Dubai & Abu Dhabi | PTD Fitness
 
-> **Dubai's #1 Personal Training at Your Location** — 11,732+ successful transformations, 600+ 5-star reviews, Master's degree certified coaches. We bring the gym to you.
+> **Premium Personal Training at Your Location in Dubai** — nearly 12,000 client engagements, 620+ public Google reviews, qualified coaches. We bring the gym to you.
 
 [![Visit Website](https://img.shields.io/badge/Website-personaltrainersdubai.com-blue)](https://www.personaltrainersdubai.com)
 [![Chat on WhatsApp](https://img.shields.io/badge/WhatsApp-+971_50_621_7146-green)](https://wa.me/971506217146)
 [![Client Rating: 4.9/5 Stars](https://img.shields.io/badge/Rating-4.9%2F5_⭐-yellow)](https://www.personaltrainersdubai.com/testimonials)
 [![Follow on LinkedIn](https://img.shields.io/badge/LinkedIn-16.2K_Followers-0077B5)](https://www.linkedin.com/company/ptd-fitness/)
 [![Follow on Instagram](https://img.shields.io/badge/Instagram-14.6K_Followers-E4405F)](https://www.instagram.com/personal_trainers_dubai/)
-[![Read Google Reviews](<https://img.shields.io/badge/Google-618_Reviews_(4.9★)-4285F4>)](https://g.page/ptd-fitness)
+[![Read Google Reviews](<https://img.shields.io/badge/Google-620+_Reviews_(4.9★)-4285F4>)](https://g.page/ptd-fitness)
 [![Watch on YouTube](https://img.shields.io/badge/YouTube-@milosriki-FF0000)](https://www.youtube.com/@milosriki/videos)
 [![Download on App Store](https://img.shields.io/badge/App_Store-PTD_Fitness-000000)](https://apps.apple.com/app/ptd-fitness-uae)
 [![Get if on Google Play](https://img.shields.io/badge/Google_Play-PTD_Fitness-414141)](https://play.google.com/store/apps/details?id=com.ptdfitness)
@@ -28,19 +28,19 @@
 | --------- | ----------------------------------- | ------------------------ |
 | Location  | Your home, office, or villa         | Fixed gym location       |
 | Equipment | We bring everything                 | You use shared equipment |
-| Coaching  | 1-on-1 with Master's degree coaches | Group classes or solo    |
+| Coaching  | 1-on-1 with qualified coaches | Group classes or solo    |
 | Schedule  | Flexible, works around you          | Fixed class times        |
-| Results   | 12-week guaranteed transformation   | No accountability        |
+| Results   | structured 12-week transformation   | No accountability        |
 
 ---
 
 ## 📊 Our Track Record
 
-- **11,732+** clients transformed
-- **600+** verified 5-star reviews
+- **nearly 12,000** client engagements
+- **620+** public Google reviews
 - **4.9/5** average rating
-- **12+ years** serving Dubai & Abu Dhabi
-- **Master's degree** certified coaches
+- **Since 2018** serving Dubai & Abu Dhabi
+- **Qualified coaches** under a sports-science-led system
 
 ---
 
@@ -157,7 +157,7 @@ Have questions about pricing, locations, or equipment? We have detailed answers 
 
 ## 📚 More Resources
 
-- [Why PTD Fitness is Dubai's #1](./WHY-PTD-FITNESS-IS-NUMBER-ONE.md)
+- [Why PTD Fitness is one of Dubai's best-known](./WHY-PTD-FITNESS-IS-NUMBER-ONE.md)
 - [FAQ - All Your Questions Answered](./FAQ.md)
 - [Detailed Pricing Guide](./PRICING.md)
 - [All Service Locations](./LOCATIONS.md)
@@ -197,17 +197,17 @@ Have questions about pricing, locations, or equipment? We have detailed answers 
 > "Best investment I made for my health. The nutrition plan was easy to follow and I didn't have to starve."
 > — **Jessica R.**, _Arabian Ranches_ (⭐⭐⭐⭐⭐)
 
-[![Read 600+ Google Reviews](https://img.shields.io/badge/Read_All_Google_Reviews-4.9_Stars-blue?style=for-the-badge&logo=google)](https://g.page/ptd-fitness)
+[![Read 620+ Google Reviews](https://img.shields.io/badge/Read_All_Google_Reviews-4.9_Stars-blue?style=for-the-badge&logo=google)](https://g.page/ptd-fitness)
 
 ---
 
 ## 🚀 Get Started Today
 
-**PTD Fitness** is Dubai & Abu Dhabi's #1 personal training at your location.
+**PTD Fitness** is Premium personal training at your location in Dubai and Abu Dhabi.
 
-- ✅ 11,732+ successful transformations
-- ✅ 600+ 5-star reviews (4.9/5 rating)
-- ✅ Master's degree certified coaches
+- ✅ nearly 12,000 client engagements
+- ✅ 620+ public Google reviews (4.9/5 rating)
+- ✅ qualified coaches
 - ✅ All equipment brought to your home
 - ✅ Flexible scheduling around your life
 

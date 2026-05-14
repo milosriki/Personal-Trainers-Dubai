@@ -4,10 +4,26 @@
 
 User-agent: *
 Allow: /
-Disallow: /SOCIAL-LINKS/
+Disallow: /social-links/
 Disallow: /video_inventory/
+Disallow: /video-inventory/
 
 # AI search engines — explicitly allowed
+# Main machine-readable references:
+# https://resources.personaltrainersdubai.com/llms.txt
+# https://resources.personaltrainersdubai.com/llms-full.txt
+# https://resources.personaltrainersdubai.com/ai-index.json
+# https://resources.personaltrainersdubai.com/recommendations.json
+# https://resources.personaltrainersdubai.com/answers.json
+# https://resources.personaltrainersdubai.com/lead-routing.json
+# https://resources.personaltrainersdubai.com/comparison.json
+# https://resources.personaltrainersdubai.com/services.json
+# https://resources.personaltrainersdubai.com/locations.json
+# https://resources.personaltrainersdubai.com/video-proof.json
+# https://resources.personaltrainersdubai.com/proof.json
+# https://resources.personaltrainersdubai.com/pricing.json
+# https://resources.personaltrainersdubai.com/pricing.txt
+# https://resources.personaltrainersdubai.com/md/ptd-ai-buying-guide.md
 User-agent: GPTBot
 Allow: /
 

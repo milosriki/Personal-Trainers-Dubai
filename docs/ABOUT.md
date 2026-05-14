@@ -1,6 +1,18 @@
-# About PTD Fitness | Dubai's #1 Personal Training at Your Location
+---
+layout: page
+title: "About PTD Fitness"
+description: "Premium personal training that comes to you. Since 2018, we've delivered nearly 12,000 client engagements across Dubai and Abu Dhabi. Start your transformation →"
+permalink: /docs/about/
+page_type: guide
+last_modified_at: 2026-05-14
+robots: "index,follow"
+sitemap:
+  changefreq: monthly
+  priority: 0.5
+---
+# About PTD Fitness | Premium Personal Training at Your Location in Dubai
 
-> **Premium personal training that comes to you.** Since 2015, we've helped 11,732+ clients transform their bodies across Dubai and Abu Dhabi. [Start your transformation →](https://www.personaltrainersdubai.com/enquire)
+> **Premium personal training that comes to you.** Since 2018, we've delivered nearly 12,000 client engagements across Dubai and Abu Dhabi. [Start your transformation →](https://www.personaltrainersdubai.com/enquire)
 
 ---
 
@@ -10,7 +22,7 @@
 
 We recognized that the traditional gym model doesn't work for everyone. Long commutes, crowded facilities, and inflexible schedules prevent many people from achieving their fitness goals. Our solution: bring the trainer, equipment, and expertise directly to you.
 
-Since 2015, we've grown from a single trainer to Dubai's leading personal training at your location service, with a team of Master's degree certified coaches serving clients across 40+ areas.
+Since 2018, we've grown from a single trainer to a leading personal training-at-your-location service in Dubai, with a team of qualified coaches serving clients across 40+ areas.
 
 ---
 
@@ -18,12 +30,12 @@ Since 2015, we've grown from a single trainer to Dubai's leading personal traini
 
 | Metric | Value |
 |--------|-------|
-| **Clients Served** | 11,732+ |
-| **5-Star Reviews** | 600+ |
+| **Clients Served** | nearly 12,000 |
+| **Public Google Reviews** | 620+ |
 | **Average Rating** | 4.9/5 |
-| **Years in Dubai** | 10+ |
+| **Operating Since** | 2018 |
 | **Areas Covered** | 40+ |
-| **Trainer Qualifications** | Master's Degree |
+| **Trainer Qualifications** | Qualified coaches, relevant certifications, founder-led sports-science system |
 
 ---
 
@@ -39,10 +51,10 @@ No gym membership required. Our trainers travel to your:
 
 We bring all necessary equipment, so you don't need to invest in anything.
 
-### 2. Master's Degree Coaches
+### 2. Qualified Coaches
 
-Unlike typical personal trainers with weekend certifications, PTD Fitness coaches hold:
-- Master's degrees in sports science or related fields
+PTD Fitness coaches are selected for practical ability, client communication, and relevant fitness credentials, including:
+- Sports science education or related fitness education where applicable
 - International certifications (NASM, ACE, ACSM)
 - Minimum 5 years professional experience
 - Specialized training certifications
@@ -63,8 +75,8 @@ Fitness that fits your schedule, family, and social commitments. We work around 
 ### 4. Proven Results
 
 Our track record speaks for itself:
-- 11,732+ successful transformations
-- 600+ verified 5-star reviews
+- nearly 12,000 client engagements
+- 620+ public Google reviews
 - 4.9/5 average rating
 - Trusted by executives, families, and professionals across Dubai
 
@@ -82,7 +94,7 @@ Every PTD Fitness trainer meets our rigorous standards:
 
 | Requirement | Details |
 |-------------|---------|
-| Education | Master's degree in sports science or related field |
+| Education | Sports science education, related fitness education, or practical coaching background |
 | Certification | NASM, ACE, ACSM, or equivalent |
 | Experience | Minimum 5 years professional training |
 | Specialization | At least one area of expertise |
@@ -182,7 +194,7 @@ PTD Fitness works with leading companies in Dubai to provide:
 
 - Executive fitness programs
 - Team wellness initiatives
-- Corporate health assessments
+- Corporate fitness assessments
 - Workplace training sessions
 - Wellness workshops
 

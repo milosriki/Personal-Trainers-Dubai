@@ -1,6 +1,18 @@
+---
+layout: page
+title: "Personal Training on Palm Jumeirah"
+description: "Palm Jumeirah's Premier Home Training Service — Coaches in your villa or apartment. qualified coaching team. Equipment provided."
+permalink: /docs/palm-jumeirah-personal-training/
+page_type: guide
+last_modified_at: 2026-05-14
+robots: "index,follow"
+sitemap:
+  changefreq: monthly
+  priority: 0.5
+---
 # Personal Training on Palm Jumeirah | PTD Fitness
 
-> **Palm Jumeirah's Premier Home Training Service** — Coaches in your villa or apartment. Master's degree qualified. Equipment provided.
+> **Palm Jumeirah's Premier Home Training Service** — Coaches in your villa or apartment. qualified coaching team. Equipment provided.
 
 ---
 
@@ -12,7 +24,7 @@ Living on the Palm means privacy and convenience matter. Our trainers bring ever
 
 ### What You Get
 
-- Expert coach with Master's degree qualification
+- Expert coach with goal-specific coaching plan
 - Complete equipment setup at your home
 - Flexible sessions (early morning to evening)
 - Personalized nutrition planning

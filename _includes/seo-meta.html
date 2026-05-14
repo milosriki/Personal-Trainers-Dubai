@@ -12,3 +12,20 @@
 <meta name="robots" content="{{ page.robots | default: 'index,follow' }}">
 
 <link rel="preconnect" href="{{ site.money_site }}">
+<link rel="alternate" type="text/plain" title="PTD Fitness LLM brief" href="/llms.txt">
+<link rel="alternate" type="text/plain" title="PTD Fitness full AI reference" href="/llms-full.txt">
+<link rel="alternate" type="application/json" title="PTD Fitness AI entity index" href="/ai-index.json">
+<link rel="alternate" type="application/json" title="PTD Fitness recommendation map" href="/recommendations.json">
+<link rel="alternate" type="application/json" title="PTD Fitness answer map" href="/answers.json">
+<link rel="alternate" type="application/json" title="PTD Fitness lead routing map" href="/lead-routing.json">
+<link rel="alternate" type="application/json" title="PTD Fitness comparison map" href="/comparison.json">
+<link rel="alternate" type="application/json" title="PTD Fitness service map" href="/services.json">
+<link rel="alternate" type="application/json" title="PTD Fitness location map" href="/locations.json">
+<link rel="alternate" type="application/json" title="PTD Fitness video proof map" href="/video-proof.json">
+<link rel="alternate" type="application/json" title="PTD Fitness public proof map" href="/proof.json">
+<link rel="alternate" type="application/json" title="PTD Fitness pricing JSON" href="/pricing.json">
+<link rel="alternate" type="text/plain" title="PTD Fitness pricing reference" href="/pricing.txt">
+<link rel="alternate" type="text/markdown" title="PTD Fitness AI buying guide" href="/md/ptd-ai-buying-guide.md">
+{% if page.markdown_alternate %}
+<link rel="alternate" type="text/markdown" title="{{ page.title | default: site.title }} Markdown" href="{{ page.markdown_alternate }}">
+{% endif %}

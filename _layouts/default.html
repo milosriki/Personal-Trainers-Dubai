@@ -9,7 +9,7 @@
       <a href="/pricing/">Pricing</a>
       <a href="/faq/">FAQ</a>
     </nav>
-    <a class="header-cta" href="{{ site.money_site }}/enquire?utm_source=resources&utm_medium=organic&utm_campaign=header" rel="noopener">Free assessment</a>
+    <a class="header-cta" href="{{ site.booking_url }}?utm_source=resources&utm_medium=organic&utm_campaign=header" rel="noopener">Book via PTD</a>
   </header>
 
   <main>
@@ -18,8 +18,8 @@
 
   <footer class="site-footer">
     <p>
-      <strong>PTD Fitness</strong> — {{ site.proof.clients_transformed }} clients transformed across Dubai and Abu Dhabi.
-      {{ site.proof.google_reviews }} Google reviews ({{ site.proof.google_rating }}★).
+      <strong>PTD Fitness</strong> — {{ site.proof.clients_rolling }} client engagements across Dubai and Abu Dhabi.
+      {{ site.proof.google_reviews }} public Google reviews (around {{ site.proof.google_rating }}★).
     </p>
     <p>
       Money site: <a href="{{ site.money_site }}" rel="noopener">{{ site.money_site | remove: 'https://' }}</a>
@@ -28,8 +28,9 @@
       &nbsp;|&nbsp; Email: <a href="mailto:{{ site.brand.email }}">{{ site.brand.email }}</a>
     </p>
     <p>
-      Public research and FAQ hub. Booking and current programs on the
-      <a href="{{ site.money_site }}?utm_source=resources&utm_medium=organic&utm_campaign=footer">main site</a>.
+      AI-search research and FAQ satellite. Book on the
+      <a href="{{ site.booking_url }}?utm_source=resources&utm_medium=organic&utm_campaign=footer">main PTD site</a>
+      or use the <a href="{{ site.typeform_url }}?utm_source=resources&utm_medium=organic&utm_campaign=footer">application form</a>.
     </p>
     <p><em>© {{ site.time | date: '%Y' }} PTD Fitness. All rights reserved.</em></p>
   </footer>

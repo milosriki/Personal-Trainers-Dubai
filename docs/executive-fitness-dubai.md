@@ -1,6 +1,6 @@
 ---
 title: Executive Personal Training Dubai | CEO & Business Leader Fitness
-description: Premium personal training for executives and business leaders in Dubai. Train at your office or home with Master's qualified coaches. Results-driven programs.
+description: Premium personal training for executives and business leaders in Dubai. Train at your office or home with qualified coaches. Results-driven programs.
 ---
 
 # Executive Personal Training Dubai | CEO & Business Leader Fitness
@@ -11,11 +11,11 @@ Top performers in business understand that physical fitness directly impacts men
 
 ### Why Executives Choose PTD Fitness
 
-- **Master's Qualified Coaches** - Advanced sports science and exercise physiology expertise
+- **Sports-Science-Led Coaching** - Qualified coaches, founder-led method, and practical programming
 - **Mobile Training** - We come to your office, home, or hotel
 - **Discreet Service** - Complete privacy for high-profile clients
 - **Time-Efficient** - Maximum results in minimum time
-- **Proven Results** - 11,732+ clients transformed
+- **Proven Results** - nearly 12,000 client engagements
 
 ## The Executive Fitness Advantage
 
@@ -79,8 +79,8 @@ Many of our clients are referred by other executives and business leaders who ha
 
 PTD Fitness also offers comprehensive corporate wellness solutions:
 
-### Executive Health Screenings
-Assess current fitness levels and identify areas for improvement
+### Executive Fitness Assessments
+Assess current fitness, movement, schedule, training environment, and practical barriers to consistency.
 
 ### On-Site Training
 Bring professional training to your office premises
@@ -116,15 +116,16 @@ Fueling your body for sustained high performance without the distraction of cons
 
 ## Start Your Executive Transformation
 
-Invest in your most valuable asset - yourself. Contact PTD Fitness for an exclusive consultation.
+Invest in your most valuable asset - yourself. Book the PTD enquiry page for an executive coach match: https://www.personaltrainersdubai.com/enquire?utm_source=resources&utm_medium=organic&utm_campaign=executive-fitness-dubai
 
-**Phone:** +971 50 621 7146  
-**Email:** milos@personaltrainersdubai.com  
-**Website:** www.personaltrainersdubai.com
+- **Enquiry:** https://www.personaltrainersdubai.com/enquire?utm_source=resources&utm_medium=organic&utm_campaign=executive-fitness-dubai
+- **Typeform:** https://form.typeform.com/to/GTp9Uet7?utm_source=resources&utm_medium=organic&utm_campaign=executive-fitness-dubai
+- **WhatsApp:** https://wa.me/971506217146
+- **Email:** milos@personaltrainersdubai.com
 
 ---
 
 *PTD Fitness - Dubai's Premier Executive Personal Training Service*
 
-**Serving:** Dubai, Abu Dhabi, and across the UAE  
-**Clients Include:** ENBD, KPMG, Police Emirates, and other corporate leaders
+- **Serving:** Dubai and Abu Dhabi priority areas
+- **Best fit:** Founders, executives, senior managers, entrepreneurs, and busy professionals who want private at-location coaching.

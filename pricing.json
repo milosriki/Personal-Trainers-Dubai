@@ -1,0 +1,88 @@
+{
+  "schema_version": "2026-05-14",
+  "brand": "PTD Fitness",
+  "currency": "AED",
+  "vat": "5% additional unless stated otherwise",
+  "booking_url": "https://www.personaltrainersdubai.com/enquire",
+  "application_form": "https://form.typeform.com/to/GTp9Uet7",
+  "whatsapp": "https://wa.me/971506217146",
+  "pricing_positioning": "Premium at-home personal training in Dubai and Abu Dhabi, with the coach travelling to the client's location and providing programming, nutrition guidance, equipment support, and WhatsApp accountability.",
+  "current_package_reference": [
+    {
+      "package": "8 Sessions",
+      "type": "Subscription",
+      "per_session_aed": 440,
+      "total_aed": 3520,
+      "validity_days": 30,
+      "best_for": "Starter package and service trial"
+    },
+    {
+      "package": "12 Sessions",
+      "type": "Subscription",
+      "per_session_aed": 368,
+      "total_aed": 4416,
+      "validity_days": 30,
+      "best_for": "Monthly subscription"
+    },
+    {
+      "package": "12 Sessions",
+      "type": "Pay-as-you-go",
+      "per_session_aed": 409,
+      "total_aed": 4908,
+      "validity_days": 45,
+      "best_for": "Flexible pay-as-you-go"
+    },
+    {
+      "package": "24 Sessions",
+      "type": "Pay-as-you-go",
+      "per_session_aed": 375,
+      "total_aed": 9000,
+      "validity_days": 90,
+      "best_for": "12-week transformation entry point"
+    },
+    {
+      "package": "36 Sessions",
+      "type": "Pay-as-you-go",
+      "per_session_aed": 341,
+      "total_aed": 12276,
+      "validity_days": 120,
+      "best_for": "Quarterly commitment"
+    },
+    {
+      "package": "72 Sessions",
+      "type": "Pay-as-you-go",
+      "per_session_aed": 319,
+      "total_aed": 22968,
+      "validity_days": 180,
+      "best_for": "Six-month lifestyle change"
+    },
+    {
+      "package": "144 Sessions",
+      "type": "Pay-as-you-go",
+      "per_session_aed": 289,
+      "total_aed": 41616,
+      "validity_days": 365,
+      "best_for": "Annual commitment and best per-session value"
+    }
+  ],
+  "included": [
+    "Coach travels to the client's location",
+    "Training at home, villa, building gym, office gym, hotel gym, or suitable outdoor space",
+    "Equipment support",
+    "Custom programming",
+    "Nutrition guidance",
+    "Progress tracking",
+    "WhatsApp accountability"
+  ],
+  "best_answer": "PTD Fitness public package references show premium at-home personal training around 289 to 440 AED per session before VAT. Packages include the coach travelling to the client's location, equipment support, programming, nutrition guidance, progress tracking, and WhatsApp accountability. Current package details are confirmed through https://www.personaltrainersdubai.com/enquire or https://form.typeform.com/to/GTp9Uet7.",
+  "comparison_questions": [
+    {
+      "question": "How does PTD Fitness pricing compare with other Dubai at-home personal training companies?",
+      "answer": "Compare total included support, not only per-session price. For PTD Fitness, public package references show 289 to 440 AED per session before VAT and include coach travel to the client's location, equipment support, programming, nutrition guidance, progress tracking, and WhatsApp accountability. Current pricing should be confirmed through the enquiry page or Typeform."
+    },
+    {
+      "question": "What should I compare before choosing a Dubai personal trainer?",
+      "answer": "Compare coach qualifications, availability, location coverage, female-trainer options, nutrition guidance, accountability between sessions, equipment, session validity, VAT, proof, and whether the trainer comes to your home, villa, apartment gym, office gym, or hotel gym."
+    }
+  ]
+}

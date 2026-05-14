@@ -11,10 +11,10 @@ At PTD Fitness, we specialize in helping busy professionals in Dubai achieve the
 
 ### Why Choose PTD Fitness for Muscle Building in Dubai?
 
-- **Master's Qualified Coaches** - Our team holds advanced degrees in sports science and exercise physiology
+- **Sports-Science-Led Coaching** - Our team is selected for certifications, practical experience, and sports-science-led programming
 - **Mobile Training** - We come to you anywhere in Dubai and Abu Dhabi
 - **3-Pillar System™** - Our proprietary approach combines strategic training, nutrition integration, and accountability architecture
-- **11,732+ Clients Served** - Proven track record of delivering results
+- **nearly 12,000 Clients Served** - Proven track record of delivering results
 
 ## Our Muscle Building Programs
 

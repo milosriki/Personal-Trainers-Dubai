@@ -1,3 +1,15 @@
+---
+layout: page
+title: "Free Calorie Calculator"
+description: "Calculate your daily calorie needs for weight loss, maintenance, or muscle gain. Customized for Dubai lifestyle. Get personalized nutrition plan →"
+permalink: /resources/calorie-calculator/
+page_type: guide
+last_modified_at: 2026-05-14
+robots: "index,follow"
+sitemap:
+  changefreq: monthly
+  priority: 0.5
+---
 # Free Calorie Calculator | TDEE Calculator Dubai | PTD Fitness
 
 > **Calculate your daily calorie needs for weight loss, maintenance, or muscle gain.** Customized for Dubai lifestyle. [Get personalized nutrition plan →](https://www.personaltrainersdubai.com/enquire)
@@ -259,10 +271,10 @@ This calculator gives you a starting point, but a personalized plan accounts for
 
 | Proof Point | Details |
 |-------------|---------|
-| **11,732+ Clients** | Successful transformations |
-| **600+ Reviews** | 4.9/5 average rating |
-| **Master's Degree Coaches** | Nutrition expertise included |
-| **Since 2015** | 10+ years of results |
+| **nearly 12,000 Clients** | Successful transformations |
+| **620+ Reviews** | 4.9/5 average rating |
+| **Qualified Coaches** | Nutrition guidance included |
+| **Since 2018** | Proven client results |
 
 [About Us →](https://www.personaltrainersdubai.com/about-us) | [Testimonials →](https://www.personaltrainersdubai.com/testimonials)
 

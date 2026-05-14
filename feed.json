@@ -2,7 +2,7 @@
   "version": "https://jsonfeed.org/version/1.1",
   "title": "PTD Fitness — Personal Training Dubai",
   "home_page_url": "https://www.personaltrainersdubai.com",
-  "feed_url": "https://milosriki.github.io/Personal-Trainers-Dubai/feed.json",
+  "feed_url": "https://resources.personaltrainersdubai.com/feed.xml",
   "description": "Dubai and Abu Dhabi's leading mobile personal training service. Expert coaches at your door.",
   "language": "en",
   "authors": [
@@ -15,28 +15,28 @@
     {
       "id": "weight-loss-guide",
       "title": "Complete Weight Loss Guide for Dubai Residents",
-      "url": "https://milosriki.github.io/Personal-Trainers-Dubai/guides/WEIGHT-LOSS-GUIDE.html",
+      "url": "https://resources.personaltrainersdubai.com/guides/weight-loss-guide/",
       "content_text": "A comprehensive guide to sustainable weight loss in Dubai, covering nutrition, exercise planning, and managing fitness in the UAE climate.",
       "date_published": "2026-02-05T00:00:00Z"
     },
     {
       "id": "ramadan-fitness",
       "title": "Ramadan Fitness Guide for Dubai",
-      "url": "https://milosriki.github.io/Personal-Trainers-Dubai/guides/ramadan-fitness-dubai.html",
+      "url": "https://resources.personaltrainersdubai.com/guides/ramadan-fitness-dubai/",
       "content_text": "How to maintain fitness during Ramadan in Dubai. Training timing, nutrition strategies, and hydration tips for fasting.",
       "date_published": "2026-02-05T00:00:00Z"
     },
     {
       "id": "pt-cost-dubai",
       "title": "Personal Training Cost in Dubai — 2026 Guide",
-      "url": "https://milosriki.github.io/Personal-Trainers-Dubai/guides/personal-training-cost-dubai.html",
+      "url": "https://resources.personaltrainersdubai.com/guides/personal-training-cost-dubai/",
       "content_text": "Complete breakdown of personal training costs in Dubai for 2026. Budget, mid-range, and premium options compared.",
       "date_published": "2026-02-06T00:00:00Z"
     },
     {
       "id": "home-vs-gym",
       "title": "Home Training vs Gym in Dubai",
-      "url": "https://milosriki.github.io/Personal-Trainers-Dubai/guides/home-vs-gym-training.html",
+      "url": "https://resources.personaltrainersdubai.com/guides/home-vs-gym-training/",
       "content_text": "Honest comparison of home personal training versus gym memberships in Dubai. Costs, convenience, and results compared.",
       "date_published": "2026-02-06T00:00:00Z"
     }

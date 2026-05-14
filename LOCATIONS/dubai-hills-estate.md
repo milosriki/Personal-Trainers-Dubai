@@ -1,3 +1,15 @@
+---
+layout: page
+title: "Personal Trainer Dubai Hills Estate: The New Standard"
+description: "Active Living: Join the most active community in Dubai with PTD Fitness."
+permalink: /locations/dubai-hills-estate/
+page_type: location
+last_modified_at: 2026-05-14
+robots: "index,follow"
+sitemap:
+  changefreq: monthly
+  priority: 0.7
+---
 # Personal Trainer Dubai Hills Estate: The New Standard
 
 > **Active Living:** Join the most active community in Dubai with PTD Fitness.

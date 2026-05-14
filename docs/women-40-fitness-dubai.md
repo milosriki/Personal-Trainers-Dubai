@@ -15,7 +15,7 @@ Women over 40 face unique fitness challenges that require a specialized approach
 - **Metabolic Reset** - Address the metabolic changes that come with menopause
 - **Bone Health Focus** - Weight-bearing exercises to maintain bone density
 - **Privacy and Comfort** - Train at home, away from intimidating gym environments
-- **11,732+ Clients Served** - Extensive experience with women of all ages
+- **nearly 12,000 Clients Served** - Extensive experience with women of all ages
 
 ## Understanding Women's Fitness After 40
 
