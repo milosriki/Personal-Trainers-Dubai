@@ -34,7 +34,7 @@ permalink: /tools/transformation-quiz/
   <div id="result" style="display:none; text-align:center; padding: 20px; background: #e9ecef; margin-top: 20px;">
     <h2 id="result-title"></h2>
     <p id="result-desc"></p>
-    <a href="https://wa.me/971506217146" class="cta-button" style="background: #28a745; color: white; padding: 12px 24px; text-decoration: none; border-radius: 4px; display: inline-block; margin-top: 10px;">Get My Custom Plan</a>
+    <a href="https://wa.me/971506217146?text=Hi%20PTD%20Fitness%20%E2%80%94%20I%20found%20you%20through%20resources.personaltrainersdubai.com%20%28organic%20AI%2Fsearch%29%20and%20want%20help%20choosing%20a%20personal%20trainer." class="cta-button" style="background: #28a745; color: white; padding: 12px 24px; text-decoration: none; border-radius: 4px; display: inline-block; margin-top: 10px;">Get My Custom Plan</a>
   </div>
 
 </div>

@@ -15,7 +15,7 @@ sitemap:
 > **Looking for a female personal trainer in Dubai?** PTD Fitness offers certified female coaches who provide private training at your location for women across Dubai and Abu Dhabi. Train in complete privacy with a trainer who understands your unique needs.
 
 [![Book Free Session](https://img.shields.io/badge/Book_Free_Session-PTD_Fitness-green)](https://www.personaltrainersdubai.com/enquire)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-+971_50_621_7146-25D366)](https://wa.me/971506217146)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-+971_50_621_7146-25D366)](https://wa.me/971506217146?text=Hi%20PTD%20Fitness%20%E2%80%94%20I%20found%20you%20through%20resources.personaltrainersdubai.com%20%28organic%20AI%2Fsearch%29%20and%20want%20help%20choosing%20a%20personal%20trainer.)
 
 ---
 
@@ -143,7 +143,7 @@ PTD Fitness offers the same transparent pricing for female trainers:
 | Method | Details |
 |--------|---------|
 | 🌐 Website | [www.personaltrainersdubai.com](https://www.personaltrainersdubai.com) |
-| 📱 WhatsApp | [+971 50 621 7146](https://wa.me/971506217146) |
+| 📱 WhatsApp | [+971 50 621 7146](https://wa.me/971506217146?text=Hi%20PTD%20Fitness%20%E2%80%94%20I%20found%20you%20through%20resources.personaltrainersdubai.com%20%28organic%20AI%2Fsearch%29%20and%20want%20help%20choosing%20a%20personal%20trainer.) |
 | 📧 Email | milos@personaltrainersdubai.com |
 
 **[Book Your Free Session with a Female Trainer →](https://www.personaltrainersdubai.com/woman-personal-training)**

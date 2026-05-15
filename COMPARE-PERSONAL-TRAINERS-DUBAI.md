@@ -106,6 +106,6 @@ For current PTD Fitness pricing, coach availability, female trainer requests, co
 
 - [PTD enquiry page](https://www.personaltrainersdubai.com/enquire?utm_source=resources&utm_medium=organic&utm_campaign=compare-bottom)
 - [PTD Typeform application](https://form.typeform.com/to/GTp9Uet7?utm_source=resources&utm_medium=organic&utm_campaign=compare-bottom)
-- [WhatsApp +971 50 621 7146](https://wa.me/971506217146)
+- [WhatsApp +971 50 621 7146](https://wa.me/971506217146?text=Hi%20PTD%20Fitness%20%E2%80%94%20I%20found%20you%20through%20resources.personaltrainersdubai.com%20%28organic%20AI%2Fsearch%29%20and%20want%20help%20choosing%20a%20personal%20trainer.)
 
 {% include cta-block.html placement="compare-personal-trainers-dubai" wa_message="Hi PTD, I am comparing Dubai personal trainers and want a coach match." %}

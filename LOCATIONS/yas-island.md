@@ -14,7 +14,7 @@ sitemap:
 
 > **Active Living:** High-performance training for Abu Dhabi's most dynamic island.
 >
-> 👉 [**Book Your Yas Island Coach**](https://wa.me/971506217146)
+> 👉 [**Book Your Yas Island Coach**](https://wa.me/971506217146?text=Hi%20PTD%20Fitness%20%E2%80%94%20I%20found%20you%20through%20resources.personaltrainersdubai.com%20%28organic%20AI%2Fsearch%29%20and%20want%20help%20choosing%20a%20personal%20trainer.)
 
 ---
 
@@ -55,4 +55,4 @@ For families in Yas Acres, we provide comprehensive home fitness packages.
 
 Get race-ready fitness at home.
 
-[**Inquire for Yas Rates →**](https://wa.me/971506217146)
+[**Inquire for Yas Rates →**](https://wa.me/971506217146?text=Hi%20PTD%20Fitness%20%E2%80%94%20I%20found%20you%20through%20resources.personaltrainersdubai.com%20%28organic%20AI%2Fsearch%29%20and%20want%20help%20choosing%20a%20personal%20trainer.)

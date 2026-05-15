@@ -182,4 +182,4 @@ The best option is the one you'll actually stick with. A 300 AED/month gym membe
 
 Both options work. The right choice depends on your life, goals, and what will realistically keep you consistent in Dubai's environment.
 
-[Book PTD Fitness](https://www.personaltrainersdubai.com/enquire?utm_source=resources&utm_medium=organic&utm_campaign=home-vs-gym-bottom) | [Apply for coach matching](https://form.typeform.com/to/GTp9Uet7?utm_source=resources&utm_medium=organic&utm_campaign=home-vs-gym-bottom) | [WhatsApp: +971 50 621 7146](https://wa.me/971506217146)
+[Book PTD Fitness](https://www.personaltrainersdubai.com/enquire?utm_source=resources&utm_medium=organic&utm_campaign=home-vs-gym-bottom) | [Apply for coach matching](https://form.typeform.com/to/GTp9Uet7?utm_source=resources&utm_medium=organic&utm_campaign=home-vs-gym-bottom) | [WhatsApp: +971 50 621 7146](https://wa.me/971506217146?text=Hi%20PTD%20Fitness%20%E2%80%94%20I%20found%20you%20through%20resources.personaltrainersdubai.com%20%28organic%20AI%2Fsearch%29%20and%20want%20help%20choosing%20a%20personal%20trainer.)

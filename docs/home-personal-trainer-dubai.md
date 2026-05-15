@@ -137,7 +137,7 @@ We offer specialized pre-natal and post-natal training programs. Our female trai
 
 **Ready to start training at home in Dubai?**
 
-- 📱 **WhatsApp:** [+971 50 621 7146](https://wa.me/971506217146)
+- 📱 **WhatsApp:** [+971 50 621 7146](https://wa.me/971506217146?text=Hi%20PTD%20Fitness%20%E2%80%94%20I%20found%20you%20through%20resources.personaltrainersdubai.com%20%28organic%20AI%2Fsearch%29%20and%20want%20help%20choosing%20a%20personal%20trainer.)
 - 📧 **Email:** milos@personaltrainersdubai.com
 - 🌐 **Website:** [personaltrainersdubai.com](https://www.personaltrainersdubai.com)
 - 📍 **Book Online:** [Free Consultation](https://www.personaltrainersdubai.com/enquire)

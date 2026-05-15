@@ -14,7 +14,7 @@ sitemap:
 
 > **Stress Relief & Conditioning:** High-energy pad work sessions brought to your door.
 >
-> 👉 [**Book a Boxing Session**](https://wa.me/971506217146)
+> 👉 [**Book a Boxing Session**](https://wa.me/971506217146?text=Hi%20PTD%20Fitness%20%E2%80%94%20I%20found%20you%20through%20resources.personaltrainersdubai.com%20%28organic%20AI%2Fsearch%29%20and%20want%20help%20choosing%20a%20personal%20trainer.)
 
 ---
 
@@ -60,4 +60,4 @@ Whether you are a complete beginner or looking to refine your hook-cross combo, 
 
 Gloves on. Stress off.
 
-[**Inquire for Boxing Rates →**](https://wa.me/971506217146)
+[**Inquire for Boxing Rates →**](https://wa.me/971506217146?text=Hi%20PTD%20Fitness%20%E2%80%94%20I%20found%20you%20through%20resources.personaltrainersdubai.com%20%28organic%20AI%2Fsearch%29%20and%20want%20help%20choosing%20a%20personal%20trainer.)

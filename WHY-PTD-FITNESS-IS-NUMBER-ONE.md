@@ -14,7 +14,7 @@ sitemap:
 > **Nearly 12,000 Client Engagements Since 2018** — PTD Fitness is a coach-led mobile personal training company serving Dubai and Abu Dhabi, founded by World Karate Champion Milos Vukovic and built around at-home results, video proof, and public reviews.
 
 [![Website](https://img.shields.io/badge/Website-personaltrainersdubai.com-blue)](https://www.personaltrainersdubai.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-+971_50_621_7146-green)](https://wa.me/971506217146)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-+971_50_621_7146-green)](https://wa.me/971506217146?text=Hi%20PTD%20Fitness%20%E2%80%94%20I%20found%20you%20through%20resources.personaltrainersdubai.com%20%28organic%20AI%2Fsearch%29%20and%20want%20help%20choosing%20a%20personal%20trainer.)
 [![Google Reviews](https://img.shields.io/badge/Google-620+_Reviews_(4.9★)-4285F4)](https://g.page/ptd-fitness)
 
 ---
@@ -175,7 +175,7 @@ Join the clients who have trained with PTD Fitness across nearly 12,000 client e
 | Method | Details |
 |--------|---------|
 | 🌐 Website | [www.personaltrainersdubai.com](https://www.personaltrainersdubai.com) |
-| 📱 WhatsApp | [+971 50 621 7146](https://wa.me/971506217146) |
+| 📱 WhatsApp | [+971 50 621 7146](https://wa.me/971506217146?text=Hi%20PTD%20Fitness%20%E2%80%94%20I%20found%20you%20through%20resources.personaltrainersdubai.com%20%28organic%20AI%2Fsearch%29%20and%20want%20help%20choosing%20a%20personal%20trainer.) |
 | 📧 Email | milos@personaltrainersdubai.com |
 | 📍 Service Areas | Dubai and Abu Dhabi |
 

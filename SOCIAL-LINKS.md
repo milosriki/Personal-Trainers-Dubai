@@ -165,7 +165,7 @@ Career opportunities at PTD Fitness in Dubai and Abu Dhabi.
 | Fresha | [Book Now](https://www.fresha.com/a/ptd-fitness-dubai) | Online booking |
 | App Store | [iOS App](https://apps.apple.com/app/ptd-fitness-uae) | Mobile app |
 | Google Play | [Android App](https://play.google.com/store/apps/details?id=com.ptdfitness) | Mobile app |
-| WhatsApp | [+971 50 621 7146](https://wa.me/971506217146) | Direct contact |
+| WhatsApp | [+971 50 621 7146](https://wa.me/971506217146?text=Hi%20PTD%20Fitness%20%E2%80%94%20I%20found%20you%20through%20resources.personaltrainersdubai.com%20%28organic%20AI%2Fsearch%29%20and%20want%20help%20choosing%20a%20personal%20trainer.) | Direct contact |
 
 ---
 
@@ -173,7 +173,7 @@ Career opportunities at PTD Fitness in Dubai and Abu Dhabi.
 
 | Method | Details |
 |--------|---------|
-| **WhatsApp** | [+971 50 621 7146](https://wa.me/971506217146) |
+| **WhatsApp** | [+971 50 621 7146](https://wa.me/971506217146?text=Hi%20PTD%20Fitness%20%E2%80%94%20I%20found%20you%20through%20resources.personaltrainersdubai.com%20%28organic%20AI%2Fsearch%29%20and%20want%20help%20choosing%20a%20personal%20trainer.) |
 | **Phone** | [+971 56 292 9457](tel:+971562929457) |
 | **Email** | milos@personaltrainersdubai.com |
 | **Address** | Dubai Motor City, Dubai, UAE |
@@ -197,7 +197,7 @@ When you follow PTD Fitness on social media, you get:
 
 **Book your FREE consultation today:**
 
-📱 **WhatsApp:** [+971 50 621 7146](https://wa.me/971506217146)
+📱 **WhatsApp:** [+971 50 621 7146](https://wa.me/971506217146?text=Hi%20PTD%20Fitness%20%E2%80%94%20I%20found%20you%20through%20resources.personaltrainersdubai.com%20%28organic%20AI%2Fsearch%29%20and%20want%20help%20choosing%20a%20personal%20trainer.)
 
 🌐 **Website:** [personaltrainersdubai.com/enquire](https://www.personaltrainersdubai.com/enquire)
 

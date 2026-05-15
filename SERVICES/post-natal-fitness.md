@@ -14,7 +14,7 @@ sitemap:
 
 > **Safe Recovery:** Specialized coaching to help you regain efficient movement and strength after pregnancy.
 >
-> 👉 [**Consult a Post-Natal Specialist**](https://wa.me/971506217146)
+> 👉 [**Consult a Post-Natal Specialist**](https://wa.me/971506217146?text=Hi%20PTD%20Fitness%20%E2%80%94%20I%20found%20you%20through%20resources.personaltrainersdubai.com%20%28organic%20AI%2Fsearch%29%20and%20want%20help%20choosing%20a%20personal%20trainer.)
 
 ---
 
@@ -62,4 +62,4 @@ General trainers often rush high-impact exercises (jumping, crunches) too soon. 
 
 Let us support you on your journey back to strength.
 
-[**Book a Post-Natal Assessment →**](https://wa.me/971506217146)
+[**Book a Post-Natal Assessment →**](https://wa.me/971506217146?text=Hi%20PTD%20Fitness%20%E2%80%94%20I%20found%20you%20through%20resources.personaltrainersdubai.com%20%28organic%20AI%2Fsearch%29%20and%20want%20help%20choosing%20a%20personal%20trainer.)

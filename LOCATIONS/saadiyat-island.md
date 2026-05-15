@@ -14,7 +14,7 @@ sitemap:
 
 > **Cultural District Fitness:** Wellness and Yoga-fused training for Saadiyat residents.
 >
-> 👉 [**Book Your Saadiyat Trainer**](https://wa.me/971506217146)
+> 👉 [**Book Your Saadiyat Trainer**](https://wa.me/971506217146?text=Hi%20PTD%20Fitness%20%E2%80%94%20I%20found%20you%20through%20resources.personaltrainersdubai.com%20%28organic%20AI%2Fsearch%29%20and%20want%20help%20choosing%20a%20personal%20trainer.)
 
 ---
 
@@ -51,4 +51,4 @@ We conduct sunrise sessions on the pristine sands of Mamsha.
 
 Premium coaching on Abu Dhabi's most beautiful island.
 
-[**Check Saadiyat Availability →**](https://wa.me/971506217146)
+[**Check Saadiyat Availability →**](https://wa.me/971506217146?text=Hi%20PTD%20Fitness%20%E2%80%94%20I%20found%20you%20through%20resources.personaltrainersdubai.com%20%28organic%20AI%2Fsearch%29%20and%20want%20help%20choosing%20a%20personal%20trainer.)

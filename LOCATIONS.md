@@ -21,7 +21,7 @@ sitemap:
 
 **Coverage:** 30+ Dubai areas | 8+ Abu Dhabi areas
 
-[Check If We Cover Your Area →](https://wa.me/971506217146)
+[Check If We Cover Your Area →](https://wa.me/971506217146?text=Hi%20PTD%20Fitness%20%E2%80%94%20I%20found%20you%20through%20resources.personaltrainersdubai.com%20%28organic%20AI%2Fsearch%29%20and%20want%20help%20choosing%20a%20personal%20trainer.)
 
 ---
 
@@ -235,7 +235,7 @@ DIFC is Dubai's financial hub. We offer flexible scheduling for busy professiona
 
 We may still be able to help. Contact us to check availability:
 
-📱 **WhatsApp:** [+971 50 621 7146](https://wa.me/971506217146)
+📱 **WhatsApp:** [+971 50 621 7146](https://wa.me/971506217146?text=Hi%20PTD%20Fitness%20%E2%80%94%20I%20found%20you%20through%20resources.personaltrainersdubai.com%20%28organic%20AI%2Fsearch%29%20and%20want%20help%20choosing%20a%20personal%20trainer.)
 
 📧 **Email:** milos@personaltrainersdubai.com
 
@@ -260,7 +260,7 @@ For areas outside our standard coverage, we may be able to accommodate with an a
 
 **Book your free consultation:**
 
-📱 **WhatsApp:** [+971 50 621 7146](https://wa.me/971506217146)
+📱 **WhatsApp:** [+971 50 621 7146](https://wa.me/971506217146?text=Hi%20PTD%20Fitness%20%E2%80%94%20I%20found%20you%20through%20resources.personaltrainersdubai.com%20%28organic%20AI%2Fsearch%29%20and%20want%20help%20choosing%20a%20personal%20trainer.)
 
 📧 **Email:** milos@personaltrainersdubai.com
 

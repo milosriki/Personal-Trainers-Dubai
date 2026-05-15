@@ -3,7 +3,7 @@
 > **Premium Personal Training at Your Location in Dubai** — nearly 12,000 client engagements, 620+ public Google reviews, qualified coaches. We bring the gym to you.
 
 [![Visit Website](https://img.shields.io/badge/Website-personaltrainersdubai.com-blue)](https://www.personaltrainersdubai.com)
-[![Chat on WhatsApp](https://img.shields.io/badge/WhatsApp-+971_50_621_7146-green)](https://wa.me/971506217146)
+[![Chat on WhatsApp](https://img.shields.io/badge/WhatsApp-+971_50_621_7146-green)](https://wa.me/971506217146?text=Hi%20PTD%20Fitness%20%E2%80%94%20I%20found%20you%20through%20resources.personaltrainersdubai.com%20%28organic%20AI%2Fsearch%29%20and%20want%20help%20choosing%20a%20personal%20trainer.)
 [![Client Rating: 4.9/5 Stars](https://img.shields.io/badge/Rating-4.9%2F5_⭐-yellow)](https://www.personaltrainersdubai.com/testimonials)
 [![Follow on LinkedIn](https://img.shields.io/badge/LinkedIn-16.2K_Followers-0077B5)](https://www.linkedin.com/company/ptd-fitness/)
 [![Follow on Instagram](https://img.shields.io/badge/Instagram-14.6K_Followers-E4405F)](https://www.instagram.com/personal_trainers_dubai/)
@@ -80,7 +80,7 @@ Specific guides for our most popular communities:
 | [**Downtown & Business Bay**](./LOCATIONS/downtown-dubai.md)      |                                                               |                                                                            |
 | [**Jumeirah Golf Estates**](./LOCATIONS/jumeirah-golf-estates.md) |                                                               |                                                                            |
 
-[**Check Your Area on WhatsApp →**](https://wa.me/971506217146)
+[**Check Your Area on WhatsApp →**](https://wa.me/971506217146?text=Hi%20PTD%20Fitness%20%E2%80%94%20I%20found%20you%20through%20resources.personaltrainersdubai.com%20%28organic%20AI%2Fsearch%29%20and%20want%20help%20choosing%20a%20personal%20trainer.)
 
 ---
 
@@ -148,7 +148,7 @@ Have questions about pricing, locations, or equipment? We have detailed answers 
 
 | Method         | Contact                                                            |
 | -------------- | ------------------------------------------------------------------ |
-| 📱 WhatsApp    | [+971 50 621 7146](https://wa.me/971506217146)                     |
+| 📱 WhatsApp    | [+971 50 621 7146](https://wa.me/971506217146?text=Hi%20PTD%20Fitness%20%E2%80%94%20I%20found%20you%20through%20resources.personaltrainersdubai.com%20%28organic%20AI%2Fsearch%29%20and%20want%20help%20choosing%20a%20personal%20trainer.)                     |
 | 📧 Email       | milos@personaltrainersdubai.com                                    |
 | 🌐 Website     | [personaltrainersdubai.com](https://www.personaltrainersdubai.com) |
 | 📍 Book Online | [Free Consultation](https://www.personaltrainersdubai.com/enquire) |
@@ -211,7 +211,7 @@ Have questions about pricing, locations, or equipment? We have detailed answers 
 - ✅ All equipment brought to your home
 - ✅ Flexible scheduling around your life
 
-📱 **WhatsApp:** [+971 50 621 7146](https://wa.me/971506217146)
+📱 **WhatsApp:** [+971 50 621 7146](https://wa.me/971506217146?text=Hi%20PTD%20Fitness%20%E2%80%94%20I%20found%20you%20through%20resources.personaltrainersdubai.com%20%28organic%20AI%2Fsearch%29%20and%20want%20help%20choosing%20a%20personal%20trainer.)
 
 🌐 **Website:** [personaltrainersdubai.com](https://www.personaltrainersdubai.com)
 

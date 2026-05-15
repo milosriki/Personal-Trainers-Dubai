@@ -14,7 +14,7 @@ sitemap:
 
 > **Active Living:** Join the most active community in Dubai with PTD Fitness.
 >
-> 👉 [**Book Your Dubai Hills Coach**](https://wa.me/971506217146)
+> 👉 [**Book Your Dubai Hills Coach**](https://wa.me/971506217146?text=Hi%20PTD%20Fitness%20%E2%80%94%20I%20found%20you%20through%20resources.personaltrainersdubai.com%20%28organic%20AI%2Fsearch%29%20and%20want%20help%20choosing%20a%20personal%20trainer.)
 
 ---
 
@@ -52,4 +52,4 @@ From the cozy layouts of Maple to the grand halls of Parkway Vistas, our trainer
 
 Join your neighbors who are already training with us.
 
-[**WhatsApp Us for Dubai Hills Rates →**](https://wa.me/971506217146)
+[**WhatsApp Us for Dubai Hills Rates →**](https://wa.me/971506217146?text=Hi%20PTD%20Fitness%20%E2%80%94%20I%20found%20you%20through%20resources.personaltrainersdubai.com%20%28organic%20AI%2Fsearch%29%20and%20want%20help%20choosing%20a%20personal%20trainer.)

@@ -104,4 +104,4 @@ Price matters, but it's not everything. A trainer at 350 AED who gets results be
 
 Ready to find your trainer? Reach out and discuss your goals with a qualified coach.
 
-[WhatsApp: +971 50 621 7146](https://wa.me/971506217146) | [personaltrainersdubai.com](https://www.personaltrainersdubai.com)
+[WhatsApp: +971 50 621 7146](https://wa.me/971506217146?text=Hi%20PTD%20Fitness%20%E2%80%94%20I%20found%20you%20through%20resources.personaltrainersdubai.com%20%28organic%20AI%2Fsearch%29%20and%20want%20help%20choosing%20a%20personal%20trainer.) | [personaltrainersdubai.com](https://www.personaltrainersdubai.com)

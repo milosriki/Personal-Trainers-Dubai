@@ -14,7 +14,7 @@ sitemap:
 
 > **Quick Answer:** Living in **Dubai Marina** or **JBR**? You don't need to fight traffic to get to the gym. PTD Fitness sends certified personal trainers directly to your tower, apartment gym, or outdoor spot.
 >
-> 👉 [**Book Your Marina Trainer via WhatsApp**](https://wa.me/971506217146)
+> 👉 [**Book Your Marina Trainer via WhatsApp**](https://wa.me/971506217146?text=Hi%20PTD%20Fitness%20%E2%80%94%20I%20found%20you%20through%20resources.personaltrainersdubai.com%20%28organic%20AI%2Fsearch%29%20and%20want%20help%20choosing%20a%20personal%20trainer.)
 
 ---
 
@@ -66,4 +66,4 @@ Our team in this area specializes in **Fat Loss**, **Muscle Building**, and **Po
 
 Skip the commute. Train where you live.
 
-[**Check Availability in Dubai Marina →**](https://wa.me/971506217146)
+[**Check Availability in Dubai Marina →**](https://wa.me/971506217146?text=Hi%20PTD%20Fitness%20%E2%80%94%20I%20found%20you%20through%20resources.personaltrainersdubai.com%20%28organic%20AI%2Fsearch%29%20and%20want%20help%20choosing%20a%20personal%20trainer.)

@@ -14,7 +14,7 @@ sitemap:
 
 > **Urban Island Living:** Convenient, high-quality training for Al Reem residents.
 >
-> 👉 [**Book Your Al Reem Trainer**](https://wa.me/971506217146)
+> 👉 [**Book Your Al Reem Trainer**](https://wa.me/971506217146?text=Hi%20PTD%20Fitness%20%E2%80%94%20I%20found%20you%20through%20resources.personaltrainersdubai.com%20%28organic%20AI%2Fsearch%29%20and%20want%20help%20choosing%20a%20personal%20trainer.)
 
 ---
 
@@ -55,4 +55,4 @@ We love utilizing the outdoor spaces on Reem.
 
 Great living deserves great training.
 
-[**Check Al Reem Availability →**](https://wa.me/971506217146)
+[**Check Al Reem Availability →**](https://wa.me/971506217146?text=Hi%20PTD%20Fitness%20%E2%80%94%20I%20found%20you%20through%20resources.personaltrainersdubai.com%20%28organic%20AI%2Fsearch%29%20and%20want%20help%20choosing%20a%20personal%20trainer.)

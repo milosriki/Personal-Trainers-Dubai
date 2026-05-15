@@ -14,7 +14,7 @@ sitemap:
 
 > **Capital Fitness:** Elite training in the heart of Abu Dhabi.
 >
-> 👉 [**Book Your Corniche Trainer**](https://wa.me/971506217146)
+> 👉 [**Book Your Corniche Trainer**](https://wa.me/971506217146?text=Hi%20PTD%20Fitness%20%E2%80%94%20I%20found%20you%20through%20resources.personaltrainersdubai.com%20%28organic%20AI%2Fsearch%29%20and%20want%20help%20choosing%20a%20personal%20trainer.)
 
 ---
 
@@ -54,4 +54,4 @@ For residents of **Khalidiya** and the areas near **Emirates Palace**, we provid
 
 Train where the city meets the sea.
 
-[**Inquire for Corniche Rates →**](https://wa.me/971506217146)
+[**Inquire for Corniche Rates →**](https://wa.me/971506217146?text=Hi%20PTD%20Fitness%20%E2%80%94%20I%20found%20you%20through%20resources.personaltrainersdubai.com%20%28organic%20AI%2Fsearch%29%20and%20want%20help%20choosing%20a%20personal%20trainer.)

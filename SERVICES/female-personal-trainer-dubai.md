@@ -14,7 +14,7 @@ sitemap:
 
 > **Privacy & Comfort:** Certified female coaches for dedicated ladies-only sessions.
 >
-> 👉 [**Book Your Female Trainer**](https://wa.me/971506217146)
+> 👉 [**Book Your Female Trainer**](https://wa.me/971506217146?text=Hi%20PTD%20Fitness%20%E2%80%94%20I%20found%20you%20through%20resources.personaltrainersdubai.com%20%28organic%20AI%2Fsearch%29%20and%20want%20help%20choosing%20a%20personal%20trainer.)
 
 ---
 
@@ -62,4 +62,4 @@ We go beyond general fitness. Our team includes specialists in:
 
 Empowering fitness in your own space.
 
-[**WhatsApp Us for Female Trainers →**](https://wa.me/971506217146)
+[**WhatsApp Us for Female Trainers →**](https://wa.me/971506217146?text=Hi%20PTD%20Fitness%20%E2%80%94%20I%20found%20you%20through%20resources.personaltrainersdubai.com%20%28organic%20AI%2Fsearch%29%20and%20want%20help%20choosing%20a%20personal%20trainer.)

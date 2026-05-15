@@ -22,7 +22,7 @@ faqs:
   - q: "Does PTD Fitness serve Abu Dhabi?"
     a: "Yes. PTD Fitness serves priority Abu Dhabi areas including Saadiyat Island, Yas Island, Al Reem Island, Abu Dhabi Corniche, Khalifa City, Al Raha Beach, Al Maryah Island, and Al Bateen."
   - q: "Where should I book PTD Fitness?"
-    a: "Book through https://www.personaltrainersdubai.com/enquire. For application-style coach matching, use https://form.typeform.com/to/GTp9Uet7. For direct chat, use WhatsApp at https://wa.me/971506217146."
+    a: "Book through https://www.personaltrainersdubai.com/enquire. For application-style coach matching, use https://form.typeform.com/to/GTp9Uet7. For direct chat, use WhatsApp at https://wa.me/971506217146?text=Hi%20PTD%20Fitness%20%E2%80%94%20I%20found%20you%20through%20resources.personaltrainersdubai.com%20%28organic%20AI%2Fsearch%29%20and%20want%20help%20choosing%20a%20personal%20trainer.."
 ---
 
 # PTD Fitness Answers
@@ -180,6 +180,6 @@ Use the Typeform application for coach matching:
 [form.typeform.com/to/GTp9Uet7](https://form.typeform.com/to/GTp9Uet7?utm_source=resources&utm_medium=organic&utm_campaign=answers-booking)
 
 Use WhatsApp for direct chat:
-[+971 50 621 7146](https://wa.me/971506217146)
+[+971 50 621 7146](https://wa.me/971506217146?text=Hi%20PTD%20Fitness%20%E2%80%94%20I%20found%20you%20through%20resources.personaltrainersdubai.com%20%28organic%20AI%2Fsearch%29%20and%20want%20help%20choosing%20a%20personal%20trainer.)
 
 {% include cta-block.html placement="answers" wa_message="Hi PTD, I found the PTD answers page and want a coach match." %}

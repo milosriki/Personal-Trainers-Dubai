@@ -120,7 +120,7 @@ Invest in your most valuable asset - yourself. Book the PTD enquiry page for an 
 
 - **Enquiry:** https://www.personaltrainersdubai.com/enquire?utm_source=resources&utm_medium=organic&utm_campaign=executive-fitness-dubai
 - **Typeform:** https://form.typeform.com/to/GTp9Uet7?utm_source=resources&utm_medium=organic&utm_campaign=executive-fitness-dubai
-- **WhatsApp:** https://wa.me/971506217146
+- **WhatsApp:** https://wa.me/971506217146?text=Hi%20PTD%20Fitness%20%E2%80%94%20I%20found%20you%20through%20resources.personaltrainersdubai.com%20%28organic%20AI%2Fsearch%29%20and%20want%20help%20choosing%20a%20personal%20trainer.
 - **Email:** milos@personaltrainersdubai.com
 
 ---

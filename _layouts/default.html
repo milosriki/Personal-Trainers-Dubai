@@ -23,7 +23,7 @@
     </p>
     <p>
       Money site: <a href="{{ site.money_site }}" rel="noopener">{{ site.money_site | remove: 'https://' }}</a>
-      &nbsp;|&nbsp; WhatsApp: <a href="https://wa.me/{{ site.brand.whatsapp_wa_me }}">{{ site.brand.whatsapp_e164 }}</a>
+      &nbsp;|&nbsp; WhatsApp: <a href="https://wa.me/{{ site.brand.whatsapp_wa_me }}?text=Hi%20PTD%20Fitness%20%E2%80%94%20I%20found%20you%20through%20resources.personaltrainersdubai.com%20%28organic%20AI%2Fsearch%29%20and%20want%20help%20choosing%20a%20personal%20trainer.">{{ site.brand.whatsapp_e164 }}</a>
       &nbsp;|&nbsp; Phone: <a href="tel:{{ site.brand.phone | remove: ' ' }}">{{ site.brand.phone }}</a>
       &nbsp;|&nbsp; Email: <a href="mailto:{{ site.brand.email }}">{{ site.brand.email }}</a>
     </p>
@@ -34,5 +34,7 @@
     </p>
     <p><em>© {{ site.time | date: '%Y' }} PTD Fitness. All rights reserved.</em></p>
   </footer>
+  <script src="{{ '/tracking-config.js' | relative_url }}?v={{ site.time | date: '%Y%m%d%H%M' }}"></script>
+  <script src="{{ '/tracking.js' | relative_url }}?v={{ site.time | date: '%Y%m%d%H%M' }}" defer></script>
 </body>
 </html>

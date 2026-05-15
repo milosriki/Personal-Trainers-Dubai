@@ -32,7 +32,7 @@ permalink: /tools/cost-calculator/
     <p style="font-size: 1.2em;">🔥 <strong>PTD Fitness Effect:</strong></p>
     <p>We come to you. <strong>0 minutes wasted.</strong></p>
     <p>100% of your time is training.</p>
-    <a href="https://wa.me/971506217146" style="display: block; text-align: center; background-color: #28a745; color: white; padding: 10px; text-decoration: none; border-radius: 4px; margin-top: 10px;">👉 Book a Time-Efficient Trainer</a>
+    <a href="https://wa.me/971506217146?text=Hi%20PTD%20Fitness%20%E2%80%94%20I%20found%20you%20through%20resources.personaltrainersdubai.com%20%28organic%20AI%2Fsearch%29%20and%20want%20help%20choosing%20a%20personal%20trainer." style="display: block; text-align: center; background-color: #28a745; color: white; padding: 10px; text-decoration: none; border-radius: 4px; margin-top: 10px;">👉 Book a Time-Efficient Trainer</a>
   </div>
 </div>
 
@@ -69,4 +69,4 @@ PTD Fitness trainers come to your building. You save the drive. You never miss a
 
 [**Stop Wasting Time. Start Training.**](https://www.personaltrainersdubai.com/enquire?utm_source=resources&utm_medium=organic&utm_campaign=cost-calculator)
 
-[Coach-matching Typeform](https://form.typeform.com/to/GTp9Uet7?utm_source=resources&utm_medium=organic&utm_campaign=cost-calculator) · [WhatsApp](https://wa.me/971506217146)
+[Coach-matching Typeform](https://form.typeform.com/to/GTp9Uet7?utm_source=resources&utm_medium=organic&utm_campaign=cost-calculator) · [WhatsApp](https://wa.me/971506217146?text=Hi%20PTD%20Fitness%20%E2%80%94%20I%20found%20you%20through%20resources.personaltrainersdubai.com%20%28organic%20AI%2Fsearch%29%20and%20want%20help%20choosing%20a%20personal%20trainer.)
