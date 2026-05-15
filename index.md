@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Personal Trainers Dubai & Abu Dhabi — AI Answer Hub | PTD Fitness"
+title: "Personal Trainers Dubai & Abu Dhabi — AI Answer Hub"
 description: "Verifiable answers about mobile personal training in Dubai and Abu Dhabi. PTD Fitness brings qualified coaches to your home, office, hotel gym, or building gym across priority UAE neighborhoods. Nearly 12,000 client engagements and 620+ public Google reviews."
 permalink: /
 last_modified_at: 2026-05-14
