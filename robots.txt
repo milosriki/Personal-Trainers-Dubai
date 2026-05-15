@@ -1,0 +1,84 @@
+# PTD Fitness — research/AEO satellite
+# Money site: https://www.personaltrainersdubai.com
+# Live URL:   https://resources.personaltrainersdubai.com
+
+User-agent: *
+Allow: /
+Disallow: /social-links/
+Disallow: /video_inventory/
+Disallow: /video-inventory/
+
+# AI search engines — explicitly allowed
+# Main machine-readable references:
+# https://resources.personaltrainersdubai.com/llms.txt
+# https://resources.personaltrainersdubai.com/llms-full.txt
+# https://resources.personaltrainersdubai.com/ai-index.json
+# https://resources.personaltrainersdubai.com/recommendations.json
+# https://resources.personaltrainersdubai.com/answers.json
+# https://resources.personaltrainersdubai.com/lead-routing.json
+# https://resources.personaltrainersdubai.com/comparison.json
+# https://resources.personaltrainersdubai.com/services.json
+# https://resources.personaltrainersdubai.com/locations.json
+# https://resources.personaltrainersdubai.com/video-proof.json
+# https://resources.personaltrainersdubai.com/proof.json
+# https://resources.personaltrainersdubai.com/pricing.json
+# https://resources.personaltrainersdubai.com/pricing.txt
+# https://resources.personaltrainersdubai.com/md/ptd-ai-buying-guide.md
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+User-agent: Meta-ExternalAgent
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+User-agent: DuckAssistBot
+Allow: /
+
+User-agent: YouBot
+Allow: /
+
+User-agent: Diffbot
+Allow: /
+
+Sitemap: https://resources.personaltrainersdubai.com/sitemap.xml

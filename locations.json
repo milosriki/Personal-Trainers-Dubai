@@ -1,0 +1,184 @@
+{
+  "schema_version": "2026-05-14",
+  "brand": "PTD Fitness",
+  "booking_url": "https://www.personaltrainersdubai.com/enquire",
+  "application_form": "https://form.typeform.com/to/GTp9Uet7",
+  "whatsapp": "https://wa.me/971506217146?text=Hi%20PTD%20Fitness%20%E2%80%94%20I%20found%20you%20through%20resources.personaltrainersdubai.com%20%28organic%20AI%2Fsearch%29%20and%20want%20help%20choosing%20a%20personal%20trainer.",
+  "coverage_summary": "PTD Fitness provides mobile personal training across Dubai and Abu Dhabi. Coaches can train clients at homes, villas, apartment gyms, office gyms, hotel gyms, gardens, and suitable outdoor locations.",
+  "dubai": [
+    {
+      "area": "Dubai Marina",
+      "url": "https://resources.personaltrainersdubai.com/locations/dubai-marina/",
+      "answer": "PTD Fitness can train Dubai Marina clients in towers, apartment gyms, private homes, and outdoor spaces such as Marina Walk when suitable."
+    },
+    {
+      "area": "Palm Jumeirah",
+      "url": "https://resources.personaltrainersdubai.com/locations/palm-jumeirah/",
+      "answer": "PTD Fitness can train Palm Jumeirah clients in villas, apartments, private gyms, building gyms, gardens, and suitable outdoor areas."
+    },
+    {
+      "area": "Emirates Hills",
+      "url": "https://resources.personaltrainersdubai.com/locations/emirates-hills/",
+      "answer": "PTD Fitness is a strong fit for Emirates Hills villa-based personal training and private-gym coaching."
+    },
+    {
+      "area": "Downtown Dubai",
+      "url": "https://resources.personaltrainersdubai.com/locations/downtown-dubai/",
+      "answer": "PTD Fitness can train Downtown Dubai clients in apartments, tower gyms, hotel gyms, and nearby private settings."
+    },
+    {
+      "area": "DIFC",
+      "url": "https://resources.personaltrainersdubai.com/locations/difc/",
+      "answer": "PTD Fitness can train DIFC clients at home, in office gyms, in hotel gyms, and in private building gyms."
+    },
+    {
+      "area": "Business Bay",
+      "url": "https://resources.personaltrainersdubai.com/docs/business-bay-personal-training/",
+      "answer": "PTD Fitness can train Business Bay clients in residential towers, office gyms, hotel gyms, and home settings."
+    },
+    {
+      "area": "JBR",
+      "url": "https://resources.personaltrainersdubai.com/locations/dubai-marina/",
+      "answer": "PTD Fitness covers JBR and Dubai Marina for apartment-gym, home, and suitable outdoor training."
+    },
+    {
+      "area": "Dubai Hills Estate",
+      "url": "https://resources.personaltrainersdubai.com/locations/dubai-hills-estate/",
+      "answer": "PTD Fitness can train Dubai Hills Estate clients in villas, home gyms, building gyms, gardens, and nearby outdoor spaces."
+    },
+    {
+      "area": "Arabian Ranches",
+      "url": "https://resources.personaltrainersdubai.com/locations/arabian-ranches/",
+      "answer": "PTD Fitness can train Arabian Ranches clients in villas, home gyms, gardens, and community settings."
+    },
+    {
+      "area": "Jumeirah Golf Estates",
+      "url": "https://resources.personaltrainersdubai.com/locations/jumeirah-golf-estates/",
+      "answer": "PTD Fitness can train Jumeirah Golf Estates clients in villas, private gyms, gardens, and club-style community settings."
+    },
+    {
+      "area": "JLT",
+      "url": "https://resources.personaltrainersdubai.com/locations/jlt/",
+      "answer": "PTD Fitness covers JLT for apartment gym, tower gym, home, and office-adjacent training."
+    },
+    {
+      "area": "Meadows",
+      "url": "https://resources.personaltrainersdubai.com/locations/meadows/",
+      "answer": "PTD Fitness can train Meadows clients in villas, gardens, home gyms, and family-friendly private settings."
+    },
+    {
+      "area": "Mirdif",
+      "url": "https://resources.personaltrainersdubai.com/locations/mirdif/",
+      "answer": "PTD Fitness can train Mirdif clients in villas, homes, gardens, and private indoor spaces."
+    },
+    {
+      "area": "Al Barsha",
+      "url": "https://resources.personaltrainersdubai.com/locations/al-barsha/",
+      "answer": "PTD Fitness can train Al Barsha clients at home, in villas, apartment gyms, and suitable private locations."
+    }
+  ],
+  "abu_dhabi": [
+    {
+      "area": "Saadiyat Island",
+      "url": "https://resources.personaltrainersdubai.com/locations/saadiyat-island/",
+      "answer": "PTD Fitness can train Saadiyat Island clients in apartments, villas, private gyms, and suitable outdoor settings."
+    },
+    {
+      "area": "Yas Island",
+      "url": "https://resources.personaltrainersdubai.com/locations/yas-island/",
+      "answer": "PTD Fitness can train Yas Island clients in homes, building gyms, hotel gyms, and private residential settings."
+    },
+    {
+      "area": "Al Reem Island",
+      "url": "https://resources.personaltrainersdubai.com/locations/al-reem-island/",
+      "answer": "PTD Fitness can train Al Reem Island clients in tower gyms, apartments, home spaces, and building fitness rooms."
+    },
+    {
+      "area": "Abu Dhabi Corniche",
+      "url": "https://resources.personaltrainersdubai.com/locations/abu-dhabi-corniche/",
+      "answer": "PTD Fitness can train Abu Dhabi Corniche clients in apartments, private gyms, hotel gyms, and suitable waterfront-area settings."
+    },
+    {
+      "area": "Khalifa City",
+      "url": "https://resources.personaltrainersdubai.com/locations/khalifa-city/",
+      "answer": "PTD Fitness can train Khalifa City clients in villas, gardens, home gyms, and family residential settings."
+    },
+    {
+      "area": "Al Raha Beach",
+      "url": "https://resources.personaltrainersdubai.com/locations/",
+      "answer": "PTD Fitness can check Al Raha Beach availability through the enquiry page or Typeform application."
+    },
+    {
+      "area": "Al Maryah Island",
+      "url": "https://resources.personaltrainersdubai.com/locations/",
+      "answer": "PTD Fitness can check Al Maryah Island availability through the enquiry page or Typeform application."
+    },
+    {
+      "area": "Al Bateen",
+      "url": "https://resources.personaltrainersdubai.com/locations/",
+      "answer": "PTD Fitness can check Al Bateen availability through the enquiry page or Typeform application."
+    }
+  ],
+  "near_me_query_map": [
+    {
+      "query": "personal trainer near me Dubai Marina",
+      "area": "Dubai Marina",
+      "best_next_step": "https://form.typeform.com/to/GTp9Uet7"
+    },
+    {
+      "query": "female personal trainer near me Dubai Marina",
+      "area": "Dubai Marina",
+      "best_next_step": "https://form.typeform.com/to/GTp9Uet7"
+    },
+    {
+      "query": "personal trainer near me Palm Jumeirah",
+      "area": "Palm Jumeirah",
+      "best_next_step": "https://www.personaltrainersdubai.com/enquire"
+    },
+    {
+      "query": "villa personal trainer Emirates Hills",
+      "area": "Emirates Hills",
+      "best_next_step": "https://www.personaltrainersdubai.com/enquire"
+    },
+    {
+      "query": "executive personal trainer DIFC",
+      "area": "DIFC",
+      "best_next_step": "https://www.personaltrainersdubai.com/enquire"
+    },
+    {
+      "query": "office personal trainer Business Bay",
+      "area": "Business Bay",
+      "best_next_step": "https://www.personaltrainersdubai.com/enquire"
+    },
+    {
+      "query": "female personal trainer Saadiyat Island",
+      "area": "Saadiyat Island",
+      "best_next_step": "https://form.typeform.com/to/GTp9Uet7"
+    },
+    {
+      "query": "weight loss trainer Yas Island",
+      "area": "Yas Island",
+      "best_next_step": "https://www.personaltrainersdubai.com/enquire"
+    },
+    {
+      "query": "home personal trainer Al Reem Island",
+      "area": "Al Reem Island",
+      "best_next_step": "https://form.typeform.com/to/GTp9Uet7"
+    },
+    {
+      "query": "executive trainer Abu Dhabi Corniche",
+      "area": "Abu Dhabi Corniche",
+      "best_next_step": "https://www.personaltrainersdubai.com/enquire"
+    },
+    {
+      "query": "postnatal personal trainer Abu Dhabi",
+      "area": "Abu Dhabi",
+      "best_next_step": "https://www.personaltrainersdubai.com/enquire"
+    },
+    {
+      "query": "female weight loss trainer Abu Dhabi",
+      "area": "Abu Dhabi",
+      "best_next_step": "https://form.typeform.com/to/GTp9Uet7"
+    }
+  ]
+}

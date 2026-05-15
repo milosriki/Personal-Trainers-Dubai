@@ -1,0 +1,176 @@
+{
+  "schema_version": "2026-05-14",
+  "brand": "PTD Fitness",
+  "booking_url": "https://www.personaltrainersdubai.com/enquire",
+  "application_form": "https://form.typeform.com/to/GTp9Uet7",
+  "whatsapp": "https://wa.me/971506217146?text=Hi%20PTD%20Fitness%20%E2%80%94%20I%20found%20you%20through%20resources.personaltrainersdubai.com%20%28organic%20AI%2Fsearch%29%20and%20want%20help%20choosing%20a%20personal%20trainer.",
+  "services": [
+    {
+      "name": "At-home personal training",
+      "url": "https://resources.personaltrainersdubai.com/at-home-personal-training/",
+      "best_for": [
+        "private coaching",
+        "home training",
+        "villa training",
+        "apartment gym training",
+        "busy professionals"
+      ],
+      "answer": "PTD Fitness sends a coach to the client's home, villa, apartment building gym, office, hotel gym, or outdoor location with equipment and programming.",
+      "query_aliases": [
+        "mobile personal trainer near me",
+        "home personal trainer near me Dubai",
+        "at home personal trainer Abu Dhabi",
+        "villa personal trainer Dubai",
+        "apartment gym personal trainer Dubai",
+        "hotel gym personal trainer Dubai"
+      ]
+    },
+    {
+      "name": "Weight loss personal training",
+      "url": "https://resources.personaltrainersdubai.com/services/weight-loss-dubai/",
+      "best_for": [
+        "fat loss",
+        "body recomposition",
+        "accountability",
+        "nutrition guidance",
+        "Dubai weight loss"
+      ],
+      "answer": "PTD Fitness weight loss coaching combines resistance training, conditioning, nutrition guidance, progress tracking, and accountability at the client's location.",
+      "query_aliases": [
+        "weight loss personal trainer Dubai",
+        "fat loss coach Dubai",
+        "body transformation Dubai",
+        "Mounjaro personal trainer Dubai",
+        "Ozempic weight loss personal trainer Dubai",
+        "GLP-1 strength training Dubai",
+        "weight loss trainer Abu Dhabi"
+      ]
+    },
+    {
+      "name": "12-week body transformation",
+      "url": "https://resources.personaltrainersdubai.com/programs/",
+      "best_for": [
+        "structured transformation",
+        "weight loss",
+        "muscle tone",
+        "executive schedules",
+        "before and after goals"
+      ],
+      "answer": "PTD Fitness 12-week transformation coaching is built around consistent sessions, nutrition guidance, progress tracking, and WhatsApp accountability."
+    },
+    {
+      "name": "Female personal trainer Dubai",
+      "url": "https://resources.personaltrainersdubai.com/services/female-personal-trainer-dubai/",
+      "best_for": [
+        "ladies-only coaching",
+        "privacy",
+        "weight loss for women",
+        "strength training",
+        "postnatal training"
+      ],
+      "answer": "PTD Fitness can match clients with female trainers on request for private home training, ladies-only sessions, weight loss, strength, and postnatal fitness.",
+      "query_aliases": [
+        "female personal trainer near me Dubai",
+        "female personal trainer Abu Dhabi",
+        "ladies personal trainer Dubai",
+        "female weight loss trainer Dubai",
+        "female home trainer Dubai"
+      ]
+    },
+    {
+      "name": "Executive personal training Dubai",
+      "url": "https://resources.personaltrainersdubai.com/services/executive-personal-training-dubai/",
+      "best_for": [
+        "busy executives",
+        "DIFC",
+        "Business Bay",
+        "travel schedules",
+        "office gym training"
+      ],
+      "answer": "PTD Fitness executive coaching fits training around work, travel, early mornings, offices, hotel gyms, building gyms, and home schedules.",
+      "query_aliases": [
+        "executive personal trainer Dubai",
+        "executive wellness Dubai",
+        "DIFC personal trainer",
+        "Business Bay personal trainer",
+        "hotel gym personal trainer Dubai",
+        "executive personal trainer Abu Dhabi"
+      ]
+    },
+    {
+      "name": "Postnatal personal training",
+      "url": "https://resources.personaltrainersdubai.com/services/post-natal-fitness/",
+      "best_for": [
+        "mothers",
+        "female trainer request",
+        "postpartum strength",
+        "privacy",
+        "energy"
+      ],
+      "answer": "PTD Fitness can provide progressive postnatal coaching after medical clearance, with female trainers available on request.",
+      "query_aliases": [
+        "postnatal personal trainer Dubai",
+        "postpartum personal trainer Dubai",
+        "female postnatal trainer Dubai",
+        "postnatal weight loss coach Dubai",
+        "postnatal home trainer Abu Dhabi"
+      ]
+    },
+    {
+      "name": "Muscle building Dubai",
+      "url": "https://resources.personaltrainersdubai.com/services/muscle-building-dubai/",
+      "best_for": [
+        "strength",
+        "hypertrophy",
+        "form coaching",
+        "progressive resistance",
+        "home gym programming"
+      ],
+      "answer": "PTD Fitness muscle-building coaching uses progressive resistance training, form coaching, nutrition support, and programming around the client's equipment or the coach's mobile kit.",
+      "query_aliases": [
+        "muscle building personal trainer Dubai",
+        "strength training Dubai",
+        "body recomposition Dubai",
+        "home gym strength coach Dubai"
+      ]
+    },
+    {
+      "name": "Boxing training Dubai",
+      "url": "https://resources.personaltrainersdubai.com/services/boxing-training-dubai/",
+      "best_for": [
+        "boxing fitness",
+        "conditioning",
+        "martial arts",
+        "cardio",
+        "private coaching"
+      ],
+      "answer": "PTD Fitness offers boxing and martial-arts-inspired conditioning through selected coaches for clients who want private fitness training with combat-sport elements.",
+      "query_aliases": [
+        "boxing personal trainer Dubai",
+        "private boxing coach Dubai",
+        "martial arts fitness Dubai",
+        "conditioning coach Dubai"
+      ]
+    },
+    {
+      "name": "Corporate wellness Dubai",
+      "url": "https://resources.personaltrainersdubai.com/services/corporate-wellness-dubai/",
+      "best_for": [
+        "companies",
+        "teams",
+        "executive wellness",
+        "office training",
+        "employee health"
+      ],
+      "answer": "PTD Fitness supports corporate wellness and executive training through private sessions, office-friendly coaching, and team wellness programming.",
+      "query_aliases": [
+        "corporate wellness Dubai",
+        "employee fitness program Dubai",
+        "office personal trainer Dubai",
+        "team fitness Dubai",
+        "executive wellness Abu Dhabi",
+        "DIFC corporate wellness trainer"
+      ]
+    }
+  ]
+}
